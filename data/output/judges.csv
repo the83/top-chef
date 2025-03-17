@@ -1,0 +1,793 @@
+,season,seasonNumber,series,episode,challengeType,outcomeType,guestJudge,gender,personOfColor,competedOnTC,otherShows
+0,Canada 6,6.0,Canada,2.0,Quickfire,Individual,Danny Bowien,male,,,
+1,Canada 6,6.0,Canada,2.0,Elimination,Individual,Lynn Crawford,female,,,Top Chef Masters Season 5
+2,Canada 6,6.0,Canada,3.0,Quickfire,Individual,Peter Meehan,male,,,
+3,Canada 6,6.0,Canada,3.0,Elimination,Individual,Carlos Gaytan,male,POC,Yes,
+4,Canada 6,6.0,Canada,4.0,Quickfire,Individual,Mark McEwan,male,,,
+5,Canada 6,6.0,Canada,4.0,Quickfire,Individual,Rob Gentile,male,,,
+6,Canada 6,6.0,Canada,4.0,Elimination,Team,Ruth Reichl,female,,,Top Chef Masters Season 3 Judge
+7,Canada 6,6.0,Canada,5.0,Quickfire,Individual,Brandon Olsen,male,,,
+8,Canada 6,6.0,Canada,5.0,Elimination,Team,Alexandra Feswick,female,,,
+9,Canada 6,6.0,Canada,6.0,Quickfire,Individual,Nicole Gomes,female,POC,Top Chef Season 20,Top Chef Canada
+10,Canada 6,6.0,Canada,6.0,Elimination,Individual,Evan Funke,male,,,
+11,Canada 6,6.0,Canada,7.0,Quickfire,Individual,Amanda Cohen,female,,,
+12,Canada 6,6.0,Canada,7.0,Elimination,Individual,Dustin Gallagher,male,,,
+13,San Francisco,1.0,US,1.0,Quickfire,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+14,San Francisco,1.0,US,1.0,Quickfire,Individual,Tom Colicchio,male,,,
+15,San Francisco,1.0,US,1.0,Elimination,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+16,San Francisco,1.0,US,2.0,Quickfire,Individual,Elizabeth Falkner,female,,,"Top Chef Masters Season 1, Tournament of Champions"
+17,San Francisco,1.0,US,2.0,Elimination,Individual,Elizabeth Falkner,female,,,"Top Chef Masters Season 1, Tournament of Champions"
+18,San Francisco,1.0,US,2.0,Elimination,Individual,Madame S.,female,,,
+19,San Francisco,1.0,US,3.0,Quickfire,Individual,Laurent Manrique,male,,,
+20,San Francisco,1.0,US,3.0,Elimination,Team,Boys & Girls Club,-,,,
+21,San Francisco,1.0,US,3.0,Elimination,Team,Laurent Manrique,male,,,
+22,San Francisco,1.0,US,4.0,Quickfire,Individual,Jefferson Hill,male,,,
+23,San Francisco,1.0,US,4.0,Elimination,Individual,Jefferson Hill,male,,,
+24,San Francisco,1.0,US,4.0,Elimination,Individual,Junior League of Oakland-East Bay,-,,,
+25,San Francisco,1.0,US,5.0,Quickfire,Individual,Mike Yakura,male,POC,,
+26,San Francisco,1.0,US,5.0,Elimination,Team,Mike Yakura,male,POC,,
+27,San Francisco,1.0,US,6.0,Quickfire,Individual,Ted Allen,male,,,Chopped Host
+28,San Francisco,1.0,US,6.0,Elimination,Individual,Ted Allen,male,,,Chopped Host
+29,San Francisco,1.0,US,7.0,Elimination,Team,Jeffrey Chodorow,male,,,
+30,San Francisco,1.0,US,8.0,Elimination,Individual,Marcy Blum,female,,,
+31,San Francisco,1.0,US,11.0,Quickfire elimination,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+32,San Francisco,1.0,US,11.0,Quickfire elimination,Individual,Lee Anne Wong,female,POC,Yes,
+33,San Francisco,1.0,US,11.0,Quickfire elimination,Individual,Miguel Morales,male,POC,Yes,
+34,San Francisco,1.0,US,11.0,Quickfire elimination,Individual,Stephen Asprinio,male,,Yes,
+35,San Francisco,1.0,US,12.0,Elimination,Individual,Lorraine Bracco,female,,,
+36,Los Angeles,2.0,US,1.0,Quickfire,Individual,Harold Dieterle,male,,Yes,
+37,Los Angeles,2.0,US,1.0,Elimination,Individual,Harold Dieterle,male,,Yes,
+38,Los Angeles,2.0,US,2.0,Quickfire,Individual,Hiroshi Shima,male,POC,,
+39,Los Angeles,2.0,US,2.0,Elimination,Team,Ming Tsai,male,POC,,Tournament of Champions Judge
+40,Los Angeles,2.0,US,3.0,Elimination,Individual,Stephen Bugarelli,male,,,
+41,Los Angeles,2.0,US,4.0,Quickfire,Individual,Suzanne Goin,female,,,
+42,Los Angeles,2.0,US,4.0,Elimination,Team,Suzanne Goin,female,,,
+43,Los Angeles,2.0,US,5.0,Quickfire,Individual,Michelle Bernstein,female,,,
+44,Los Angeles,2.0,US,5.0,Elimination,Team,Michelle Bernstein,female,,,
+45,Los Angeles,2.0,US,6.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+46,Los Angeles,2.0,US,7.0,Quickfire,Individual,Raphael Lunetta,male,,,
+47,Los Angeles,2.0,US,7.0,Elimination,Individual,Raphael Lunetta,male,,,
+48,Los Angeles,2.0,US,8.0,Quickfire,Individual,Kristen Woodward,female,,,
+49,Los Angeles,2.0,US,8.0,Elimination,Team,Lee Hefter,male,,,
+50,Los Angeles,2.0,US,8.0,Elimination,Team,Ted Allen,male,,,Chopped Host
+51,Los Angeles,2.0,US,9.0,Quickfire,Individual,Ted Allen,male,,,Chopped Host
+52,Los Angeles,2.0,US,9.0,Elimination,Individual,Debi Mazar,female,,,
+53,Los Angeles,2.0,US,9.0,Elimination,Individual,Roberto Ivan,male,POC,,
+54,Los Angeles,2.0,US,9.0,Elimination,Individual,Ted Allen,male,,,Chopped Host
+55,Los Angeles,2.0,US,10.0,Quickfire,Individual,Mike Yakura,male,POC,,
+56,Los Angeles,2.0,US,10.0,Elimination,Team,Mike Yakura,male,POC,,
+57,Los Angeles,2.0,US,11.0,Quickfire,Individual,Eric Ripert,male,,,Yes?
+58,Los Angeles,2.0,US,11.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+59,Los Angeles,2.0,US,12.0,Elimination,Individual,Alan Wong,male,POC,,
+60,Los Angeles,2.0,US,13.0,Elimination,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+61,Los Angeles,2.0,US,13.0,Elimination,Individual,Michelle Bernstein,female,,,
+62,Los Angeles,2.0,US,13.0,Elimination,Individual,Roy Yamaguchi,male,POC,,Top Chef Masters Season 1
+63,Los Angeles,2.0,US,13.0,Elimination,Individual,Scott Conant,male,,,Chopped Judge; Tournament of Champions Judge
+64,Los Angeles,2.0,US,13.0,Elimination,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+65,Miami,3.0,US,1.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+66,Miami,3.0,US,2.0,Quickfire,Individual,Norman van Aken,male,,,
+67,Miami,3.0,US,2.0,Elimination,Individual,Norman van Aken,male,,,
+68,Miami,3.0,US,3.0,Quickfire,Individual,Alfred Portale,male,,,
+69,Miami,3.0,US,3.0,Elimination,Individual,Alfred Portale,male,,,
+70,Miami,3.0,US,4.0,Quickfire,Individual,Jamie Walker,male,,,
+71,Miami,3.0,US,4.0,Elimination,Team,Barton G. Weiss,male,,,
+72,Miami,3.0,US,5.0,Quickfire,Individual,Maria Frumkin,female,,,
+73,Miami,3.0,US,5.0,Elimination,Individual,Maria Frumkin,female,,,
+74,Miami,3.0,US,6.0,Quickfire,Individual,Rocco DiSpirito,male,,,Tournament of Champions Judge & Contestant
+75,Miami,3.0,US,6.0,Elimination,Team,Rocco DiSpirito,male,,,Tournament of Champions Judge & Contestant
+76,Miami,3.0,US,7.0,Quickfire,Individual,Govind Armstrong,male,POC,,Top Chef Masters Season 2
+77,Miami,3.0,US,7.0,Elimination,Team,Govind Armstrong,male,POC,,Top Chef Masters Season 2
+78,Miami,3.0,US,8.0,Quickfire,Individual,Daniel Boulud,male,,,
+79,Miami,3.0,US,8.0,Elimination,Team,Daniel Boulud,male,,,
+80,Miami,3.0,US,9.0,Elimination,Team,Geoffrey Zakarian,male,,,Chopped Judge
+81,Miami,3.0,US,10.0,Quickfire,Individual,Michael Schwartz,male,,,
+82,Miami,3.0,US,10.0,Elimination,Individual,Dana Cowin,female,,,
+83,Miami,3.0,US,10.0,Elimination,Individual,Michael Schwartz,male,,,
+84,Miami,3.0,US,11.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+85,Miami,3.0,US,11.0,Elimination,Individual,Jimmy Canora,male,,,
+86,Miami,3.0,US,12.0,Quickfire,Individual,Sirio Maccioni,male,,,
+87,Miami,3.0,US,12.0,Elimination,Individual,Alain Sailhac,male,,,
+88,Miami,3.0,US,12.0,Elimination,Individual,Andre Soltner,male,,,
+89,Miami,3.0,US,12.0,Elimination,Individual,Cesare Casella,male,POC,,
+90,Miami,3.0,US,12.0,Elimination,Individual,Dorothy Hamilton,female,,,
+91,Miami,3.0,US,12.0,Elimination,Individual,Jacques Torres,male,,,
+92,Miami,3.0,US,12.0,Elimination,Individual,Nils Noren,male,,,Top Chef Masters Season 1
+93,Miami,3.0,US,13.0,Quickfire,Individual,Eric Ripert,male,,,Yes?
+94,Miami,3.0,US,13.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+95,Miami,3.0,US,14.0,Elimination,Individual,Michelle Bernstein,female,,,
+96,Miami,3.0,US,14.0,Elimination,Individual,Rocco DiSpirito,male,,,Tournament of Champions Judge & Contestant
+97,Miami,3.0,US,14.0,Elimination,Individual,Todd English,male,,,
+98,Chicago,4.0,US,1.0,Quickfire,Individual,Rocco DiSpirito,male,,,Tournament of Champions Judge & Contestant
+99,Chicago,4.0,US,1.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+100,Chicago,4.0,US,2.0,Quickfire,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+101,Chicago,4.0,US,2.0,Elimination,Team,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+102,Chicago,4.0,US,3.0,Quickfire,Individual,Rick Bayless,male,,,Top Chef Masters Winner (Season 1)
+103,Chicago,4.0,US,3.0,Elimination,Team,Rick Bayless,male,,,Top Chef Masters Winner (Season 1)
+104,Chicago,4.0,US,4.0,Quickfire,Individual,Daniel Boulud,male,,,
+105,Chicago,4.0,US,4.0,Elimination,Team,Daniel Boulud,male,,,
+106,Chicago,4.0,US,5.0,Quickfire,Individual,Ming Tsai,male,POC,,Tournament of Champions Judge
+107,Chicago,4.0,US,5.0,Elimination,Team,Ming Tsai,male,POC,,Tournament of Champions Judge
+108,Chicago,4.0,US,6.0,Quickfire,Individual,Koren Grieveson,female,,,
+109,Chicago,4.0,US,6.0,Elimination,Team,Paul Kahan,male,,,
+110,Chicago,4.0,US,7.0,Elimination,Team,Johnny Iuzzini,male,,,
+111,Chicago,4.0,US,8.0,Quickfire,Individual,Art Smith,male,,,Top Chef Masters Seasons 1 and 4
+112,Chicago,4.0,US,8.0,Elimination,Individual,Art Smith,male,,,Top Chef Masters Seasons 1 and 4
+113,Chicago,4.0,US,9.0,Quickfire,Team,Gale Gand,female,,,
+114,Chicago,4.0,US,9.0,Elimination,Team,Gale Gand,female,,,
+115,Chicago,4.0,US,10.0,Quickfire,Individual,Sam Talbot,male,,Yes,
+116,Chicago,4.0,US,10.0,Elimination,Individual,Sam Talbot,male,,Yes,
+117,Chicago,4.0,US,11.0,Quickfire,Individual,Haleen Thanas,female,,,
+118,Chicago,4.0,US,11.0,Elimination,Team,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+119,Chicago,4.0,US,11.0,Elimination,Team,Jose Andres,male,POC,,
+120,Chicago,4.0,US,12.0,Quickfire,Individual,Rick Tramonto,male,,,Top Chef Masters Season 2
+121,Chicago,4.0,US,12.0,Elimination,Individual,Harold Dieterle,male,,Yes,
+122,Chicago,4.0,US,12.0,Elimination,Individual,Hung Huynh,male,POC,Yes,
+123,Chicago,4.0,US,12.0,Elimination,Individual,Ilan Hall,male,,Yes,
+124,Chicago,4.0,US,12.0,Elimination,Individual,Rick Tramonto,male,,,Top Chef Masters Season 2
+125,Chicago,4.0,US,13.0,Quickfire,Individual,Wilo Benet,male,,,Top Chef Masters Season 1
+126,Chicago,4.0,US,13.0,Elimination,Individual,Wilo Benet,male,,,Top Chef Masters Season 1
+127,Chicago,4.0,US,14.0,Elimination,Individual,Alfredo Ayala,male,POC,,
+128,Chicago,4.0,US,14.0,Elimination,Individual,April Bloomfield,female,,,
+129,Chicago,4.0,US,14.0,Elimination,Individual,Dan Barber,male,,,
+130,Chicago,4.0,US,14.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+131,Chicago,4.0,US,14.0,Elimination,Individual,Ted Allen,male,,,Chopped Host
+132,Chicago,4.0,US,14.0,Elimination,Individual,Tim Zagat,male,,,
+133,New York,5.0,US,1.0,Elimination,Individual,Jean-Georges Vongerichten,male,,,
+134,New York,5.0,US,2.0,Quickfire,Individual,Donatella Arpaia,female,,,
+135,New York,5.0,US,3.0,Quickfire,Individual,Grant Achatz,male,,,
+136,New York,5.0,US,4.0,Quickfire,Individual,Rocco DiSpirito,male,,,Tournament of Champions Judge & Contestant
+137,New York,5.0,US,4.0,Elimination,Individual,Rocco DiSpirito,male,,,Tournament of Champions Judge & Contestant
+138,New York,5.0,US,5.0,Elimination,Team,Dana Cowin,female,,,
+139,New York,5.0,US,6.0,Quickfire,Individual,Martha Stewart,female,,,
+140,New York,5.0,US,6.0,Elimination,Individual,Michelle Bernstein,female,,,
+141,New York,5.0,US,6.0,Elimination,Individual,Natasha Richardson,female,,,
+142,New York,5.0,US,7.0,Quickfire,Individual,Jean-Christophe Novelli,male,,,
+143,New York,5.0,US,7.0,Elimination,Individual,Toby Young,male,,,
+144,New York,5.0,US,8.0,Quickfire,Individual,Hung Huynh,male,POC,Yes,
+145,New York,5.0,US,8.0,Elimination,Team,Dan Barber,male,,,
+146,New York,5.0,US,9.0,Quickfire,Individual,Stephen Starr,male,,,
+147,New York,5.0,US,9.0,Elimination,Team,Stephen Starr,male,,,
+148,New York,5.0,US,10.0,Quickfire,Individual,Scott Conant,male,,,Chopped Judge; Tournament of Champions Judge
+149,New York,5.0,US,11.0,Quickfire,Individual,Eric Ripert,male,,,Yes?
+150,New York,5.0,US,11.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+151,New York,5.0,US,12.0,Quickfire,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+152,New York,5.0,US,12.0,Elimination,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+153,New York,5.0,US,13.0,Quickfire,Individual,Emeril Lagasse,male,,,
+154,New York,5.0,US,13.0,Elimination,Individual,Emeril Lagasse,male,,,
+155,New York,5.0,US,14.0,Elimination,Individual,Branford Marsalis,male,POC,,
+156,New York,5.0,US,14.0,Elimination,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+157,New York,5.0,US,14.0,Elimination,Individual,John Besh,male,,,Top Chef Masters Season 1
+158,New York,5.0,US,14.0,Elimination,Individual,Rocco DiSpirito,male,,,Tournament of Champions Judge & Contestant
+159,New York,5.0,US,14.0,Elimination,Individual,Susan Spicer,female,,,
+160,New York,5.0,US,14.0,Elimination,Individual,Ti Adelaide Martin,female,,,
+161,Las Vegas,6.0,US,1.0,Elimination,Team,Wolfgang Puck,male,,,
+162,Las Vegas,6.0,US,2.0,Quickfire,Individual,Todd English,male,,,
+163,Las Vegas,6.0,US,2.0,Elimination,Team,Todd English,male,,,
+164,Las Vegas,6.0,US,3.0,Quickfire,Individual,Mark Peel,male,,,Top Chef Masters Season 1
+165,Las Vegas,6.0,US,3.0,Elimination,Team,Mark Peel,male,,,Top Chef Masters Season 1
+166,Las Vegas,6.0,US,3.0,Elimination,Individual,Mark Peel,male,,,Top Chef Masters Season 1
+167,Las Vegas,6.0,US,4.0,Sudden Death Quickfire,Individual,Daniel Boulud,male,,,
+168,Las Vegas,6.0,US,4.0,Quickfire,Individual,Daniel Boulud,male,,,
+169,Las Vegas,6.0,US,4.0,Elimination,Team,Daniel Boulud,male,,,
+170,Las Vegas,6.0,US,4.0,Elimination,Team,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+171,Las Vegas,6.0,US,4.0,Elimination,Team,Jean Joho,male,,,
+172,Las Vegas,6.0,US,4.0,Elimination,Team,Joel Robuchon,male,,,
+173,Las Vegas,6.0,US,5.0,Quickfire,Individual,Tim Love,male,,,"Top Chef Masters Season 1, Tournament of Champions"
+174,Las Vegas,6.0,US,5.0,Elimination,Individual,Tim Love,male,,,"Top Chef Masters Season 1, Tournament of Champions"
+175,Las Vegas,6.0,US,6.0,Quickfire,Individual,Michelle Bernstein,female,,,
+176,Las Vegas,6.0,US,6.0,Elimination,Individual,Michelle Bernstein,female,,,
+177,Las Vegas,6.0,US,6.0,Elimination,Individual,Penn & Teller,male,,,
+178,Las Vegas,6.0,US,6.0,Elimination,Individual,Toby Young,male,,,
+179,Las Vegas,6.0,US,7.0,Quickfire,Individual,Tyler Florence,male,,,
+180,Las Vegas,6.0,US,7.0,Elimination,Team,Govind Armstrong,male,POC,,Top Chef Masters Season 2
+181,Las Vegas,6.0,US,7.0,Elimination,Team,Nancy Silverton,female,,,Tournament of Champions Judge
+182,Las Vegas,6.0,US,7.0,Elimination,Team,Takashi Yagihashi,male,POC,,Top Chef Masters Season 4
+183,Las Vegas,6.0,US,7.0,Elimination,Team,Tom Douglas,male,,,
+184,Las Vegas,6.0,US,7.0,Elimination,Team,Tyler Florence,male,,,
+185,Las Vegas,6.0,US,8.0,Quickfire,Individual,Charlie Palmer,male,,,
+186,Las Vegas,6.0,US,8.0,Elimination,Individual,Charlie Palmer,male,,,
+187,Las Vegas,6.0,US,8.0,Elimination,Individual,Dana Cowin,female,,,
+188,Las Vegas,6.0,US,8.0,Elimination,Individual,Toby Young,male,,,
+189,Las Vegas,6.0,US,9.0,Quickfire,Team,Rick Moonen,male,,,Top Chef Masters Season 2
+190,Las Vegas,6.0,US,9.0,Elimination,Team,Rick Moonen,male,,,Top Chef Masters Season 2
+191,Las Vegas,6.0,US,9.0,Elimination,Team,Toby Young,male,,,
+192,Las Vegas,6.0,US,10.0,Quickfire,Individual,Paul Bartolotta,male,,,
+193,Las Vegas,6.0,US,10.0,Elimination,Individual,Natalie Portman,female,,,
+194,Las Vegas,6.0,US,12.0,Quickfire,Individual,Nigella Lawson,female,,,
+195,Las Vegas,6.0,US,12.0,Elimination,Individual,Nigella Lawson,female,,,
+196,Las Vegas,6.0,US,12.0,Elimination,Individual,Toby Young,male,,,
+197,Las Vegas,6.0,US,13.0,Quickfire,Individual,Gavin Kaysen,male,,,
+198,Las Vegas,6.0,US,13.0,Elimination,Individual,Alex Stratta,male,,,Top Chef Masters Season 3
+199,Las Vegas,6.0,US,13.0,Elimination,Individual,Daniel Boulud,male,,,
+200,Las Vegas,6.0,US,13.0,Elimination,Individual,Gavin Kaysen,male,,,
+201,Las Vegas,6.0,US,13.0,Elimination,Individual,Jerome Bocus,male,,,
+202,Las Vegas,6.0,US,13.0,Elimination,Individual,Thomas Keller,male,,,
+203,Las Vegas,6.0,US,13.0,Elimination,Individual,Traci Des Jardins,female,,,Top Chef Masters Season 3
+204,Las Vegas,6.0,US,14.0,Quickfire,Individual,Michael Chiarello,male,,,Top Chef Masters Runner-Up (Season 1)
+205,Las Vegas,6.0,US,14.0,Elimination,Individual,Michael Chiarello,male,,,Top Chef Masters Runner-Up (Season 1)
+206,Las Vegas,6.0,US,15.0,Elimination,Individual,Donatella Arpaia,female,,,
+207,Las Vegas,6.0,US,15.0,Elimination,Individual,Douglas Keane,male,,,Top Chef Masters Season 5
+208,Las Vegas,6.0,US,15.0,Elimination,Individual,Sam Nazarian,?,,,
+209,Las Vegas,6.0,US,15.0,Elimination,Individual,Stephen Starr,male,,,
+210,Las Vegas,6.0,US,15.0,Elimination,Individual,Toby Young,male,,,
+211,D.C.,7.0,US,1.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+212,D.C.,7.0,US,2.0,Quickfire,Team,Sam Kass,male,,,
+213,D.C.,7.0,US,2.0,Elimination,Team,Sam Kass,male,,,
+214,D.C.,7.0,US,3.0,Quickfire,Individual,Gail Simmons,female,,,Top Chef: Just Desserts
+215,D.C.,7.0,US,3.0,Quickfire,Individual,Johnny Iuzzini,male,,,
+216,D.C.,7.0,US,3.0,Elimination,Individual,Jonathan Waxman,male,,,"Top Chef Masters Season 1 and 2, and more as a Judge?"
+217,D.C.,7.0,US,4.0,Quickfire,Individual,Tom Colicchio,male,,,Top Chef Judge
+218,D.C.,7.0,US,4.0,Elimination,Team,Beth Scott,female,,,
+219,D.C.,7.0,US,4.0,Elimination,Team,Bryan Voltaggio,male,,Yes,"Tournament of Champions, Battle of the Brothers, Top Chef Masters Season 5"
+220,D.C.,7.0,US,4.0,Elimination,Team,Eric Ripert,male,,,Yes?
+221,D.C.,7.0,US,4.0,Elimination,Team,Mike Isabella,male,,Yes,
+222,D.C.,7.0,US,4.0,Elimination,Team,Nora Pouillon,female,,,
+223,D.C.,7.0,US,4.0,Elimination,Team,Spike Mendelsohn,male,,Yes,
+224,D.C.,7.0,US,5.0,Quickfire,Individual,Patrick O'Connell,male,,,
+225,D.C.,7.0,US,5.0,Elimination,Individual,Patrick O'Connell,male,,,
+226,D.C.,7.0,US,6.0,Quickfire,Individual,Michelle Bernstein,female,,,
+227,D.C.,7.0,US,6.0,Elimination,Team,Michelle Bernstein,female,,,
+228,D.C.,7.0,US,7.0,Quickfire,Individual,Aaron Schock,male,,,
+229,D.C.,7.0,US,7.0,Elimination,Individual,Art Smith,male,,,Top Chef Masters Seasons 1 and 4
+230,D.C.,7.0,US,7.0,Elimination,Individual,Art Smith,male,,,Top Chef Masters Seasons 1 and 4
+231,D.C.,7.0,US,8.0,Quickfire,Individual,Marcus Samuelsson,male,POC,,"Top Chef Masters Season 2, Chopped Judge, Tournament of Champions Judge"
+232,D.C.,7.0,US,8.0,Elimination,Individual,Jose Andres,male,POC,,
+233,D.C.,7.0,US,9.0,Quickfire,Team,Nancy Pelosi,female,,,
+234,D.C.,7.0,US,9.0,Elimination,Team,Frank Bruni,male,,,
+235,D.C.,7.0,US,10.0,Quickfire,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+236,D.C.,7.0,US,10.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+237,D.C.,7.0,US,10.0,Elimination,Individual,Leon Panetta,male,,,
+238,D.C.,7.0,US,10.0,Elimination,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+239,D.C.,7.0,US,11.0,Quickfire,Individual,Rick Moonen,male,,,Top Chef Masters Season 2
+240,D.C.,7.0,US,11.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+241,D.C.,7.0,US,11.0,Elimination,Individual,Rick Moonen,male,,,Top Chef Masters Season 2
+242,D.C.,7.0,US,12.0,Quickfire,Individual,Dana Cowin,female,,,
+243,D.C.,7.0,US,12.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+244,D.C.,7.0,US,12.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+245,D.C.,7.0,US,13.0,Quickfire,Individual,Seto,?,,,
+246,D.C.,7.0,US,13.0,Elimination,Individual,Dana Cowin,female,,,
+247,D.C.,7.0,US,13.0,Elimination,Individual,Seto,?,,,
+248,D.C.,7.0,US,14.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+249,All Stars: New York,8.0,US,1.0,Quickfire,Team,Tom Colicchio,male,,,Top Chef Judge
+250,All Stars: New York,8.0,US,1.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+251,All Stars: New York,8.0,US,2.0,Quickfire,Individual,Joe Jonas,male,,,
+252,All Stars: New York,8.0,US,2.0,Elimination,Team,Katie Lee,female,,,Beat Bobby Flay Judge
+253,All Stars: New York,8.0,US,3.0,Quickfire,Team,David Chang,male,POC,,
+254,All Stars: New York,8.0,US,3.0,Elimination,Team,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+255,All Stars: New York,8.0,US,3.0,Elimination,Team,Kate Krader,female,,,
+256,All Stars: New York,8.0,US,4.0,Quickfire,Individual,Tony Mantuano,male,,,Top Chef Masters Season 2
+257,All Stars: New York,8.0,US,4.0,Elimination,Team,Tony Mantuano,male,,,Top Chef Masters Season 2
+258,All Stars: New York,8.0,US,5.0,Quickfire,Individual,Tom Colicchio,male,,,Top Chef Judge
+259,All Stars: New York,8.0,US,5.0,Elimination,Individual,Susur Lee,male,POC,,Top Chef Masters Season 2
+260,All Stars: New York,8.0,US,6.0,Elimination,Team,Kerry Heffernan,male,,,Top Chef Masters Season 4
+261,All Stars: New York,8.0,US,7.0,Quickfire,Individual,Justo Thomas,male,POC,,
+262,All Stars: New York,8.0,US,7.0,Elimination,Team,Ludo Lefebvre,male,,,Top Chef Masters Season 1 and 2
+263,All Stars: New York,8.0,US,8.0,Quickfire,Individual,Isaac Mizrahi,male,,,
+264,All Stars: New York,8.0,US,8.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+265,All Stars: New York,8.0,US,8.0,Elimination,Individual,Lorraine Bracco,female,,,
+266,All Stars: New York,8.0,US,9.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+267,All Stars: New York,8.0,US,9.0,Elimination,Individual,Jimmy Fallon,male,,,
+268,All Stars: New York,8.0,US,10.0,Quickfire,Individual,Sesame St. characters,-,,,
+269,All Stars: New York,8.0,US,10.0,Elimination,Individual,Anthony Bourdain,male,,,Parts Unknown; No Reservations
+270,All Stars: New York,8.0,US,10.0,Elimination,Individual,Ming Tsai,male,POC,,Tournament of Champions Judge
+271,All Stars: New York,8.0,US,11.0,Quickfire,Individual,Paula Deen,female,,,
+272,All Stars: New York,8.0,US,11.0,Elimination,Individual,John Besh,male,,,Top Chef Masters Season 1
+273,All Stars: New York,8.0,US,11.0,Elimination,Individual,Paula Deen,female,,,
+274,All Stars: New York,8.0,US,12.0,Quickfire,Individual,Dan Barber,male,,,
+275,All Stars: New York,8.0,US,12.0,Elimination,Individual,Dan Barber,male,,,
+276,All Stars: New York,8.0,US,13.0,Quickfire,Individual,Eric Ripert,male,,,Yes?
+277,All Stars: New York,8.0,US,13.0,Quickfire,Individual,Tom Colicchio,male,,,Top Chef Judge
+278,All Stars: New York,8.0,US,13.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+279,All Stars: New York,8.0,US,14.0,Quickfire,Team,Lorena Garcia,female,POC,,Top Chef Masters Season 4
+280,All Stars: New York,8.0,US,14.0,Elimination,Individual,Lorena Garcia,female,POC,,Top Chef Masters Season 4
+281,All Stars: New York,8.0,US,15.0,Quickfire,Individual,Wolfgang Puck,male,,,
+282,All Stars: New York,8.0,US,15.0,Elimination,Individual,Masaharu Morimoto,male,POC,,
+283,All Stars: New York,8.0,US,15.0,Elimination,Individual,Michelle Bernstein,female,,,
+284,All Stars: New York,8.0,US,15.0,Elimination,Individual,Wolfgang Puck,male,,,
+285,All Stars: New York,8.0,US,16.0,Elimination,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+286,Texas,9.0,US,3.0,Quickfire,Individual,Johnny Hernandez,male,POC,,
+287,Texas,9.0,US,3.0,Elimination,Team,Johnny Hernandez,male,POC,,
+288,Texas,9.0,US,4.0,Quickfire,Individual,Mary Sue Milliken,female,,,Top Chef Masters Season 3
+289,Texas,9.0,US,4.0,Quickfire,Individual,Susan Feniger,female,,,Top Chef Masters Season 2
+290,Texas,9.0,US,4.0,Elimination,Team,Mary Sue Milliken,female,,,Top Chef Masters Season 3
+291,Texas,9.0,US,4.0,Elimination,Team,Susan Feniger,female,,,Top Chef Masters Season 2
+292,Texas,9.0,US,5.0,Quickfire,Individual,John Besh,male,,,Top Chef Masters Season 1
+293,Texas,9.0,US,5.0,Elimination,Individual,John Besh,male,,,Top Chef Masters Season 1
+294,Texas,9.0,US,6.0,Quickfire,Individual,Dean Fearing,male,,,
+295,Texas,9.0,US,6.0,Elimination,Team,Dean Fearing,male,,,
+296,Texas,9.0,US,7.0,Quickfire,Individual,Tim Love,male,,,"Top Chef Masters Season 1, Tournament of Champions"
+297,Texas,9.0,US,7.0,Elimination,Team,Tim Love,male,,,"Top Chef Masters Season 1, Tournament of Champions"
+298,Texas,9.0,US,8.0,Quickfire,Individual,Tom Colicchio,male,,,Top Chef Judge
+299,Texas,9.0,US,8.0,Elimination,Individual,Patti LaBelle,female,POC,,
+300,Texas,9.0,US,9.0,Quickfire,Individual,Nathan Mirabald,male,,,
+301,Texas,9.0,US,9.0,Elimination,Team,Nathan Mirabald,male,,,
+302,Texas,9.0,US,11.0,Quickfire,Individual,Eric Ripert,male,,,Yes?
+303,Texas,9.0,US,11.0,Elimination,Individual,Charlize Theron,female,,,
+304,Texas,9.0,US,12.0,Quickfire,Team,Cat Cora,female,,,Iron Chef
+305,Texas,9.0,US,12.0,Quickfire,Team,Cat Cora,female,,,
+306,Texas,9.0,US,12.0,Elimination,Individual,Dana Cowin,female,,,
+307,Texas,9.0,US,13.0,Quickfire,Individual,Pee Wee Herman,male,,,
+308,Texas,9.0,US,14.0,Quickfire,Individual,Tom Colicchio,male,,,Top Chef Judge
+309,Texas,9.0,US,15.0,Elimination,Individual,Cammi Granato,female,,,
+310,Texas,9.0,US,15.0,Elimination,Individual,Gretchen Bleiler,female,,,
+311,Texas,9.0,US,15.0,Elimination,Individual,Jon Montgomery,male,,,
+312,Texas,9.0,US,16.0,Quickfire,Individual,Emeril Lagasse,male,,,
+313,Texas,9.0,US,17.0,Elimination,Individual,Hugh Acheson,male,,,Top Chef Masters Season 3
+314,Seattle,10.0,US,2.0,Quickfire,Individual,CJ Jacobson,male,,Yes,
+315,Seattle,10.0,US,2.0,Quickfire,Individual,Josie Smith-Malave,female,POC,Yes,
+316,Seattle,10.0,US,2.0,Quickfire,Individual,Stefan Richter,male,,Yes,
+317,Seattle,10.0,US,2.0,Elimination,Team,Tom Douglas,male,,,
+318,Seattle,10.0,US,3.0,Quickfire,Individual,Dana Cowin,female,,,
+319,Seattle,10.0,US,4.0,Quickfire,Individual,Naomi Pomeroy,female,,,Top Chef Masters Season 3
+320,Seattle,10.0,US,5.0,Quickfire,Team,Daisley Gordon,male,POC,,
+321,Seattle,10.0,US,6.0,Quickfire,Individual,Marilyn Hagerty,female,,,
+322,Seattle,10.0,US,6.0,Elimination,Individual,Rick Moonen,male,,,Top Chef Masters Season 2
+323,Seattle,10.0,US,7.0,Quickfire,Individual,Stephanie Izard,female,,Yes,Tournament of Champions
+324,Seattle,10.0,US,8.0,Quickfire,Individual,Emeril Lagasse,male,,,
+325,Seattle,10.0,US,8.0,Quickfire,Individual,Emeril Lagasse,male,,,
+326,Seattle,10.0,US,9.0,Quickfire,Team,Bob Kramer,male,,,
+327,Seattle,10.0,US,9.0,Elimination,Individual,Chris Cosentino,male,,,Top Chef Masters Season 4
+328,Seattle,10.0,US,9.0,Elimination,Individual,Wolfgang Puck,male,,,
+329,Seattle,10.0,US,10.0,Quickfire,Individual,Wolfgang Puck,male,,,
+330,Seattle,10.0,US,10.0,Elimination,Individual,Danny Meyer,male,,,
+331,Seattle,10.0,US,11.0,Elimination,Team,Danny Meyer,male,,,
+332,Seattle,10.0,US,12.0,Quickfire,Individual,Katsuya Uechi,male,POC,,
+333,Seattle,10.0,US,12.0,Elimination,Individual,David Chang,male,POC,,
+334,Seattle,10.0,US,13.0,Quickfire,Individual,Curtis Stone,male,,,Top Chef Masters Season 3 Host
+335,Seattle,10.0,US,13.0,Elimination,Individual,Curtis Stone,male,,,Top Chef Masters Season 3 Host
+336,Seattle,10.0,US,14.0,Quickfire,Individual,Sean Brock,male,,,
+337,Seattle,10.0,US,15.0,Quickfire,Individual,Tom Colicchio,male,,,Top Chef Judge
+338,Seattle,10.0,US,15.0,Elimination,Individual,Roy Choi,male,POC,,
+339,New Orleans,11.0,US,1.0,Elimination,Individual,Curtis Stone,male,,,Top Chef Masters Season 3 Host
+340,New Orleans,11.0,US,2.0,Quickfire,Individual,Leah Chase,female,POC,,
+341,New Orleans,11.0,US,2.0,Elimination,Team,Susan Spicer,female,,,
+342,New Orleans,11.0,US,3.0,Sudden Death Quickfire,Individual,Dana Cowin,female,,,
+343,New Orleans,11.0,US,3.0,Quickfire Elimination,Individual,Dana Cowin,female,,,
+344,New Orleans,11.0,US,4.0,Elimination,Team,Eddie Huang,male,POC,,
+345,New Orleans,11.0,US,5.0,Quickfire,Team,Gail Simmons,female,,,Top Chef: Just Desserts
+346,New Orleans,11.0,US,5.0,Elimination,Team,Lea Michele,female,,,
+347,New Orleans,11.0,US,6.0,Quickfire,Individual,John Besh,male,,,Top Chef Masters Season 1
+348,New Orleans,11.0,US,7.0,Quickfire,Individual,Kermit Ruffins,male,POC,,
+349,New Orleans,11.0,US,7.0,Elimination,Team,Sue Zemanick,female,,,Top Chef Masters Season 3 and Season 5
+350,New Orleans,11.0,US,8.0,Quickfire,Individual,Dr. John,male,,,
+351,New Orleans,11.0,US,8.0,Elimination,Individual,Donald Link,male,,,
+352,New Orleans,11.0,US,9.0,Elimination,Team,David Chang,male,POC,,
+353,New Orleans,11.0,US,10.0,Quickfire,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+354,New Orleans,11.0,US,10.0,Quickfire,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+355,New Orleans,11.0,US,10.0,Elimination,Individual,Anthony Mackie,male,POC,,
+356,New Orleans,11.0,US,11.0,Quickfire,Individual,Questlove,male,POC,,
+357,New Orleans,11.0,US,12.0,Quickfire,Individual,John Besh,male,,,Top Chef Masters Season 1
+358,New Orleans,11.0,US,12.0,Elimination,Individual,John Besh,male,,,Top Chef Masters Season 1
+359,New Orleans,11.0,US,13.0,Quickfire,Individual,Jacques Pepin,male,,,
+360,New Orleans,11.0,US,13.0,Elimination,Team,Jacques Pepin,male,,,
+361,New Orleans,11.0,US,14.0,Quickfire,Individual,Roy Choi,male,POC,,
+362,New Orleans,11.0,US,14.0,Elimination,Individual,Jon Favreau,male,,,
+363,New Orleans,11.0,US,16.0,Quickfire,Individual,Sam Choy,male,POC,,
+364,Boston,12.0,US,1.0,Sudden Death Quickfire,Team,Richard Blais,male,,Yes,
+365,Boston,12.0,US,1.0,Elimination,Individual,Richard Blais,male,,Yes,
+366,Boston,12.0,US,2.0,Quickfire,Individual,Todd English,male,,,
+367,Boston,12.0,US,2.0,Elimination,Team,Dante De Magistris,male,,,
+368,Boston,12.0,US,3.0,Sudden Death Quickfire,Individual,Ming Tsai,male,POC,,Tournament of Champions Judge
+369,Boston,12.0,US,3.0,Elimination,Individual,Ming Tsai,male,POC,,Tournament of Champions Judge
+370,Boston,12.0,US,4.0,Quickfire,Individual,George Wendt,male,,,
+371,Boston,12.0,US,4.0,Elimination,Team,Michael Schlow,male,,,Top Chef Masters Season 1
+372,Boston,12.0,US,5.0,Quickfire,Individual,Jamie Bissonnette,male,,,
+373,Boston,12.0,US,5.0,Elimination,Team,Jamie Bissonnette,male,,,
+374,Boston,12.0,US,6.0,Quickfire,Team,Tiffani Faison,female,,Yes,"Chopped Judge, Tournament of Champions, Beachside Brawl"
+375,Boston,12.0,US,6.0,Elimination,Individual,Ken Oringer,male,,,
+376,Boston,12.0,US,7.0,Elimination,Team,Barbara Lynch,female,,,
+377,Boston,12.0,US,8.0,Sudden Death Quickfire,Individual,Jasper White,male,,,
+378,Boston,12.0,US,8.0,Elimination,Individual,Richard Blais,male,,Yes,
+379,Boston,12.0,US,9.0,Quickfire,Individual,Rob Gronkowski,male,,,
+380,Boston,12.0,US,9.0,Elimination,Individual,Tony Maws,male,,,
+381,Boston,12.0,US,10.0,Quickfire,Individual,Andy Cohen,male,,,Bravo shows
+382,Boston,12.0,US,10.0,Quickfire,Individual,Dave Ansel,male,,,
+383,Boston,12.0,US,10.0,Elimination,Individual,Jacques Pepin,male,,,
+384,Boston,12.0,US,11.0,Elimination,Individual,Ashley Christensen,female,,,
+385,Boston,12.0,US,12.0,Quickfire,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+386,Boston,12.0,US,12.0,Elimination,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+387,Boston,12.0,US,13.0,Quickfire,Individual,Enrique Olvera,male,POC,,
+388,Boston,12.0,US,14.0,Quickfire,Individual,Enrique Farjeat,male,POC,,
+389,Boston,12.0,US,14.0,Elimination,Individual,Eduardo Calesuevos,male,POC,,
+390,California,13.0,US,2.0,Elimination,Team,Ludo Lefebvre,male,,,Top Chef Masters Season 1 and 2
+391,California,13.0,US,3.0,Sudden Death Quickfire,Individual,Dana Cowin,female,,,
+392,California,13.0,US,3.0,Elimination,Individual,Cat Cora,female,,,Iron Chef
+393,California,13.0,US,3.0,Elimination,Individual,Jon Shook,male,,,
+394,California,13.0,US,3.0,Elimination,Individual,Michael Cimarusti,male,,,Top Chef Masters Season 1
+395,California,13.0,US,3.0,Elimination,Individual,Suzanne Goin,female,,,
+396,California,13.0,US,3.0,Elimination,Individual,Vinny Dotolo,male,,,
+397,California,13.0,US,4.0,Quickfire,Individual,Jose Andres,male,POC,,
+398,California,13.0,US,4.0,Elimination,Team,John Besh,male,,,Top Chef Masters Season 1
+399,California,13.0,US,5.0,Quickfire,Individual,Chrissy Teigen,female,POC,,
+400,California,13.0,US,5.0,Elimination,Individual,Art Smith,male,,,Top Chef Masters Seasons 1 and 4
+401,California,13.0,US,6.0,Sudden Death Quickfire,Individual,Javier Plascencia,male,POC,,
+402,California,13.0,US,6.0,Elimination,Individual,Representative from Ballast Point Brewing Company,-,,,
+403,California,13.0,US,6.0,Elimination,Individual,Representative from Stone Brewing Co.,-,,,
+404,California,13.0,US,7.0,Quickfire,Individual,Antonia Lofaso,female,,Yes,Tournament of Champions; Beachside Brawl; others
+405,California,13.0,US,7.0,Elimination,Individual,Michael Voltaggio,male,,Yes,Battle of the Brothers; Tournament of Champions; others
+406,California,13.0,US,8.0,Elimination,Team,Chris Cosentino,male,,,Top Chef Masters Season 4
+407,California,13.0,US,9.0,Elimination,Team,Bill Chait,male,,,
+408,California,13.0,US,10.0,Elimination,Team,Bill Chait,male,,,
+409,California,13.0,US,11.0,Quickfire,Individual,MC Hammer,male,POC,,
+410,California,13.0,US,11.0,Elimination,Individual,Jonathan Waxman,male,,,"Top Chef Masters Season 1 and 2, and more as a Judge?"
+411,California,13.0,US,12.0,Quickfire,Individual,Martin Yan,male,POC,,
+412,California,13.0,US,12.0,Elimination,Individual,Adam Fleishman,male,,,
+413,California,13.0,US,13.0,Sudden Death Quickfire,Individual,Traci Des Jardins,female,,,Top Chef Masters Season 3
+414,California,13.0,US,13.0,Elimination,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+415,California,13.0,US,14.0,Quickfire,Individual,Rick Moonen,male,,,Top Chef Masters Season 2
+416,California,13.0,US,14.0,Elimination,Individual,David Copperfield,male,,,
+417,California,13.0,US,14.0,Elimination,Individual,Julian Serrano,male,,,
+418,Charleston,14.0,US,1.0,Sudden Death Quickfire,Individual,Graham Elliot,male,,,"Top Chef Masters Season 1 and 2, Tournament of Champions, MasterChef"
+419,Charleston,14.0,US,1.0,Sudden Death Quickfire,Individual,Graham Elliot,male,,,"Top Chef Masters Season 1 and 2, Tournament of Champions, MasterChef"
+420,Charleston,14.0,US,2.0,Elimination,Team,Frank Lee,male,,,
+421,Charleston,14.0,US,3.0,Quickfire,Team,Chris Cosentino,male,,,Top Chef Masters Season 4
+422,Charleston,14.0,US,3.0,Elimination,Team,Chris Cosentino,male,,,Top Chef Masters Season 4
+423,Charleston,14.0,US,4.0,Quickfire,Individual,Nilou Motamed,female,POC,,
+424,Charleston,14.0,US,4.0,Elimination,Team,Mike Lata,male,,,
+425,Charleston,14.0,US,5.0,Quickfire,Individual,John Currence,male,,,Top Chef Masters Season 3
+426,Charleston,14.0,US,5.0,Elimination,Team,Rodney Scott,male,POC,,
+427,Charleston,14.0,US,6.0,Quickfire,Individual,Dr. Vivek Murthy,male,POC,,
+428,Charleston,14.0,US,6.0,Elimination,Individual,Alexander Smalls,male,,,
+429,Charleston,14.0,US,7.0,Sudden Death Quickfire,Individual,Michael Cimarusti,male,,,Top Chef Masters Season 1
+430,Charleston,14.0,US,7.0,Elimination,Team,Graham Elliot,male,,,"Top Chef Masters Season 1 and 2, Tournament of Champions, MasterChef"
+431,Charleston,14.0,US,7.0,Elimination,Team,Michael Cimarusti,male,,,Top Chef Masters Season 1
+432,Charleston,14.0,US,8.0,Elimination,Team,Daniel Humm,male,,,
+433,Charleston,14.0,US,8.0,Elimination,Team,Will Guidara,male,,,
+434,Charleston,14.0,US,9.0,Quickfire,Individual,Michael Voltaggio,male,,Yes,"Tournament of Champions, Battle of the Brothers"
+435,Charleston,14.0,US,9.0,Elimination,Individual,Graham Elliot,male,,,"Top Chef Masters Season 1 and 2, Tournament of Champions, MasterChef"
+436,Charleston,14.0,US,9.0,Elimination,Individual,Michael Voltaggio,male,,Yes,"Tournament of Champions, Battle of the Brothers"
+437,Charleston,14.0,US,10.0,Sudden Death Quickfire,Individual,Tom Colicchio,male,,,Top Chef Judge
+438,Charleston,14.0,US,10.0,Elimination,Individual,Dominique Ansel,female,,,
+439,Charleston,14.0,US,11.0,Quickfire,Individual,Michael Solomonov,male,,,
+440,Charleston,14.0,US,11.0,Elimination,Individual,Sean Brock,male,,,
+441,Charleston,14.0,US,12.0,Quickfire,Individual,Francisco Ruano,male,,,
+442,Charleston,14.0,US,12.0,Elimination,Individual,Ray Garcia,male,POC,,
+443,Charleston,14.0,US,13.0,Quickfire,Individual,Ricardo Munoz Zurita,male,POC,,
+444,Charleston,14.0,US,13.0,Elimination,Individual,Graham Elliot,male,,,"Top Chef Masters Season 1 and 2, Tournament of Champions, MasterChef"
+445,Charleston,14.0,US,13.0,Elimination,Individual,Jeremiah Tower,male,,,
+446,Charleston ,14.0,US,14.0,Elimination,Individual,Graham Elliot,male,,,"Top Chef Masters Season 1 and 2, Tournament of Champions, MasterChef"
+447,Charleston,14.0,US,14.0,Elimination,Individual,Graham Elliot,male,,,"Top Chef Masters Season 1 and 2, Tournament of Champions, MasterChef"
+448,Colorado,15.0,US,1.0,Quickfire,Individual,Gail Simmons,female,,,Top Chef: Just Desserts
+449,Colorado,15.0,US,1.0,Quickfire,Individual,Graham Elliot,male,,,"Top Chef Masters Season 1 and 2, Tournament of Champions, MasterChef"
+450,Colorado,15.0,US,1.0,Quickfire,Individual,Tom Colicchio,male,,,Top Chef Judge
+451,Colorado,15.0,US,2.0,Quickfire,Team,Troy Guard,male,,,
+452,Colorado,15.0,US,2.0,Elimination,Team,Alex Seidel,male,,,
+453,Colorado,15.0,US,3.0,Sudden Death Quickfire,Individual,Lachlan Mackinnon-Patterson,male,,,Top Chef Masters Season 1
+454,Colorado,15.0,US,3.0,Elimination,Team,Hosea Rosenberg,male,,Yes,
+455,Colorado,15.0,US,4.0,Quickfire,Individual,Curtis Stone,male,,,Top Chef Masters Season 3 Host
+456,Colorado,15.0,US,4.0,Elimination,Individual,Nilou Motamed,female,POC,,
+457,Colorado,15.0,US,5.0,Elimination,Individual,Naomi Pomeroy,female,,,Top Chef Masters Season 3
+458,Colorado,15.0,US,6.0,Quickfire,Individual,Richard Blais,male,,Yes,
+459,Colorado,15.0,US,6.0,Elimination,Individual,Keegan Gerhard,male,,,
+460,Colorado,15.0,US,7.0,Quickfire,Individual,Brooke Williamson,female,,Yes,Tournament of Champions; Beachside Brawl
+461,Colorado,15.0,US,7.0,Quickfire,Individual,Brooke Williamson,female,,Yes,Tournament of Champions; Beachside Brawl
+462,Colorado,15.0,US,8.0,Elimination,Team,Bruce Bromberg,male,,,
+463,Colorado,15.0,US,8.0,Elimination,Team,Eric and Bruce Bromberg,male,,,
+464,Colorado,15.0,US,8.0,Elimination,Team,Eric Bromberg,male,,,
+465,Colorado,15.0,US,9.0,Sudden Death Quickfire,Individual,David Kinch,male,,,
+466,Colorado,15.0,US,9.0,Elimination,Team,Adam Perry Lang,male,,,
+467,Colorado,15.0,US,10.0,Elimination,Individual,Frank Bonanno,male,,,
+468,Colorado,15.0,US,11.0,Quickfire,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+469,Colorado,15.0,US,11.0,Elimination,Individual,Paul Liebrandt,male,,,
+470,Colorado,15.0,US,11.0,Elimination,Individual,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+471,Colorado,15.0,US,12.0,Quickfire,Individual,Bryan Voltaggio,male,,Yes,"Tournament of Champions, Battle of the Brothers, Top Chef Masters Season 5"
+472,Colorado,15.0,US,12.0,Quickfire,Individual,Michael Voltaggio,male,,Yes,"Tournament of Champions, Battle of the Brothers"
+473,Colorado,15.0,US,12.0,Elimination,Individual,Bryan Voltaggio,male,,Yes,"Tournament of Champions, Battle of the Brothers, Top Chef Masters Season 5"
+474,Colorado,15.0,US,12.0,Elimination,Individual,Michael Voltaggio,male,,Yes,"Tournament of Champions, Battle of the Brothers"
+475,Colorado,15.0,US,13.0,Quickfire,Individual,Chris Cosentino,male,,,Top Chef Masters Season 4
+476,Colorado,15.0,US,13.0,Quickfire,Individual,Chris Cosentino,male,,,Top Chef Masters Season 4
+477,Colorado,15.0,US,13.0,Elimination,Individual,Daniel Boulud,male,,,
+478,Kentucky,16.0,US,1.0,Elimination,Team,David Danielson,male,,,
+479,Kentucky,16.0,US,1.0,Elimination,Team,Graham Elliot,male,,,
+480,Kentucky,16.0,US,2.0,Quickfire,Individual,Gail Simmons,female,,,Top Chef: Just Desserts
+481,Kentucky,16.0,US,2.0,Quickfire,Individual,Nilou Motamed,female,POC,,
+482,Kentucky,16.0,US,2.0,Elimination,Team,Newman Miller,male,,,
+483,Kentucky,16.0,US,2.0,Elimination,Team,Nilou Motamed,female,POC,,
+484,Kentucky,16.0,US,3.0,Quickfire,Individual,Brooke Williamson,female,,Yes,Tournament of Champions; Beachside Brawl
+485,Kentucky,16.0,US,3.0,Quickfire,Individual,Richard Blais,male,,Yes,
+486,Kentucky,16.0,US,3.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+487,Kentucky,16.0,US,3.0,Elimination,Individual,Graham Elliot,male,,,
+488,Kentucky,16.0,US,4.0,Quickfire,Individual,Karen Akunowicz,female,,Yes,Tournament of Champions
+489,Kentucky,16.0,US,4.0,Quickfire,Individual,Nina Compton,female,POC,Yes,
+490,Kentucky,16.0,US,5.0,Elimination,Team,Caroline Styne,female,,,
+491,Kentucky,16.0,US,6.0,Elimination,Individual,Ken Oringer,male,,,
+492,Kentucky,16.0,US,6.0,Elimination,Individual,Graham Elliot,male,,,
+493,Kentucky,16.0,US,7.0,Quickfire,Individual,Lena Waithe,female,POC,,
+494,Kentucky,16.0,US,7.0,Elimination,Individual,Dario Cecchini,male,,,
+495,Kentucky,16.0,US,7.0,Elimination,Individual,Nancy Silverton,female,,,Tournament of Champions Judge
+496,Kentucky,16.0,US,8.0,Elimination,Team,Emeril Lagasse,male,,,
+497,Kentucky,16.0,US,8.0,Elimination,Team,Nilou Motamed,female,POC,,
+498,Kentucky,16.0,US,9.0,Quickfire,Individual,Hunter Hayes,male,,,
+499,Kentucky,16.0,US,9.0,Elimination,Individual,Jonathan Waxman,male,,,"Top Chef Masters Season 1 and 2, and more as a Judge?"
+500,Kentucky,16.0,US,9.0,Elimination,Individual,Graham Elliot,male,,,
+501,Kentucky,16.0,US,10.0,Quickfire,Individual,Edward Lee,male,POC,Yes,
+502,Kentucky,16.0,US,10.0,Elimination,Team,Edward Lee,male,POC,Yes,
+503,Kentucky,16.0,US,10.0,Elimination,Team,Hunter Lewis,male,,,Yes?
+504,Kentucky,16.0,US,10.0,Elimination,Team,Graham Elliot,male,,,
+505,Kentucky,16.0,US,10.0,Elimination,Team,John Calipari,male,,,
+506,Kentucky,16.0,US,11.0,Quickfire,Individual,Art Smith,male,,,Top Chef Masters Seasons 1 and 4
+507,Kentucky,16.0,US,11.0,Elimination,Individual,Laila Ali,female,POC,,
+508,Kentucky,16.0,US,11.0,Elimination,Individual,Nilou Motamed,female,POC,,
+509,Kentucky,16.0,US,12.0,Quickfire,Individual,Ouita Michel,female,,,
+510,Kentucky,16.0,US,12.0,Elimination,Individual,Bryan Voltaggio,male,,Yes,"Tournament of Champions, Battle of the Brothers, Top Chef Masters Season 5"
+511,Kentucky,16.0,US,12.0,Elimination,Individual,Chris Coombs,male,,,
+512,Kentucky,16.0,US,12.0,Elimination,Individual,David Posey,male,,,
+513,Kentucky,16.0,US,12.0,Elimination,Individual,Gavin Kaysen,male,,,
+514,Kentucky,16.0,US,12.0,Elimination,Individual,JD Fratzke,male,,,
+515,Kentucky,16.0,US,12.0,Elimination,Individual,Kim Alter,female,,,
+516,Kentucky,16.0,US,12.0,Elimination,Individual,Ouita Michel,female,,,
+517,Kentucky,16.0,US,12.0,Elimination,Individual,Gail Simmons,female,,,
+518,Kentucky,16.0,US,13.0,Elimination,Individual,Jowett Yu,male,POC,,
+519,Kentucky,16.0,US,14.0,Quickfire,Individual,Abe Conlon,male,,,
+520,Kentucky,16.0,US,14.0,Elimination,Individual,Abe Conlon,male,,,
+521,Kentucky,16.0,US,14.0,Elimination,Individual,Florita Morais Alves,female,POC,,
+522,Kentucky,16.0,US,14.0,Elimination,Individual,Manuela Ferreira,female,POC,,
+523,All-Stars L.A.,17.0,US,1.0,Elimination,Team,Jeremiah Tower,male,,,
+524,All-Stars L.A.,17.0,US,2.0,Elimination,Individual,Ruth Reichl,female,,,Top Chef Masters Season 3 Judge
+525,All-Stars L.A.,17.0,US,3.0,Quickfire,Individual,Ali Wong,female,POC,,
+526,All-Stars L.A.,17.0,US,3.0,Quickfire,Individual,Randall Park,male,POC,,
+527,All-Stars L.A.,17.0,US,3.0,Elimination,Team,Ludo Lefebvre,male,,,Top Chef Masters Season 1 and 2
+528,All-Stars L.A.,17.0,US,4.0,Quickfire,Individual,Kelly Clarkson,female,,,
+529,All-Stars L.A.,17.0,US,4.0,Elimination,Team,Jeremy Fox,male,,,
+530,All-Stars L.A.,17.0,US,5.0,Quickfire,Individual,Nancy Silverton,female,,,Tournament of Champions Judge
+531,All-Stars L.A.,17.0,US,5.0,Elimination,Individual,Nancy Silverton,female,,,Tournament of Champions Judge
+532,All-Stars L.A.,17.0,US,6.0,Quickfire,Individual,Chris Bianco,male,,,
+533,All-Stars L.A.,17.0,US,6.0,Elimination,Team,Timothy Hollingsworth,male,,,Tournament of Champions
+534,All-Stars L.A.,17.0,US,7.0,Quickfire,Individual,Danny Trejo,male,POC,,
+535,All-Stars L.A.,17.0,US,7.0,Elimination,Individual,Kevin Boehm,male,,,
+536,All-Stars L.A.,17.0,US,7.0,Elimination,Individual,Stephanie Izard,female,,Yes,Tournament of Champions
+537,All-Stars L.A.,17.0,US,8.0,Elimination,Team,Kevin Boehm,male,,,
+538,All-Stars L.A.,17.0,US,8.0,Elimination,Team,Rob Katz,male,,,
+539,All-Stars L.A.,17.0,US,8.0,Elimination,Team,Stephanie Izard,female,,Yes,Tournament of Champions
+540,All-Stars L.A.,17.0,US,9.0,Quickfire,Individual,Kelsey Barnard Clark,female,,Yes,Tournament of Champions
+541,All-Stars L.A.,17.0,US,9.0,Elimination,Individual,Brooke Williamson,female,,Yes,Tournament of Champions; Beachside Brawl
+542,All-Stars L.A.,17.0,US,10.0,Quickfire,Individual,Sherry Yard,female,,,
+543,All-Stars L.A.,17.0,US,10.0,Elimination,Individual,Carole Iida-Nakayama,female,POC,,
+544,All-Stars L.A.,17.0,US,10.0,Elimination,Individual,Niki Nakayama,female,POC,,
+545,All-Stars L.A.,17.0,US,11.0,Quickfire,Individual,Jonathan Waxman,male,,,"Top Chef Masters Season 1 and 2, and more as a Judge?"
+546,All-Stars L.A.,17.0,US,11.0,Elimination,Individual,Michael McCarty,male,,,
+547,All-Stars L.A.,17.0,US,12.0,Quickfire,Individual,Filippo Saporito,male,,,
+548,All-Stars L.A.,17.0,US,12.0,Elimination,Individual,Cristiano Savini,male,,,
+549,All-Stars L.A.,17.0,US,12.0,Elimination,Individual,Cristiano Tomei,male,,,
+550,All-Stars L.A.,17.0,US,13.0,Elimination,Individual,Evan Funke,male,,,
+551,All-Stars L.A.,17.0,US,14.0,Elimination,Individual,Clare Smyth,female,,,
+552,All-Stars L.A.,17.0,US,14.0,Elimination,Individual,Dario Cecchini,male,,,
+553,All-Stars L.A.,17.0,US,14.0,Elimination,Individual,Hunter Lewis,male,,,Yes?
+554,All-Stars L.A.,17.0,US,14.0,Elimination,Individual,Janice Wong,female,POC,,
+555,All-Stars L.A.,17.0,US,14.0,Elimination,Individual,Marcus Samuelsson,male,POC,,"Top Chef Masters Season 2, Chopped Judge, Tournament of Champions Judge"
+556,All-Stars L.A.,17.0,US,14.0,Elimination,Individual,Mauro Colagreco,male,,,
+557,All-Stars L.A.,17.0,US,14.0,Elimination,Individual,Tony Mantuano,male,,,Top Chef Masters Season 2
+558,Portland,18.0,US,2.0,Quickfire,Individual,Amar Santana,male,POC,Yes,
+559,Portland,18.0,US,2.0,Quickfire,Individual,Carrie Baird,female,,Yes,
+560,Portland,18.0,US,2.0,Quickfire,Individual,Dale Talde,male,POC,Yes,
+561,Portland,18.0,US,2.0,Quickfire,Individual,Gregory Gourdet,male,POC,Yes,
+562,Portland,18.0,US,2.0,Quickfire,Individual,Kwame Onwuachi,male,POC,Yes,
+563,Portland,18.0,US,2.0,Quickfire,Individual,Melissa King,female,POC,Yes,
+564,Portland,18.0,US,2.0,Quickfire,Individual,Richard Blais,male,,Yes,
+565,Portland,18.0,US,7.0,Elimination,Individual,Jose Andres,male,POC,,
+566,Portland,18.0,US,9.0,Quickfire,Individual,Carrie Brownstein,female,,,
+567,Portland,18.0,US,9.0,Quickfire,Individual,Fred Armisen,male,POC,,
+568,Portland,18.0,US,10.0,Quickfire,Individual,Richard Blais,male,,Yes,
+569,Portland,18.0,US,11.0,Quickfire,Team,Gabriel Rucker,male,,,
+570,Portland,18.0,US,12.0,Quickfire,Individual,Vitaly Paley,male,,,
+571,Portland,18.0,US,12.0,Elimination,Individual,Massimo Bottura,male,,,
+572,Portland,18.0,US,13.0,Elimination,Individual,Naomi Pomeroy,female,,,Top Chef Masters Season 3
+573,Portland,18.0,US,14.0,Elimination,Individual,Naomi Pomeroy,female,,,Top Chef Masters Season 3
+574,Portland,18.0,US,14.0,Elimination,Individual,Peter Cho,male,POC,,
+575,Houston,19.0,US,1.0,Quickfire,Team,Dawn Burrell,female,POC,Yes,
+576,Houston,19.0,US,1.0,Elimination,Team,Kristen Kish,female,POC,Yes,Iron Chef: Quest for an Iron Legend Host
+577,Houston,19.0,US,1.0,Elimination,Team,Robert Del Grande,male,,,
+578,Houston,19.0,US,2.0,Quickfire,Individual,Irma Galvan,female,POC,,
+579,Houston,19.0,US,2.0,Elimination,Team,Brooke Williamson,female,,Yes,Tournament of Champions; Beachside Brawl
+580,Houston,19.0,US,2.0,Elimination,Team,Chris Shepherd,male,,,
+581,Houston,19.0,US,3.0,Elimination,Individual,Hung Huynh,male,POC,Yes,
+582,Houston,19.0,US,3.0,Elimination,Individual,Kiran Verma,female,POC,,
+583,Houston,19.0,US,4.0,Quickfire,Individual,Chris Williams,male,,,
+584,Houston,19.0,US,4.0,Elimination,Team,Melissa King,female,POC,Yes,
+585,Houston,19.0,US,4.0,Elimination,Team,Wylie Dufresne,male,,,Top Chef Masters Season 1 and 2
+586,Houston,19.0,US,5.0,Quickfire,Individual,Brooke Williamson,female,,Yes,Tournament of Champions; Beachside Brawl
+587,Houston,19.0,US,5.0,Quickfire,Individual,Brooke Williamson,female,,Yes,Tournament of Champions; Beachside Brawl
+588,Houston,19.0,US,5.0,Elimination,Individual,Brooke Williamson,female,,Yes,Tournament of Champions; Beachside Brawl
+589,Houston,19.0,US,5.0,Elimination,Individual,Greg Gatlin,male,POC,,
+590,Houston,19.0,US,6.0,Quickfire,Team,Kelsey Barnard Clark,female,,Yes,Tournament of Champions
+591,Houston,19.0,US,6.0,Quickfire,Team,Nini Nguyen,female,POC,Yes,
+592,Houston,19.0,US,6.0,Elimination,Individual,Christine Ha,female,POC,,
+593,Houston,19.0,US,6.0,Elimination,Individual,Tiffany Derry,female,POC,Yes,Tournament of Champions
+594,Houston,19.0,US,7.0,Quickfire,Individual,Kwame Onwuachi,male,POC,Yes,
+595,Houston,19.0,US,7.0,Quickfire,Individual,Ope Amosu,male,POC,,
+596,Houston,19.0,US,7.0,Elimination,Team,Joe Flamm,male,,Yes,
+597,Houston,19.0,US,7.0,Elimination,Team,Kwame Onwuachi,male,POC,Yes,
+598,Houston,19.0,US,8.0,Elimination,Team,Hunter Lewis,male,,,Yes?
+599,Houston,19.0,US,8.0,Elimination,Team,Tiffany Derry,female,POC,Yes,Tournament of Champions
+600,Houston,19.0,US,9.0,Quickfire,Individual,Nyesha Arrington,female,POC,Yes,Tournament of Champions
+601,Houston,19.0,US,9.0,Elimination,Individual,Dawn Burrell,female,POC,Yes,
+602,Houston,19.0,US,9.0,Elimination,Individual,Kwame Onwuachi,male,POC,Yes,
+603,Houston,19.0,US,10.0,Quickfire,Individual,Claudette Zepeda,female,POC,Yes,
+604,Houston,19.0,US,10.0,Quickfire,Individual,Claudette Zepeda,female,POC,,
+605,Houston,19.0,US,10.0,Elimination,Individual,Marcus Samuelsson,male,POC,,"Top Chef Masters Season 2, Chopped Judge, Tournament of Champions Judge"
+606,Houston,19.0,US,10.0,Elimination,Individual,Melissa King,female,POC,Yes,
+607,Houston,19.0,US,11.0,Quickfire,Individual,Shota Nakajima,male,POC,Yes,
+608,Houston,19.0,US,11.0,Elimination,Individual,Adrienne Cheatham,female,POC,Yes,
+609,Houston,19.0,US,11.0,Elimination,Individual,Sheldon Simeon,male,POC,Yes,
+610,Houston,19.0,US,12.0,Elimination,Individual,Daniel Boulud,male,,,
+611,Houston,19.0,US,12.0,Elimination,Individual,Stephanie Izard,female,,Yes,Tournament of Champions
+612,Houston,19.0,US,13.0,Quickfire,Individual,Carlotta Flores,female,POC,,
+613,Houston,19.0,US,13.0,Elimination,Individual,Carlotta Flores,female,POC,,
+614,Houston,19.0,US,13.0,Elimination,Individual,Kristen Kish,female,POC,Yes,Iron Chef: Quest for an Iron Legend Host
+615,Houston,19.0,US,14.0,Elimination,Individual,Eric Ripert,male,,,Yes?
+616,Houston,19.0,US,14.0,Elimination,Individual,Stephanie Izard,female,,Yes,Tournament of Champions
+617,World All Stars,20.0,US,1.0,Elimination,Individual,Angela Harnett,female,,,
+618,World All Stars,20.0,US,2.0,Quickfire,Individual,Santiago Lastra,male,POC,,
+619,World All Stars,20.0,US,2.0,Elimination,Individual,Lorna Maseko,female,POC,,
+620,World All Stars,20.0,US,3.0,Elimination,Team,Brett Graham,male,,,
+621,World All Stars,20.0,US,3.0,Elimination,Team,James Cochran,male,POC,,
+622,World All Stars,20.0,US,4.0,Quickfire,Individual,Paul A. Young,male,,,
+623,World All Stars,20.0,US,4.0,Elimination,Team,Aquiles Chavez,male,POC,,
+624,World All Stars,20.0,US,4.0,Elimination,Team,Ledley King,male,POC,,
+625,World All Stars,20.0,US,5.0,Quickfire,Individual,Adam Handling,male,,,
+626,World All Stars,20.0,US,5.0,Elimination,Individual,Martha Ortiz,female,POC,,
+627,World All Stars,20.0,US,6.0,Elimination,Team,Graham Hornigold,male,POC,,
+628,World All Stars,20.0,US,6.0,Elimination,Team,Harriet Mansell,female,,,
+629,World All Stars,20.0,US,6.0,Elimination,Team,Max Halley,male,,,
+630,World All Stars,20.0,US,6.0,Elimination,Team,Roger Pizey,male,,,
+631,World All Stars,20.0,US,6.0,Elimination,Team,Stu Deeley,male,,,
+632,World All Stars,20.0,US,7.0,Quickfire,Individual,Gaggan Anand,male,POC,,
+633,World All Stars,20.0,US,7.0,Elimination,Individual,Gaggan Anand,male,POC,,
+634,World All Stars,20.0,US,8.0,Quickfire,Individual,Judy Joo,female,POC,,
+635,World All Stars,20.0,US,8.0,Elimination,Team,David Zilber,male,POC,,
+636,World All Stars,20.0,US,9.0,Elimination,Team,Clare Smyth,female,,,
+637,World All Stars,20.0,US,9.0,Elimination,Team,Jimi Famurewa,male,POC,,
+638,World All Stars,20.0,US,10.0,Quickfire,Individual,Tom Brown,male,,,
+639,World All Stars,20.0,US,10.0,Elimination,Individual,Asma Khan,female,POC,,
+640,World All Stars,20.0,US,11.0,Quickfire,Individual,Andrew Wong,male,POC,,
+641,World All Stars,20.0,US,11.0,Elimination,Team,Kirk Westaway,male,,,
+642,World All Stars,20.0,US,12.0,Quickfire,Individual,Sam Bompas,male,,,
+643,World All Stars,20.0,US,12.0,Elimination,Individual,Jeremy Chan,male,POC,,
+644,World All Stars,20.0,US,13.0,Quickfire,Individual,Greg Marchand,male,,,
+645,World All Stars,20.0,US,13.0,Elimination,Individual,Greg Marchand,male,,,
+646,World All Stars,20.0,US,14.0,Elimination,Individual,Helene Darroze,female,,,
+647,Wisconsin,21.0,US,1.0,Elimination,Individual,Adam Siegel,male,,,
+648,Wisconsin,21.0,US,1.0,Elimination,Individual,Paul Bartolotta,male,,,
+649,Wisconsin,21.0,US,2.0,Quickfire,Individual,Joe Flamm,male,,Yes,
+650,Wisconsin,21.0,US,2.0,Elimination,Team,Joe Flamm,male,,Yes,
+651,Wisconsin,21.0,US,3.0,Quickfire,Individual,Carla Hall,female,POC,Yes,
+652,Wisconsin,21.0,US,3.0,Quickfire,Individual,Clea Duvall,female,,,
+653,Wisconsin,21.0,US,3.0,Elimination,Individual,Carla Hall,female,POC,Yes,
+654,Wisconsin,21.0,US,3.0,Elimination,Individual,Dane Baldwin,male,POC,,
+655,Wisconsin,21.0,US,4.0,Elimination,Team,Buddha Lo,male,POC,Yes,
+656,Wisconsin,21.0,US,4.0,Elimination,Team,Dominique Crenn,female,,,
+657,Wisconsin,21.0,US,5.0,Quickfire,Individual,W. Kamau Bell,male,POC,,
+658,Wisconsin,21.0,US,5.0,Quickfire,Individual,Tory Miller,male,POC,,
+659,Wisconsin,21.0,US,5.0,Elimination,Team,Joe Papach,female,,,
+660,Wisconsin,21.0,US,5.0,Elimination,Team,Shana Papach,male,,,
+661,Wisconsin,21.0,US,6.0,Quickfire,Individual,Christina Tosi,female,,,
+662,Wisconsin,21.0,US,6.0,Elimination,Individual,Matty Matheson,male,,,
+663,Wisconsin,21.0,US,6.0,Elimination,Individual,Sophia Roe,female,POC,,
+664,Wisconsin,21.0,US,7.0,Quickfire,Individual,Bryan Voltaggio,male,,,
+665,Wisconsin,21.0,US,7.0,Elimination,Team,Bryan Voltaggio,male,,,
+666,Wisconsin,21.0,US,7.0,Elimination,Team,Amar Santana,male,,,
+667,Wisconsin,21.0,US,7.0,Elimination,Team,Brittany Snow,female,,,
+668,Wisconsin,21.0,US,7.0,Elimination,Team,Ryan Braun,male,,,
+669,Wisconsin,21.0,US,8.0,Elimination,Team,Kwame Onwuachi,male,POC,Yes,
+670,Wisconsin,21.0,US,8.0,Elimination,Team,Stephanie Izard,female,,Yes,TOC
+671,Wisconsin,21.0,US,9.0,Quickfire,Individual,Rochelle Hoffman,female,,,
+672,Wisconsin,21.0,US,9.0,Elimination,Individual,Elena Terry,female,POC,,
+673,Wisconsin,21.0,US,9.0,Elimination,Individual,Sean Sherman,male,POC,,
+674,Masters Season 1,1.0,US Masters,2.0,Quickfire,Individual,Betty Fraser,female,,Yes,
+675,Masters Season 1,1.0,US Masters,2.0,Quickfire,Individual,Ilan Hall,male,,Yes,
+676,Masters Season 1,1.0,US Masters,2.0,Quickfire,Individual,Michael Midgley,male,,Yes,
+677,Masters Season 1,1.0,US Masters,2.0,Elimination,Individual,Carlton Cuse,male,,,
+678,Masters Season 1,1.0,US Masters,2.0,Elimination,Individual,Damon Lindelof,male,,,
+679,Masters Season 1,1.0,US Masters,3.0,Quickfire,Individual,Chris Oliver,male,,,
+680,Masters Season 1,1.0,US Masters,3.0,Quickfire,Individual,Christine Peters,female,,,
+681,Masters Season 1,1.0,US Masters,3.0,Quickfire,Individual,Joanne Chen,female,POC,,
+682,Masters Season 1,1.0,US Masters,4.0,Quickfire,Individual,Gail Simmons,female,,,Top Chef: Just Desserts
+683,Masters Season 1,1.0,US Masters,4.0,Quickfire,Individual,Monica May,female,,,
+684,Masters Season 1,1.0,US Masters,4.0,Quickfire,Individual,Terry Reish,?,,,
+685,Masters Season 1,1.0,US Masters,4.0,Elimination,Individual,Neil Patrick Harris,male,,,
+686,Masters Season 1,1.0,US Masters,5.0,Quickfire,Individual,Jeff Lewis,male,,,
+687,Masters Season 1,1.0,US Masters,6.0,Quickfire,Individual,Whole Foods workers,-,,,
+688,Masters Season 1,1.0,US Masters,7.0,Quickfire,Team,Tom Colicchio,male,,,Top Chef Judge
+689,Masters Season 1,1.0,US Masters,8.0,Quickfire,Individual,Morgan Spurlock,male,,,
+690,Masters Season 1,1.0,US Masters,8.0,Quickfire,Individual,Sang Yoon,male,POC,,Top Chef Masters Season 5
+691,Masters Season 1,1.0,US Masters,8.0,Quickfire,Individual,Spike Mendelsohn,male,,Yes,
+692,Masters Season 1,1.0,US Masters,8.0,Elimination,Individual,Zooey Deschanel,female,,,
+693,Masters Season 1,1.0,US Masters,10.0,Elimination,Individual,Gail Simmons,female,,,Top Chef: Just Desserts
+694,Masters Season 1,1.0,US Masters,10.0,Elimination,Individual,Padma Lakshmi,female,POC,,
+695,Masters Season 1,1.0,US Masters,10.0,Elimination,Individual,Tom Colicchio,male,,,Top Chef Judge
+696,Masters Season 2,2.0,US Masters,1.0,Quickfire,Team,The Bravery,male,,,
+697,Masters Season 2,2.0,US Masters,1.0,Quickfire,Team,"The Bravery, Lexus",male,,,
+698,Masters Season 2,2.0,US Masters,2.0,Elimination,Individual,Mekhi Phifer,male,POC,,
+699,Masters Season 2,2.0,US Masters,3.0,Quickfire,Individual,Real Housewives of Orange County,female,,,
+700,Masters Season 2,2.0,US Masters,4.0,Quickfire,Individual,Gail Simmons,female,,,Top Chef: Just Desserts
+701,Masters Season 2,2.0,US Masters,4.0,Quickfire,Individual,Stephen Hamilton,male,POC,,
+702,Masters Season 2,2.0,US Masters,6.0,Quickfire,Individual,Hank Azaria,male,,,
+703,Masters Season 2,2.0,US Masters,6.0,Quickfire,Individual,Matt Groenig,male,,,
+704,Masters Season 2,2.0,US Masters,6.0,Quickfire,Individual,Matt Selman,male,,,
+705,Masters Season 2,2.0,US Masters,6.0,Elimination,Individual,Andrew Zimmern,male,,,Tournament of Champions Judge; Iron Chef: Quest for an Iron Legend Judge
+706,Masters Season 2,2.0,US Masters,7.0,Quickfire,Individual,Jason Lezak,male,,,
+707,Masters Season 2,2.0,US Masters,8.0,Elimination,Individual,Gail Simmons,female,,,Top Chef: Just Desserts
+708,Masters Season 2,2.0,US Masters,9.0,Quickfire,Individual,James Oseland,male,,,Top Chef Masters Judge
+709,Masters Season 2,2.0,US Masters,10.0,Elimination,Individual,Hubert Keller,male,,,Top Chef Masters Runner-Up (Season 1)
+710,Masters Season 2,2.0,US Masters,10.0,Elimination,Individual,Michael Chiarello,male,,,Top Chef Masters Runner-Up (Season 1)
+711,Masters Season 2,2.0,US Masters,10.0,Elimination,Individual,Rick Bayless,male,,,Top Chef Masters Season 1
+712,Masters Season 2,2.0,US Masters,10.0,Elimination,Individual,Tom Colicchio,male,,,Top Chef Judge
+713,Masters Season 3,3.0,US Masters,2.0,Quickfire,Individual,Kelis,female,POC,,
+714,Masters Season 3,3.0,US Masters,2.0,Elimination,Individual,Christina Hendrix,female,,,
+715,Masters Season 3,3.0,US Masters,2.0,Elimination,Individual,Geoffrey Arend,male,,,
+716,Masters Season 3,3.0,US Masters,3.0,Quickfire,Individual,Mykel Hawke,male,,,
+717,Masters Season 3,3.0,US Masters,3.0,Quickfire,Individual,Ruth England,female,,,
+718,Masters Season 3,3.0,US Masters,3.0,Elimination,Individual,Alan Sytsma,male,,,
+719,Masters Season 3,3.0,US Masters,4.0,Quickfire,Individual,Norbert Namgib,?,,,
+720,Masters Season 3,3.0,US Masters,4.0,Elimination,Team,Alan Sytsma,male,,,
+721,Masters Season 3,3.0,US Masters,5.0,Quickfire,Individual,Brendan Newnam,male,,,
+722,Masters Season 3,3.0,US Masters,5.0,Quickfire,Individual,Rico Gagliano,male,,,
+723,Masters Season 3,3.0,US Masters,5.0,Elimination,Individual,Alan Sytsma,male,,,
+724,Masters Season 3,3.0,US Masters,6.0,Elimination,Team,Gail Simmons,female,,,Top Chef: Just Desserts
+725,Masters Season 3,3.0,US Masters,7.0,Elimination,Individual,Gael Greene,female,,,
+726,Masters Season 3,3.0,US Masters,7.0,Elimination,Individual,Gail Simmons,female,,,Top Chef: Just Desserts
+727,Masters Season 3,3.0,US Masters,8.0,Elimination,Individual,Padma Lakshmi,female,POC,,Top Chef Host
+728,Masters Season 4,4.0,US Masters,3.0,Quickfire,Individual,Brian Boitano,male,,,
+729,Masters Season 4,4.0,US Masters,3.0,Elimination,Team,Francis Lam,male,POC,,
+730,Masters Season 4,4.0,US Masters,3.0,Elimination,Team,Jonathan Waxman,male,,,"Top Chef Masters Season 1 and 2, and more as a Judge?"
+731,Masters Season 4,4.0,US Masters,3.0,Elimination,Team,Mary Sue Milliken,female,,,Top Chef Masters Season 3
+732,Masters Season 4,4.0,US Masters,3.0,Elimination,Team,Rick Moonen,male,,,Top Chef Masters Season 2
+733,Masters Season 4,4.0,US Masters,3.0,Elimination,Team,Susan Feniger,female,,,Top Chef Masters Season 2
+734,Masters Season 4,4.0,US Masters,4.0,Quickfire,Individual,B52s,-,,,
+735,Masters Season 4,4.0,US Masters,4.0,Elimination,Team,Francis Lam,male,POC,,
+736,Masters Season 4,4.0,US Masters,4.0,Elimination,Team,Members of the Hualapai tribe,-,,,
+737,Masters Season 4,4.0,US Masters,5.0,Quickfire,Individual,Indigo Girls,female,,,
+738,Masters Season 4,4.0,US Masters,5.0,Elimination,Individual,Francis Lam,male,POC,,
+739,Masters Season 4,4.0,US Masters,5.0,Elimination,Individual,Holly Madison,female,,,
+740,Masters Season 4,4.0,US Masters,6.0,Quickfire,Individual,Dita Von Teese,female,,,
+741,Masters Season 4,4.0,US Masters,6.0,Elimination,Individual,Alan Sytsma,male,,,
+742,Masters Season 4,4.0,US Masters,6.0,Elimination,Individual,Francis Lam,male,POC,,
+743,Masters Season 4,4.0,US Masters,7.0,Quickfire,Individual,Chris Cosentino,male,,,Top Chef Masters Season 4
+744,Masters Season 4,4.0,US Masters,7.0,Quickfire,Individual,Lorena Garcia,female,POC,,Top Chef Masters Season 4
+745,Masters Season 4,4.0,US Masters,7.0,Quickfire,Individual,Patricia Yeo,female,POC,,Top Chef Masters Season 4
+746,Masters Season 4,4.0,US Masters,7.0,Elimination,Individual,Jane Goldman,female,,,
+747,Masters Season 4,4.0,US Masters,7.0,Elimination,Individual,Kerry Heffernan,male,,,Top Chef Masters Season 4
+748,Masters Season 4,4.0,US Masters,7.0,Elimination,Individual,Sugar Ray Leonard,male,POC,,
+749,Masters Season 4,4.0,US Masters,8.0,Quickfire,Team,Johnny Avello,male,,,
+750,Masters Season 4,4.0,US Masters,8.0,Elimination,Individual,Francis Lam,male,POC,,
+751,Masters Season 4,4.0,US Masters,9.0,Elimination,Individual,Francis Lam,male,POC,,
+752,Masters Season 4,4.0,US Masters,10.0,Elimination,Individual,Alan Richman,male,,,
+753,Masters Season 4,4.0,US Masters,10.0,Elimination,Individual,Alan Sytsma,male,,,
+754,Masters Season 4,4.0,US Masters,10.0,Elimination,Individual,Francis Lam,male,POC,,
+755,Masters Season 4,4.0,US Masters,10.0,Elimination,Individual,Jane Goldman,female,,,
+756,Masters Season 4,4.0,US Masters,10.0,Elimination,Individual,John Curtas,male,,,
+757,Masters Season 4,4.0,US Masters,10.0,Elimination,Individual,Karen Brooks,female,,,
+758,Masters Season 4,4.0,US Masters,10.0,Elimination,Individual,Lesley Bargar Suter,female,,,
+759,Masters Season 5,5.0,US Masters,1.0,Elimination,Individual,Lesley Bargar Suter,female,,,
+760,Masters Season 5,5.0,US Masters,2.0,Sudden Death Quickfire,Individual,Gail Simmons,female,,,
+761,Masters Season 5,5.0,US Masters,2.0,Elimination,Individual,Francis Lam,male,POC,,
+762,Masters Season 5,5.0,US Masters,3.0,Quickfire,Individual,Amelia Posada,female,,,
+763,Masters Season 5,5.0,US Masters,3.0,Quickfire,Individual,Erika Nakamura,female,POC,,
+764,Masters Season 5,5.0,US Masters,3.0,Elimination,Individual,Lesley Bargar Suter,female,,,
+765,Masters Season 5,5.0,US Masters,4.0,Quickfire,Individual,Jason Bentley,male,,,
+766,Masters Season 5,5.0,US Masters,5.0,Elimination,Team,Busy Philipps,female,,,
+767,Masters Season 5,5.0,US Masters,5.0,Elimination,Team,Dana Cowin,female,,,
+768,Masters Season 5,5.0,US Masters,5.0,Elimination,Team,Francis Lam,male,POC,,
+769,Masters Season 5,5.0,US Masters,6.0,Quickfire,Individual,Mindy Kaling,female,POC,,
+770,Masters Season 5,5.0,US Masters,6.0,Elimination,Individual,Francis Lam,male,POC,,
+771,Masters Season 5,5.0,US Masters,7.0,Quickfire,Individual,Ali Larter,female,,,
+772,Masters Season 5,5.0,US Masters,7.0,Elimination,Team,Francis Lam,male,POC,,
+773,Masters Season 5,5.0,US Masters,8.0,Quickfire,Individual,Daniel Handler,male,,,
+774,Masters Season 5,5.0,US Masters,8.0,Elimination,Individual,Jane Goldman,female,,,
+775,Masters Season 5,5.0,US Masters,8.0,Elimination,Individual,Lesley Bargar Suter,female,,,
+776,Masters Season 5,5.0,US Masters,9.0,Quickfire,Individual,Sang Yoon,male,POC,,Top Chef Masters Season 5
+777,Masters Season 5,5.0,US Masters,9.0,Elimination,Individual,Alan Richman,male,,,
+778,Masters Season 5,5.0,US Masters,9.0,Elimination,Individual,Alan Richman,male,,,
+779,Masters Season 5,5.0,US Masters,9.0,Elimination,Individual,Hadley Tomicki,male,,,
+780,Masters Season 5,5.0,US Masters,9.0,Elimination,Individual,Jane Goldman,female,,,
+781,Masters Season 5,5.0,US Masters,10.0,Elimination,Individual,Francis Lam,male,POC,,
+782,Masters Season 5,5.0,US Masters,10.0,Elimination,Individual,Lesley Bargar Suter,female,,,
+783,Wisconsin,21.0,US,10.0,Quickfire,Individual,Art Smith,male,,,Top Chef Masters Seasons 1 and 4
+784,Wisconsin,21.0,US,10.0,Elimination,Individual,Art Smith,male,,,Top Chef Masters Seasons 1 and 4
+785,Wisconsin,21.0,US,11.0,Elimination,Individual,Curtis Duffy,male,,,
+786,Wisconsin,21.0,US,12.0,Quickfire,Individual,Paul Bartolotta,male,,,
+787,Wisconsin,21.0,US,12.0,Elimination,Individual,Paul Bartolotta,male,,,
+788,Wisconsin,21.0,US,12.0,Elimination,Individual,Hunter Lewis,male,,,
+789,Wisconsin,21.0,US,13.0,Quickfire,Individual,Helmi Smeulders,female,,,
+790,Wisconsin,21.0,US,13.0,Elimination,Individual,Ed Lee,male,POC,,
+791,Wisconsin,21.0,US,14.0,Elimination,Individual,Emeril Lagasse,male,,,

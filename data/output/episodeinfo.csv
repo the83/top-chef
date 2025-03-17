@@ -1,0 +1,374 @@
+,season,seasonNumber,series,overallEpisodeNumber,episode,episodeName,airDate,nCompetitors
+0,Canada 6,6.0,Canada,60.0,1.0,The Next Wave,2018-04-08,11.0
+1,Canada 6,6.0,Canada,61.0,2.0,The Chicken or the Immunity,2018-04-15,10.0
+2,Canada 6,6.0,Canada,62.0,3.0,Que Rico,2018-04-22,9.0
+3,Canada 6,6.0,Canada,63.0,4.0,Restaurant Wars,2018-04-29,8.0
+4,Canada 6,6.0,Canada,64.0,5.0,Double Overtime,2018-05-06,8.0
+5,Canada 6,6.0,Canada,65.0,6.0,That's a Lot of Dough,2018-05-13,6.0
+6,Canada 6,6.0,Canada,66.0,7.0,Wine of the Tiger,2018-05-20,5.0
+7,Canada 6,6.0,Canada,67.0,8.0,Finale Four Ways,2018-05-27,4.0
+8,San Francisco,1.0,US,1.0,1.0,Who Deserves to Be Here?,2006-03-08,12.0
+9,San Francisco,1.0,US,2.0,2.0,Food of Love,2006-03-15,11.0
+10,San Francisco,1.0,US,3.0,3.0,Nasty Delights,2006-03-22,11.0
+11,San Francisco,1.0,US,4.0,4.0,Food on the Fly,2006-03-29,9.0
+12,San Francisco,1.0,US,5.0,5.0,Blind Confusion,2006-04-05,8.0
+13,San Francisco,1.0,US,6.0,6.0,Guess Who's Coming to Dinner,2006-04-12,7.0
+14,San Francisco,1.0,US,7.0,7.0,Restaurant Wars,2006-04-19,6.0
+15,San Francisco,1.0,US,8.0,8.0,Wedding Bell Blues,2006-04-26,5.0
+16,San Francisco,1.0,US,9.0,9.0,Napa's Finest,2006-05-03,4.0
+17,San Francisco,1.0,US,10.0,10.0,Reunion,2006-05-10,12.0
+18,San Francisco,1.0,US,11.0,11.0,Vegas Finale - Part 1,2006-05-17,3.0
+19,San Francisco,1.0,US,12.0,12.0,Vegas Finale - Part 2,2006-05-24,2.0
+20,Los Angeles,2.0,US,13.0,1.0,Into the Fire,2006-10-18,15.0
+21,Los Angeles,2.0,US,14.0,2.0,Eastern Promise,2006-10-25,14.0
+22,Los Angeles,2.0,US,15.0,3.0,Food for the People,2006-11-01,13.0
+23,Los Angeles,2.0,US,16.0,4.0,Less is More,2006-11-08,12.0
+24,Los Angeles,2.0,US,17.0,5.0,Social Service,2006-11-15,12.0
+25,Los Angeles,2.0,US,18.0,6.0,Thanksgiving,2006-11-22,10.0
+26,Los Angeles,2.0,US,19.0,7.0,The Raw and the Cooked,2006-12-06,9.0
+27,Los Angeles,2.0,US,20.0,8.0,Holiday Spirit,2006-12-13,8.0
+28,Los Angeles,2.0,US,21.0,9.0,Seven,2007-01-03,7.0
+29,Los Angeles,2.0,US,22.0,10.0,Unhappy Customers (Restaurant Wars),2007-01-10,6.0
+30,Los Angeles,2.0,US,23.0,11.0,Sense and Sensuality,2007-01-17,5.0
+31,Los Angeles,2.0,US,24.0,12.0,"Hawaii Finale, Part 1",2007-01-24,4.0
+32,Los Angeles,2.0,US,25.0,13.0,"Hawaii Finale, Part 2",2007-01-31,2.0
+33,Miami,3.0,US,26.0,17.0,4-Star All-Stars,2007-06-06,8.0
+34,Miami,3.0,US,27.0,1.0,First Impressions,2007-06-13,14.0
+35,Miami,3.0,US,28.0,2.0,Sunny Delights,2007-06-20,14.0
+36,Miami,3.0,US,29.0,3.0,Family Favorites,2007-06-27,13.0
+37,Miami,3.0,US,30.0,4.0,Cooking By Numbers,2007-07-11,12.0
+38,Miami,3.0,US,31.0,5.0,Latin Lunch,2007-07-18,11.0
+39,Miami,3.0,US,32.0,16.0,Watch What Happens Special,2007-07-25,12.0
+40,Miami,3.0,US,33.0,6.0,Freezer Burn,2007-08-01,10.0
+41,Miami,3.0,US,34.0,7.0,Guilty Pleasures,2007-08-08,9.0
+42,Miami,3.0,US,35.0,8.0,Restaurant Wars,2007-08-15,8.0
+43,Miami,3.0,US,36.0,9.0,Second Helping,2007-08-22,8.0
+44,Miami,3.0,US,37.0,10.0,Chef Overboard,2007-09-05,7.0
+45,Miami,3.0,US,38.0,11.0,Snacks on a Plane,2007-09-12,6.0
+46,Miami,3.0,US,39.0,12.0,Manhattan Project,2007-09-19,5.0
+47,Miami,3.0,US,40.0,13.0,"Finale, Part 1",2007-09-26,4.0
+48,Miami,3.0,US,41.0,14.0,"Finale, Part 2",2007-10-03,3.0
+49,Miami,3.0,US,42.0,15.0,Reunion,2007-10-10,14.0
+50,Miami,3.0,US,43.0,18.0,Top Chef Holiday Special,2007-12-06,14.0
+51,Chicago,4.0,US,44.0,1.0,"Anything You Can Cook, I Can Cook Better",2008-03-12,16.0
+52,Chicago,4.0,US,45.0,2.0,Zoo Food,2008-03-19,15.0
+53,Chicago,4.0,US,46.0,3.0,Block Party,2008-03-26,14.0
+54,Chicago,4.0,US,47.0,4.0,Film Food,2008-04-02,13.0
+55,Chicago,4.0,US,48.0,5.0,The Elements,2008-04-09,12.0
+56,Chicago,4.0,US,49.0,6.0,Tailgating,2008-04-16,11.0
+57,Chicago,4.0,US,50.0,7.0,Improv,2008-04-23,10.0
+58,Chicago,4.0,US,51.0,8.0,Common Threads,2008-04-30,9.0
+59,Chicago,4.0,US,52.0,9.0,Wedding Wars,2008-05-07,8.0
+60,Chicago,4.0,US,53.0,10.0,Serve and Protect,2008-05-14,7.0
+61,Chicago,4.0,US,54.0,11.0,Restaurant Wars,2008-05-21,6.0
+62,Chicago,4.0,US,55.0,12.0,High Steaks,2008-05-28,5.0
+63,Chicago,4.0,US,56.0,13.0,Puerto Rico,2008-06-04,4.0
+64,Chicago,4.0,US,57.0,14.0,Finale,2008-06-11,3.0
+65,New York,5.0,US,59.0,1.0,Melting Pot,2008-11-12,17.0
+66,New York,5.0,US,60.0,2.0,Show Your Craft,2008-11-19,15.0
+67,New York,5.0,US,61.0,3.0,A Foo Fighters Thanksgiving,2008-11-26,14.0
+68,New York,5.0,US,62.0,4.0,Today Show,2008-12-03,13.0
+69,New York,5.0,US,63.0,5.0,Gail's Bridal Shower,2008-12-10,12.0
+70,New York,5.0,US,64.0,6.0,12 Days of Christmas,2008-12-17,11.0
+71,New York,5.0,US,65.0,7.0,Focus Group,2009-01-07,11.0
+72,New York,5.0,US,66.0,8.0,Down on the Farm,2009-01-14,9.0
+73,New York,5.0,US,67.0,9.0,Restaurant Wars,2009-01-21,8.0
+74,New York,5.0,US,68.0,10.0,Super Bowl Chef Showdown,2009-01-28,7.0
+75,New York,5.0,US,69.0,11.0,Le Bernardin,2009-02-04,6.0
+76,New York,5.0,US,70.0,12.0,The Last Supper,2009-02-11,5.0
+77,New York,5.0,US,71.0,13.0,Finale - Part I,2009-02-18,5.0
+78,New York,5.0,US,72.0,14.0,Finale - Part II,2009-02-25,3.0
+79,New York,5.0,US,73.0,15.0,What What Happens Reunion,2009-03-04,17.0
+80,Las Vegas,6.0,US,74.0,1.0,Sin City Vice,2009-08-19,17.0
+81,Las Vegas,6.0,US,75.0,2.0,Bachelor/ette Party,2009-08-26,16.0
+82,Las Vegas,6.0,US,76.0,3.0,Thunderbirds,2009-09-02,15.0
+83,Las Vegas,6.0,US,77.0,4.0,Vivre Las Vegas,2009-09-01,14.0
+84,Las Vegas,6.0,US,78.0,5.0,Camping,2009-09-16,12.0
+85,Las Vegas,6.0,US,79.0,6.0,Penn & Teller,2009-09-23,11.0
+86,Las Vegas,6.0,US,80.0,7.0,Dinner Party,2009-10-07,10.0
+87,Las Vegas,6.0,US,81.0,8.0,Pigs and Pinot,2009-10-14,9.0
+88,Las Vegas,6.0,US,82.0,9.0,Restaurant Wars,2009-10-21,8.0
+89,Las Vegas,6.0,US,83.0,10.0,Meat Natalie,2009-10-28,7.0
+90,Las Vegas,6.0,US,84.0,11.0,Top Chef All-Stars Dinner,2009-11-04,11.0
+91,Las Vegas,6.0,US,85.0,12.0,Strip Around the World,2009-11-11,6.0
+92,Las Vegas,6.0,US,86.0,13.0,Culinary Olympics,2009-11-18,5.0
+93,Las Vegas,6.0,US,87.0,14.0,"Napa Finale, Part I",2009-12-02,4.0
+94,Las Vegas,6.0,US,88.0,15.0,"Napa Finale, Part II",2009-12-09,3.0
+95,Las Vegas,6.0,US,89.0,16.0,Watch What Happens Reunion,2009-12-16,17.0
+96,D.C.,7.0,US,90.0,1.0,House of Chef-presentatives,2010-06-16,17.0
+97,D.C.,7.0,US,91.0,2.0,Outside the Lunchbox,2010-06-23,16.0
+98,D.C.,7.0,US,92.0,3.0,Capitol Grill,2010-06-30,15.0
+99,D.C.,7.0,US,93.0,4.0,Room Service,2010-07-07,14.0
+100,D.C.,7.0,US,94.0,5.0,Farm Policy,2010-07-14,12.0
+101,D.C.,7.0,US,95.0,6.0,Cold War,2010-07-21,11.0
+102,D.C.,7.0,US,96.0,7.0,Power Lunch,2010-07-28,10.0
+103,D.C.,7.0,US,97.0,8.0,Foreign Affairs,2010-08-04,9.0
+104,D.C.,7.0,US,98.0,9.0,Restaurant Wars,2010-08-11,8.0
+105,D.C.,7.0,US,99.0,10.0,Covert Cuisine,2010-08-18,7.0
+106,D.C.,7.0,US,100.0,11.0,Making Concessions,2010-08-25,6.0
+107,D.C.,7.0,US,101.0,12.0,Gastro-nauts,2010-09-01,5.0
+108,D.C.,7.0,US,102.0,13.0,Finale Part I,2010-09-08,4.0
+109,D.C.,7.0,US,103.0,14.0,Finale Part II,2010-09-15,3.0
+110,D.C.,7.0,US,104.0,15.0,Reunion,2010-09-22,17.0
+111,All Stars: New York,8.0,US,105.0,1.0,History Never Repeats,2010-12-01,18.0
+112,All Stars: New York,8.0,US,106.0,2.0,Night at the Museum,2010-12-08,17.0
+113,All Stars: New York,8.0,US,107.0,3.0,New York's Finest,2010-12-15,16.0
+114,All Stars: New York,8.0,US,108.0,4.0,Advantage Chef,2010-12-22,14.0
+115,All Stars: New York,8.0,US,109.0,5.0,Dim Sum Lose Some,2011-01-05,13.0
+116,All Stars: New York,8.0,US,110.0,6.0,We're Gonna Need a Bigger Boat,2011-01-12,12.0
+117,All Stars: New York,8.0,US,111.0,7.0,Restaurant Wars: One Night Only,2011-01-19,10.0
+118,All Stars: New York,8.0,US,112.0,8.0,An Offer They Can't Refuse,2011-02-02,9.0
+119,All Stars: New York,8.0,US,113.0,9.0,Feeding Fallon,2011-02-09,8.0
+120,All Stars: New York,8.0,US,114.0,10.0,Lock Down,2011-02-16,7.0
+121,All Stars: New York,8.0,US,115.0,11.0,For the Gulf,2011-02-23,6.0
+122,All Stars: New York,8.0,US,116.0,12.0,Give Me Your Huddled Masses,2011-03-02,5.0
+123,All Stars: New York,8.0,US,117.0,13.0,Fit for a King,2011-03-09,5.0
+124,All Stars: New York,8.0,US,118.0,14.0,Island Fever,2011-03-16,4.0
+125,All Stars: New York,8.0,US,119.0,15.0,Last Supper,2011-03-23,3.0
+126,All Stars: New York,8.0,US,120.0,16.0,Finale,2011-03-30,2.0
+127,All Stars: New York,8.0,US,121.0,17.0,Reunion,2011-04-06,18.0
+128,Texas,9.0,US,122.0,1.0,Everything's Bigger in Texas,2011-11-02,29.0
+129,Texas,9.0,US,123.0,2.0,The Heat Is On,2011-11-09,25.0
+130,Texas,9.0,US,124.0,3.0,Quinceanera,2011-11-16,16.0
+131,Texas,9.0,US,125.0,4.0,Red Hot Chili Cook-Off,2011-11-23,15.0
+132,Texas,9.0,US,126.0,5.0,Don't Be Tardy for the Dinner Party,2011-11-30,14.0
+133,Texas,9.0,US,127.0,6.0,Higher Steaks,2011-12-07,13.0
+134,Texas,9.0,US,128.0,7.0,Game On,2011-12-14,12.0
+135,Texas,9.0,US,129.0,8.0,Tribute Dinner,2011-12-21,10.0
+136,Texas,9.0,US,130.0,9.0,BBQ Pit Wars,2012-01-04,9.0
+137,Texas,9.0,US,131.0,10.0,Restaurant Wars,2012-01-11,8.0
+138,Texas,9.0,US,132.0,11.0,Fit for an Evil Queen,2012-01-18,7.0
+139,Texas,9.0,US,133.0,12.0,Block Party,2012-01-25,6.0
+140,Texas,9.0,US,134.0,13.0,"Bike, Borrow, & Steal",2012-02-01,5.0
+141,Texas,9.0,US,135.0,14.0,Mentors at Work?,2012-02-08,5.0
+142,Texas,9.0,US,136.0,15.0,Culinary Games,2012-02-15,4.0
+143,Texas,9.0,US,137.0,16.0,Fire and Ice,2012-02-22,3.0
+144,Texas,9.0,US,138.0,17.0,Finale,2012-02-29,2.0
+145,Seattle,10.0,US,140.0,1.0,The Ultimate Chef Test,2012-11-07,24.0
+146,Seattle,10.0,US,141.0,2.0,A Shock at the Space Needle,2012-11-14,18.0
+147,Seattle,10.0,US,142.0,3.0,Tom vs. Emeril: Turkeypocalypse,2012-11-21,17.0
+148,Seattle,10.0,US,143.0,4.0,50s Food Flashback,2012-11-28,16.0
+149,Seattle,10.0,US,144.0,5.0,Pike Place Pickle,2012-12-05,14.0
+150,Seattle,10.0,US,145.0,6.0,Even the Famous Come Home,2012-12-12,12.0
+151,Seattle,10.0,US,146.0,7.0,Foiled Again,2012-12-19,11.0
+152,Seattle,10.0,US,147.0,8.0,Jalapeno Business,2012-12-26,10.0
+153,Seattle,10.0,US,148.0,9.0,Past Suppers,2013-01-02,9.0
+154,Seattle,10.0,US,149.0,10.0,Battle Before the War,2013-01-09,8.0
+155,Seattle,10.0,US,150.0,11.0,Restaurant Wars,2013-01-16,7.0
+156,Seattle,10.0,US,151.0,12.0,Wolfgang Clucks,2013-01-23,6.0
+157,Seattle,10.0,US,152.0,13.0,Chefs at Sea,2013-01-30,5.0
+158,Seattle,10.0,US,153.0,14.0,Kings of Alaska,2013-02-06,4.0
+159,Seattle,10.0,US,154.0,15.0,Glacial Gourmand,2013-02-13,3.0
+160,Seattle,10.0,US,155.0,16.0,Finale Part 1,2013-02-20,3.0
+161,Seattle,10.0,US,156.0,17.0,Finale Part 2,2013-02-27,2.0
+162,New Orleans,11.0,US,157.0,1.0,Soiree in the Swamp,2013-10-02,18.0
+163,New Orleans,11.0,US,158.0,2.0,Rebuilding New Orleans,2013-10-09,17.0
+164,New Orleans,11.0,US,159.0,3.0,Commander's Palace,2013-10-16,16.0
+165,New Orleans,11.0,US,160.0,4.0,Captain Vietnam,2013-10-23,15.0
+166,New Orleans,11.0,US,161.0,5.0,Lea Michele's Halloween Bash,2013-10-30,14.0
+167,New Orleans,11.0,US,162.0,6.0,"Campfires, Cream Cheese, and Countryside",2013-11-06,13.0
+168,New Orleans,11.0,US,163.0,7.0,Jazz Hands,2013-11-13,12.0
+169,New Orleans,11.0,US,164.0,8.0,Piggin' Out,2013-11-20,11.0
+170,New Orleans,11.0,US,165.0,9.0,Restaurant Wars,2013-12-04,10.0
+171,New Orleans,11.0,US,166.0,10.0,Like Mama Made,2013-12-11,9.0
+172,New Orleans,11.0,US,167.0,11.0,Giving it the College Try,2013-12-18,8.0
+173,New Orleans,11.0,US,168.0,12.0,Mississippi Mud Bugs,2014-01-01,7.0
+174,New Orleans,11.0,US,169.0,13.0,Oui Si a Challenge,2014-01-08,6.0
+175,New Orleans,11.0,US,170.0,14.0,Po' Boy Smackdown,2014-01-15,5.0
+176,New Orleans,11.0,US,171.0,15.0,Leaving New Orleans,2014-01-22,4.0
+177,New Orleans,11.0,US,172.0,16.0,Maui Wowie,2014-01-29,4.0
+178,New Orleans,11.0,US,173.0,17.0,Finale,2014-02-05,2.0
+179,Boston,12.0,US,174.0,1.0,Sudden Death,2014-10-15,16.0
+180,Boston,12.0,US,175.0,2.0,Boston's Bravest and Finest,2014-10-22,14.0
+181,Boston,12.0,US,176.0,3.0,The Curse of the Bambino,2014-10-29,13.0
+182,Boston,12.0,US,177.0,4.0,12 Chefs Walk Into a Bar,2014-11-05,12.0
+183,Boston,12.0,US,178.0,5.0,It's War,2014-11-12,10.0
+184,Boston,12.0,US,179.0,6.0,The First Thanksgiving,2014-11-19,9.0
+185,Boston,12.0,US,180.0,7.0,Restaurant Wars,2014-12-03,8.0
+186,Boston,12.0,US,181.0,8.0,Clean Up in Aisle 2!,2014-12-10,7.0
+187,Boston,12.0,US,182.0,9.0,Big Sausage,2014-12-17,6.0
+188,Boston,12.0,US,183.0,10.0,For Julia and Jacques,2015-01-07,5.0
+189,Boston,12.0,US,184.0,11.0,Sous Your Daddy,2015-01-14,4.0
+190,Boston,12.0,US,185.0,12.0,The Final Battle of Bean Town,2015-01-21,4.0
+191,Boston,12.0,US,186.0,13.0,Getting Prickly in Mexico,2015-01-28,4.0
+192,Boston,12.0,US,187.0,14.0,Holy Escamoly,2015-02-04,3.0
+193,Boston,12.0,US,188.0,15.0,Mano a Mano,2015-02-11,2.0
+194,California,13.0,US,189.0,1.0,Stop the Presses,2015-12-02,17.0
+195,California,13.0,US,190.0,2.0,Pop Up Pandemonium,2015-12-03,16.0
+196,California,13.0,US,191.0,3.0,Spines and Vines,2015-12-10,15.0
+197,California,13.0,US,192.0,4.0,It's a Dry Heat,2015-12-17,14.0
+198,California,13.0,US,193.0,5.0,Big Gay Wedding,2016-01-07,13.0
+199,California,13.0,US,194.0,6.0,Banannaise,2016-01-14,12.0
+200,California,13.0,US,195.0,7.0,Back in the Day,2016-01-21,10.0
+201,California,13.0,US,196.0,8.0,Where's the Beef?,2016-01-28,9.0
+202,California,13.0,US,197.0,9.0,"Restaurant Wars, Part 1",2016-02-04,8.0
+203,California,13.0,US,198.0,10.0,"Restaurant Wars, Part 2",2016-02-11,8.0
+204,California,13.0,US,199.0,11.0,Hammer Time,2016-02-18,7.0
+205,California,13.0,US,200.0,12.0,Wok This Way,2016-02-25,6.0
+206,California,13.0,US,201.0,13.0,Where It All Started,2016-03-03,4.0
+207,California,13.0,US,202.0,14.0,Magic Hour,2016-03-20,4.0
+208,California,13.0,US,203.0,15.0,Finale,2016-03-17,2.0
+209,Charleston,14.0,US,204.0,1.0,"Something Old, Something New",2016-12-01,16.0
+210,Charleston,14.0,US,205.0,2.0,Southern Hospitality,2016-12-08,15.0
+211,Charleston,14.0,US,206.0,3.0,Choke Holds and Clammy Hands,2016-12-15,14.0
+212,Charleston,14.0,US,207.0,4.0,The Feast of Seven Trash Fishes,2016-12-22,13.0
+213,Charleston,14.0,US,208.0,5.0,Smoke 'em if you Got 'em,2019-12-29,12.0
+214,Charleston,14.0,US,209.0,6.0,A Southern Legend,2017-01-05,11.0
+215,Charleston,14.0,US,210.0,7.0,Booty,2017-01-12,10.0
+216,Charleston,14.0,US,211.0,8.0,Restaurant Wars,2017-01-19,8.0
+217,Charleston,14.0,US,212.0,9.0,For the Kids,2017-01-26,7.0
+218,Charleston,14.0,US,213.0,10.0,Shrimp Boats and Hat Ladies,2017-02-02,6.0
+219,Charleston,14.0,US,214.0,11.0,"Adios Charleston, Hello James Beard",2017-02-09,4.0
+220,Charleston,14.0,US,215.0,12.0,Cooking Away in Margaritaville,2017-02-16,4.0
+221,Charleston,14.0,US,216.0,13.0,Trial by Fire,2017-02-23,3.0
+222,Charleston,14.0,US,217.0,14.0,Comida Final,2017-03-02,2.0
+223,Colorado,15.0,US,218.0,1.0,It'll Take More than Pot Luck,2017-12-07,15.0
+224,Colorado,15.0,US,219.0,2.0,Smile and Say Mise,2017-12-14,14.0
+225,Colorado,15.0,US,220.0,3.0,Keep on Truckin',2017-12-21,13.0
+226,Colorado,15.0,US,221.0,4.0,"Little Tools, Big Challenge",2017-12-28,11.0
+227,Colorado,15.0,US,222.0,5.0,This is Not Glamping,2018-01-04,12.0
+228,Colorado,15.0,US,223.0,6.0,Now That's a Lot of Schnitzel,2018-01-11,11.0
+229,Colorado,15.0,US,224.0,7.0,Olympic Dreams,2018-01-18,9.0
+230,Colorado,15.0,US,225.0,8.0,Restaurant Wars,2018-01-25,8.0
+231,Colorado,15.0,US,226.0,9.0,Bronco Brouhaha,2018-02-01,7.0
+232,Colorado,15.0,US,227.0,10.0,Red Rum and Then Some,2018-02-08,6.0
+233,Colorado,15.0,US,228.0,11.0,Cooking High,2018-02-15,5.0
+234,Colorado,15.0,US,229.0,12.0,Sunday Supper,2018-02-22,4.0
+235,Colorado,15.0,US,230.0,13.0,A Little Place Called Aspen,2018-03-01,3.0
+236,Colorado,15.0,US,231.0,14.0,Finale,2018-03-08,2.0
+237,Kentucky,16.0,US,232.0,1.0,The Fastest Two Minutes in Cooking,2018-12-06,15.0
+238,Kentucky,16.0,US,233.0,2.0,"Bourbon, Barrels and Burgoo",2018-12-13,14.0
+239,Kentucky,16.0,US,234.0,3.0,Naughty and Nice,2018-12-20,13.0
+240,Kentucky,16.0,US,235.0,4.0,Surprise...It's Restaurant Wars,2018-12-27,12.0
+241,Kentucky,16.0,US,236.0,5.0,Restaurant Wars Part 2,2019-01-03,12.0
+242,Kentucky,16.0,US,237.0,6.0,Roaring Munchies,2019-01-10,11.0
+243,Kentucky,16.0,US,238.0,7.0,Carne!,2019-01-17,10.0
+244,Kentucky,16.0,US,239.0,8.0,Whatever Floats Your Boat,2019-01-24,9.0
+245,Kentucky,16.0,US,240.0,9.0,Music City USA,2019-01-31,8.0
+246,Kentucky,16.0,US,241.0,10.0,Hoop Dreams,2019-02-07,7.0
+247,Kentucky,16.0,US,242.0,11.0,The Greatest,2019-02-14,6.0
+248,Kentucky,16.0,US,243.0,12.0,Kentucky Farewell,2019-02-21,6.0
+249,Kentucky,16.0,US,244.0,13.0,Holy Macau!,2019-02-28,5.0
+250,Kentucky,16.0,US,245.0,14.0,The Tao of Macau,2019-03-07,4.0
+251,Kentucky,16.0,US,246.0,15.0,Finale,2019-03-14,3.0
+252,All-Stars L.A.,17.0,US,247.0,1.0,It's Like They Never Left!,2020-03-19,15.0
+253,All-Stars L.A.,17.0,US,248.0,2.0,The Jonathan Gold Standard,2020-03-26,14.0
+254,All-Stars L.A.,17.0,US,249.0,3.0,Strokes of Genius,2020-04-02,13.0
+255,All-Stars L.A.,17.0,US,250.0,4.0,You're So Fresh!,2020-04-09,12.0
+256,All-Stars L.A.,17.0,US,251.0,5.0,Bring Your Loved One to Work,2020-04-16,11.0
+257,All-Stars L.A.,17.0,US,252.0,6.0,Get Your Phil,2020-04-23,10.0
+258,All-Stars L.A.,17.0,US,253.0,7.0,Pitch Perfect,2020-04-30,9.0
+259,All-Stars L.A.,17.0,US,254.0,8.0,Restaurant Wars,2020-05-07,8.0
+260,All-Stars L.A.,17.0,US,255.0,9.0,Cabin Fever,2020-05-14,7.0
+261,All-Stars L.A.,17.0,US,256.0,10.0,Colossal Coliseum Kaiseki,2020-05-21,6.0
+262,All-Stars L.A.,17.0,US,257.0,11.0,Michael's Santa Monica,2020-05-28,6.0
+263,All-Stars L.A.,17.0,US,258.0,12.0,Lucca,2020-06-04,5.0
+264,All-Stars L.A.,17.0,US,259.0,13.0,Parma,2020-06-11,4.0
+265,All-Stars L.A.,17.0,US,260.0,14.0,Finito!,2020-06-18,3.0
+266,Portland,18.0,US,261.0,1.0,First Impressions,2021-04-01,15.0
+267,Portland,18.0,US,262.0,2.0,Trouble Brewing,2021-04-08,14.0
+268,Portland,18.0,US,263.0,3.0,Pan African Portland,2021-04-15,13.0
+269,Portland,18.0,US,264.0,4.0,Thrown for a Loop,2021-04-22,12.0
+270,Portland,18.0,US,265.0,5.0,Meet You at the Drive-In,2021-04-29,11.0
+271,Portland,18.0,US,266.0,6.0,Stumptown U.S.A.,2021-05-06,10.0
+272,Portland,18.0,US,267.0,7.0,Feeding the Frontlines,2021-05-13,9.0
+273,Portland,18.0,US,268.0,8.0,Restaurant Wars,2021-05-20,8.0
+274,Portland,18.0,US,269.0,9.0,Portland-ia,2021-05-27,7.0
+275,Portland,18.0,US,270.0,10.0,Tournament of Tofu,2021-06-03,6.0
+276,Portland,18.0,US,271.0,11.0,Blind Ambitions,2021-06-10,5.0
+277,Portland,18.0,US,272.0,12.0,The Cheesier the Better,2021-06-17,4.0
+278,Portland,18.0,US,273.0,13.0,Shellfishly Delicious,2021-06-24,3.0
+279,Portland,18.0,US,274.0,14.0,The Next Top Chef Is...,2021-07-01,3.0
+280,Houston,19.0,US,275.0,1.0,Primal Instincts,2022-03-03,15.0
+281,Houston,19.0,US,276.0,2.0,Friday Night Bites,2022-03-10,14.0
+282,Houston,19.0,US,277.0,3.0,Noodles and Rice and Everything Nice,2022-03-17,13.0
+283,Houston,19.0,US,278.0,4.0,Doppelgangers,2022-03-24,12.0
+284,Houston,19.0,US,279.0,5.0,Don't Mess with BBQ,2022-03-31,10.0
+285,Houston,19.0,US,280.0,6.0,Texas Trailblaze-hers,2022-04-07,10.0
+286,Houston,19.0,US,281.0,7.0,Swallow the Competition,2022-04-14,9.0
+287,Houston,19.0,US,282.0,8.0,Restaurant Wars,2022-04-21,8.0
+288,Houston,19.0,US,283.0,9.0,Freedmen's Town,2022-04-28,7.0
+289,Houston,19.0,US,284.0,10.0,Dinner in Zero Gravity,2022-05-05,6.0
+290,Houston,19.0,US,285.0,11.0,Family Vacation,2022-05-12,6.0
+291,Houston,19.0,US,286.0,12.0,We're on a Boat,2022-05-19,5.0
+292,Houston,19.0,US,287.0,13.0,Cactus Makes Perfect,2022-05-26,4.0
+293,Houston,19.0,US,288.0,14.0,The Final Plate,2022-06-02,3.0
+294,World All Stars,20.0,US,289.0,1.0,London Calling,2023-03-09,16.0
+295,World All Stars,20.0,US,290.0,2.0,"Rice Rice, Baby",2023-03-16,15.0
+296,World All Stars,20.0,US,291.0,3.0,Cheeky Pints and Pub Bites,2023-03-23,14.0
+297,World All Stars,20.0,US,292.0,4.0,Spurred Lines,2023-03-30,12.0
+298,World All Stars,20.0,US,293.0,5.0,Holiday Vacation,2023-04-06,11.0
+299,World All Stars,20.0,US,294.0,6.0,Top Chef is No Picnic,2023-04-13,11.0
+300,World All Stars,20.0,US,295.0,7.0,Hands Off,2023-04-20,10.0
+301,World All Stars,20.0,US,296.0,8.0,Street Food Fight,2023-04-27,9.0
+302,World All Stars,20.0,US,297.0,9.0,Restaurant Wars,2023-05-04,8.0
+303,World All Stars,20.0,US,298.0,10.0,Thali Time,2023-05-11,7.0
+304,World All Stars,20.0,US,299.0,11.0,Battle of the Wellingtons,2023-05-18,6.0
+305,World All Stars,20.0,US,300.0,12.0,"Goodbye, London!",2023-05-25,5.0
+306,World All Stars,20.0,US,301.0,13.0,Champions in Paris,2023-06-01,4.0
+307,World All Stars,20.0,US,302.0,14.0,Fin.,2023-06-08,3.0
+308,Masters Season 1,1.0,US Masters,,1.0,Masters Get Schooled,2009-06-10,4.0
+309,Masters Season 1,1.0,US Masters,,2.0,The Lost Supper,2009-06-17,4.0
+310,Masters Season 1,1.0,US Masters,,3.0,Offal Tasty,2009-06-24,4.0
+311,Masters Season 1,1.0,US Masters,,4.0,Magic Chefs,2009-07-08,4.0
+312,Masters Season 1,1.0,US Masters,,5.0,Miniaturize Me,2009-07-15,4.0
+313,Masters Season 1,1.0,US Masters,,6.0,Trick in a Box,2009-07-22,4.0
+314,Masters Season 1,1.0,US Masters,,7.0,Champions Round Begins,2009-07-29,6.0
+315,Masters Season 1,1.0,US Masters,,8.0,Dietary Restrictions,2009-08-05,5.0
+316,Masters Season 1,1.0,US Masters,,9.0,Masters of Disaster,2009-08-12,4.0
+317,Masters Season 1,1.0,US Masters,,10.0,Finale: Top Chef Master,2009-08-19,3.0
+318,Masters Season 2,2.0,US Masters,,1.0,First Date Dinner,2010-04-07,6.0
+319,Masters Season 2,2.0,US Masters,,2.0,It's My Party,2010-04-14,5.0
+320,Masters Season 2,2.0,US Masters,,3.0,Pub Food,2010-04-21,6.0
+321,Masters Season 2,2.0,US Masters,,4.0,Cast and Crew Meal,2010-04-28,5.0
+322,Masters Season 2,2.0,US Masters,,5.0,Wedding Wars,2010-05-05,8.0
+323,Masters Season 2,2.0,US Masters,,6.0,Scary Surf & Turf,2010-05-12,7.0
+324,Masters Season 2,2.0,US Masters,,7.0,Tailgating,2010-05-19,6.0
+325,Masters Season 2,2.0,US Masters,,8.0,Food of the Gods,2010-05-26,5.0
+326,Masters Season 2,2.0,US Masters,,9.0,Improv,2010-06-02,4.0
+327,Masters Season 2,2.0,US Masters,,10.0,Top Chef Master,2010-06-09,3.0
+328,Masters Season 3,3.0,US Masters,,1.0,Restaurant Wars,2011-04-06,12.0
+329,Masters Season 3,3.0,US Masters,,2.0,Everything Old is New Again,2011-04-13,11.0
+330,Masters Season 3,3.0,US Masters,,3.0,Diners to Donors,2011-04-20,10.0
+331,Masters Season 3,3.0,US Masters,,4.0,Biggest Loser,2011-04-27,9.0
+332,Masters Season 3,3.0,US Masters,,5.0,Would You Like Fries with That?,2011-05-04,8.0
+333,Masters Season 3,3.0,US Masters,,6.0,I'm With the Band,2011-05-11,7.0
+334,Masters Season 3,3.0,US Masters,,7.0,Date Night,2011-05-18,6.0
+335,Masters Season 3,3.0,US Masters,,8.0,Blinded Me with Science,2011-06-01,5.0
+336,Masters Season 3,3.0,US Masters,,9.0,A Soldier's Story,2011-06-08,4.0
+337,Masters Season 3,3.0,US Masters,,10.0,My Life as a Chef,2011-06-15,3.0
+338,Masters Season 4,4.0,US Masters,,1.0,The Buffet Must Go On,2012-07-25,12.0
+339,Masters Season 4,4.0,US Masters,,2.0,You May Now Feed the Bride,2012-08-01,10.0
+340,Masters Season 4,4.0,US Masters,,3.0,What Would Brian Boitano Eat?,2012-08-08,9.0
+341,Masters Season 4,4.0,US Masters,,4.0,Grand Canyon Cookout,2012-08-15,8.0
+342,Masters Season 4,4.0,US Masters,,5.0,Holly Madison's Pool Party,2012-08-22,7.0
+343,Masters Season 4,4.0,US Masters,,6.0,Thai One On,2012-08-29,6.0
+344,Masters Season 4,4.0,US Masters,,7.0,Culinary Knock Out,2012-09-05,5.0
+345,Masters Season 4,4.0,US Masters,,8.0,Foodie Flash Mob,2012-09-12,4.0
+346,Masters Season 4,4.0,US Masters,,9.0,"Old School, New School",2012-09-19,3.0
+347,Masters Season 4,4.0,US Masters,,10.0,Finale,2012-09-26,2.0
+348,Masters Season 5,5.0,US Masters,,1.0,Sous chefs and Skydives,2013-07-24,13.0
+349,Masters Season 5,5.0,US Masters,,2.0,Asian Night Market,2013-07-31,12.0
+350,Masters Season 5,5.0,US Masters,,3.0,"Sex, Greed, and Murder",2013-08-07,10.0
+351,Masters Season 5,5.0,US Masters,,4.0,Curtis' Surprise Party,2013-08-14,9.0
+352,Masters Season 5,5.0,US Masters,,5.0,Restaurant Wars,2013-08-21,8.0
+353,Masters Season 5,5.0,US Masters,,6.0,Mindy Kaling and Yo Gabba Gabba,2013-08-28,7.0
+354,Masters Season 5,5.0,US Masters,,7.0,Catch of the Day,2013-09-04,6.0
+355,Masters Season 5,5.0,US Masters,,8.0,Lucha Vavoom,2013-09-11,5.0
+356,Masters Season 5,5.0,US Masters,,9.0,Teacher Tribute,2013-09-18,4.0
+357,Masters Season 5,5.0,US Masters,,10.0,Finale,2013-09-25,3.0
+358,Wisconsin,21.0,US,303.0,1.0,Chef's Test,2024-03-20,15.0
+359,Wisconsin,21.0,US,304.0,2.0,Living the High Life,2024-03-27,14.0
+360,Wisconsin,21.0,US,305.0,3.0,Take It Cheesey,2024-04-03,13.0
+361,Wisconsin,21.0,US,306.0,4.0,The Wright Way,2024-04-10,12.0
+362,Wisconsin,21.0,US,307.0,5.0,Supper Club,2024-04-17,10.0
+363,Wisconsin,21.0,US,308.0,6.0,Chaos Cuisine,2024-04-24,11.0
+364,Wisconsin,21.0,US,309.0,7.0,Sausage Race,2024-05-01,10.0
+365,Wisconsin,21.0,US,310.0,8.0,Restaurant Wars,2024-05-08,9.0
+366,Wisconsin,21.0,US,311.0,9.0,The Good Land,2024-05-15,8.0
+367,Wisconsin,21.0,US,312.0,10.0,Door County Fish Boil,6667278,6.0
+368,Wisconsin,21.0,US,313.0,11.0,Lay It All on the Table,2024-05-29,6.0
+369,Wisconsin,21.0,US,314.0,12.0,"Goodbye, Wisconsin",2024-06-05,5.0
+370,Wisconsin,21.0,US,315.0,13.0,Set Sail,2024-06-12,4.0
+371,Wisconsin,21.0,US,316.0,14.0,Cruising to a Win,2024-06-19,3.0
+372,Canada,22.0,US,317.0,1.0,,2024-03-14,15.0

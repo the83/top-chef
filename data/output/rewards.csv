@@ -1,0 +1,351 @@
+,season,seasonNumber,series,episode,challengeType,outcomeType,rewardType,reward,chef
+0,All Stars: New York,8.0,US,1.0,Elimination,Individual,Money,10000.0,Angelo S.
+1,All Stars: New York,8.0,US,3.0,Quickfire,Team,Money,5000.0,Richard B.
+2,All Stars: New York,8.0,US,3.0,Quickfire,Team,Money,5000.0,Spike M.
+3,All Stars: New York,8.0,US,3.0,Quickfire,Team,Money,5000.0,Stephen A.
+4,All Stars: New York,8.0,US,3.0,Quickfire,Team,Money,5000.0,Tre W.
+5,All Stars: New York,8.0,US,3.0,Elimination,Team,Prize,Trip to New Zealand,Dale T.
+6,All Stars: New York,8.0,US,4.0,Quickfire,Individual,Money,20000.0,Tre W.
+7,All Stars: New York,8.0,US,4.0,Elimination,Team,Prize,Trip to Italy,Carla H.
+8,All Stars: New York,8.0,US,5.0,Quickfire,Individual,Prize,Toyota Prius,Mike I.
+9,All Stars: New York,8.0,US,6.0,Elimination,Team,Prize,Trip to Amsterdam,Carla H.
+10,All Stars: New York,8.0,US,7.0,Elimination,Team,Money,10000.0,Richard B.
+11,All Stars: New York,8.0,US,9.0,Quickfire,Individual,Prize,Trip to Napa,Dale T.
+12,All Stars: New York,8.0,US,9.0,Elimination,Individual,Prize,Trip to Tokyo and gets to be on Fallon,Carla H.
+13,All Stars: New York,8.0,US,10.0,Quickfire,Individual,Money,5000.0,Dale T.
+14,All Stars: New York,8.0,US,10.0,Elimination,Individual,Money,25000.0,Dale T.
+15,All Stars: New York,8.0,US,11.0,Quickfire,Individual,Money,5000.0,Mike I.
+16,All Stars: New York,8.0,US,11.0,Elimination,Individual,Prize,Trip to Barbados,Richard B.
+17,All Stars: New York,8.0,US,12.0,Elimination,Individual,Prize,Toyota Highlander,Antonia L.
+18,All Stars: New York,8.0,US,13.0,Quickfire,Individual,Money,10000.0,Mike I.
+19,All Stars: New York,8.0,US,13.0,Quickfire,Individual,Money,10000.0,Richard B.
+20,All Stars: New York,8.0,US,13.0,Quickfire,Individual,Money,10000.0,Tiffany D.
+21,All Stars: New York,8.0,US,14.0,Quickfire,Team,Money,2500.0,Antonia L.
+22,All Stars: New York,8.0,US,14.0,Quickfire,Team,Money,2500.0,Tiffany D.
+23,All Stars: New York,8.0,US,15.0,Quickfire,Individual,Money,5000.0,Mike I.
+24,All-Stars L.A.,17.0,US,5.0,Quickfire,Individual,Money,10000.0,Kevin G.
+25,All-Stars L.A.,17.0,US,6.0,Quickfire,Individual,Money,5000.0,Gregory G.
+26,All-Stars L.A.,17.0,US,8.0,Elimination,Team,Money,10000.0,Brian M.
+27,All-Stars L.A.,17.0,US,8.0,Elimination,Team,Money,10000.0,Gregory G.
+28,All-Stars L.A.,17.0,US,8.0,Elimination,Team,Money,10000.0,Lee Anne W.
+29,All-Stars L.A.,17.0,US,8.0,Elimination,Team,Money,10000.0,Stephanie C.
+30,All-Stars L.A.,17.0,US,9.0,Quickfire,Individual,Money,10000.0,Lee Anne W.
+31,All-Stars L.A.,17.0,US,10.0,Elimination,Individual,Prize,Two tickets to the Olympics,Stephanie C.
+32,All-Stars L.A.,17.0,US,12.0,Quickfire,Individual,Money,10000.0,Kevin G.
+33,Boston,12.0,US,2.0,Quickfire,Individual,Money,5000.0,James R.
+34,Boston,12.0,US,5.0,Quickfire,Individual,Money,10000.0,Gregory G.
+35,Boston,12.0,US,10.0,Quickfire,Individual,Money,5000.0,Melissa K.
+36,Boston,12.0,US,12.0,Quickfire,Individual,Prize,Trip to Napa,Mei L.
+37,Boston,12.0,US,12.0,Elimination,Individual,Money,10000.0,Melissa K.
+38,Canada 6,6.0,Canada,1.0,Quickfire,Individual,Money,3000.0,Mark S.
+39,Canada 6,6.0,Canada,3.0,Quickfire,Individual,Money,5000.0,Matt S.
+40,Canada 6,6.0,Canada,3.0,Elimination,Individual,Prize,"$5,000 all inclusive trip for two to Mexico",JP M.
+41,Canada 6,6.0,Canada,4.0,Elimination,Team,Money,10000.0,Matt S.
+42,Canada 6,6.0,Canada,5.0,Quickfire,Individual,Money,5000.0,Matt S.
+43,Charleston,14.0,US,9.0,Quickfire,Individual,Prize,14 cases of Terlato wine,Brooke W.
+44,Charleston,14.0,US,11.0,Quickfire,Individual,Money,10000.0,Sheldon S.
+45,Charleston,14.0,US,11.0,Quickfire,Individual,Money & prize,"$10,000 and Sous Vide machine",Sheldon S.
+46,Charleston,14.0,US,12.0,Quickfire,Individual,Money,10000.0,Brooke W.
+47,Charleston,14.0,US,12.0,Elimination,Individual,Prize,"$7,500 bottle of Tequila",Brooke W.
+48,Charleston,14.0,US,13.0,Quickfire,Individual,Prize,Win a 7-day trip to Secrets Resort & Spa,Brooke W.
+49,Chicago,4.0,US,3.0,Quickfire,Individual,Prize,The winner's dish was put on the menu of Rick Bayless' restaurant Topolobampo.,Richard B.
+50,Chicago,4.0,US,5.0,Elimination,Team,Prize,The winner received a five-day trip for two to Italy,Lisa F.
+51,Chicago,4.0,US,6.0,Elimination,Team,Prize,"The winner received a Weber Summit 650 Gas Grill and a Chicago Bears jersey labeled ""Top Chef"". ",Dale T.
+52,Chicago,4.0,US,7.0,Quickfire,Individual,Prize,The winner had their Quickfire recipe placed in the Top Chef cookbook,Richard B.
+53,Chicago,4.0,US,9.0,Elimination,Team,Prize,"The winner received a $2,000 gift certificate to Crate & Barrel.",Richard B.
+54,Chicago,4.0,US,10.0,Elimination,Individual,Prize,The winner received a bottle of wine from a Napa Valley winery and a trip to visit their vineyards.,Dale T.
+55,Chicago,4.0,US,11.0,Elimination,Team,Prize,"The winner received a trip for two to Barcelona, Spain, including a guided wine tour.",Stephanie I.
+56,Chicago,4.0,US,12.0,Elimination,Individual,Prize,The winner received a cook book by Rick Tramonto and a suite of GE Monogram appliances.,Stephanie I.
+57,Chicago,4.0,US,13.0,Elimination,Individual,Prize,2009 Toyota Corolla,Richard B.
+58,D.C.,7.0,US,1.0,Quickfire,Individual,Money,20000.0,Angelo S.
+59,D.C.,7.0,US,4.0,Quickfire,Individual,Money,10000.0,Kenny G.
+60,D.C.,7.0,US,4.0,Quickfire,Individual,Money,10000.0,Tamesha W.
+61,D.C.,7.0,US,6.0,Elimination,Team,Prize,Hilton trip,Kevin Sb.
+62,D.C.,7.0,US,7.0,Quickfire,Individual,Money,20000.0,Angelo S.
+63,D.C.,7.0,US,7.0,Elimination,Individual,Prize,Winner's dish will be on Palm's menu,Alex R.
+64,D.C.,7.0,US,8.0,Elimination,Individual,Money,10000.0,Tiffany D.
+65,D.C.,7.0,US,9.0,Quickfire,Team,Money,2500.0,Amanda B.
+66,D.C.,7.0,US,9.0,Quickfire,Team,Money,2500.0,Kelly L.
+67,D.C.,7.0,US,9.0,Quickfire,Team,Money,2500.0,Kenny G.
+68,D.C.,7.0,US,9.0,Quickfire,Team,Money,2500.0,Kevin Sb.
+69,D.C.,7.0,US,9.0,Elimination,Team,Prize,Trip to Napa,Ed C.
+70,D.C.,7.0,US,10.0,Quickfire,Individual,Money,10000.0,Tiffany D.
+71,D.C.,7.0,US,10.0,Elimination,Individual,Prize,Trip to Paris,Tiffany D.
+72,D.C.,7.0,US,11.0,Quickfire,Individual,Prize,Schwann's will produce their dish,Ed C.
+73,D.C.,7.0,US,11.0,Elimination,Individual,Prize,Copy of Rick Moonen's book; trip to Australia,Ed C.
+74,D.C.,7.0,US,12.0,Quickfire,Individual,Prize,Winner goes to London courtesy of Hilton,Angelo S.
+75,D.C.,7.0,US,12.0,Elimination,Individual,Prize,"Winner gets a car, their dish served on space station, go to Cape Canaveral for shuttle launch",Angelo S.
+76,Colorado,15.0,US,2.0,Quickfire,Team,Money,5000.0,Joe F.
+77,Colorado,15.0,US,2.0,Quickfire,Team,Money & prize,"$5,000 and year of dinner from Blue Apron + your recipe featured in Blue Apron",Joe F.
+78,Colorado,15.0,US,6.0,Quickfire,Individual,Prize,Dish featured on Buzzfeed,Chris S.
+79,Colorado,15.0,US,6.0,Elimination,Individual,Prize,Trip for two to Palm Springs,Tanya H.
+80,Colorado,15.0,US,7.0,Quickfire,Individual,Money,5000.0,Carrie B.
+81,Colorado,15.0,US,8.0,Elimination,Team,Money,10000.0,Adrienne C.
+82,Colorado,15.0,US,8.0,Elimination,Team,Money,10000.0,Bruce K.
+83,Colorado,15.0,US,8.0,Elimination,Team,Money,10000.0,Carrie B.
+84,Colorado,15.0,US,8.0,Elimination,Team,Money,10000.0,Joe F.
+85,Colorado,15.0,US,10.0,Quickfire,Individual,Prize,$500 credit to Craftsy,Chris S.
+86,Colorado,15.0,US,11.0,Quickfire,Individual,Money,10000.0,Carrie B.
+87,Houston,19.0,US,3.0,Elimination,Individual,Money,10000.0,Jae J.
+88,Houston,19.0,US,5.0,Quickfire,Individual,Money,10000.0,Nick W.
+89,Houston,19.0,US,6.0,Quickfire,Team,Money,5000.0,Ashleigh S.
+90,Houston,19.0,US,6.0,Quickfire,Team,Money,5000.0,Nick W.
+91,Houston,19.0,US,7.0,Elimination,Team,Prize,VIP trip to world premiere of Jurassic World Dominion,Evelyn G.
+92,Houston,19.0,US,7.0,Elimination,Team,Prize,VIP trip to world premiere of Jurassic World Dominion,Jackson K.
+93,Houston,19.0,US,7.0,Elimination,Team,Prize,VIP trip to world premiere of Jurassic World Dominion,Nick W.
+94,Houston,19.0,US,8.0,Elimination,Team,Money,10000.0,Ashleigh S.
+95,Houston,19.0,US,8.0,Elimination,Team,Money,10000.0,Buddha
+96,Houston,19.0,US,8.0,Elimination,Team,Money,10000.0,Damarr B.
+97,Houston,19.0,US,8.0,Elimination,Team,Money,10000.0,Nick W.
+98,Houston,19.0,US,10.0,Quickfire,Individual,Money,10000.0,Nick W.
+99,Houston,19.0,US,11.0,Elimination,Individual,Prize,"Complimentary stay, worth US$10,000, at any Vrbo vacation home around the world",Buddha
+100,Kentucky,16.0,US,1.0,Quickfire,Team,Prize,Tickets to Kentucky Derby,Justin S.
+101,Kentucky,16.0,US,1.0,Quickfire,Team,Prize,Tickets to Kentucky Derby,Pablo L.
+102,Kentucky,16.0,US,1.0,Quickfire,Team,Prize,Tickets to Kentucky Derby,Sara B.
+103,Kentucky,16.0,US,2.0,Elimination,Team,Money,10000.0,Nini N.
+104,Kentucky,16.0,US,5.0,Elimination,Team,Money,10000.0,Brian Y.
+105,Kentucky,16.0,US,5.0,Elimination,Team,Money,10000.0,Eric A.
+106,Kentucky,16.0,US,5.0,Elimination,Team,Money,10000.0,Eddie K.
+107,Kentucky,16.0,US,5.0,Elimination,Team,Money,10000.0,Adrienne W.
+108,Kentucky,16.0,US,7.0,Elimination,Individual,Prize,"The winner received a signed apron from Cecchini and the opportunity to stage at his butcher shop, Antica Macelleria Cecchini, in Tuscany, Italy, for a week.",Eddie K.
+109,Kentucky,16.0,US,8.0,Elimination,Team,Prize,Attend BMW driving schools,Kelsey B.-C.
+110,Kentucky,16.0,US,10.0,Elimination,Team,Money,5000.0,Eric A.
+111,Kentucky,16.0,US,10.0,Elimination,Team,Money,5000.0,Adrienne W.
+112,Kentucky,16.0,US,10.0,Elimination,Team,Money,5000.0,Justin S.
+113,Kentucky,16.0,US,11.0,Quickfire,Individual,Money,5000.0,Sara B.
+114,Kentucky,16.0,US,12.0,Quickfire,Individual,Money,10000.0,Justin S.
+115,Kentucky,16.0,US,12.0,Elimination,Individual,Money,10000.0,Sara B.
+116,Las Vegas,6.0,US,1.0,Quickfire,Team,Money,15000.0,Robin L.
+117,Las Vegas,6.0,US,1.0,Quickfire,Team,Money,15000.0,Jennifer C.
+118,Las Vegas,6.0,US,2.0,Quickfire,Individual,Money,15000.0,Michael V.
+119,Las Vegas,6.0,US,5.0,Quickfire,Individual,Money,15000.0,Mike I.
+120,Las Vegas,6.0,US,6.0,Elimination,Individual,Prize,Calphalon nonstick pans,Kevin G.
+121,Las Vegas,6.0,US,7.0,Quickfire,Individual,Money,15000.0,Kevin G.
+122,Las Vegas,6.0,US,7.0,Elimination,Team,Money,10000.0,Jennifer C.
+123,Las Vegas,6.0,US,8.0,Elimination,Individual,Prize,The winner received an invitation to participate in the 2010 Pigs & Pinot event.,Kevin G.
+124,Las Vegas,6.0,US,9.0,Elimination,Team,Money,10000.0,Michael V.
+125,Las Vegas,6.0,US,10.0,Quickfire,Individual,Prize,The winning chef had their dish featured in the Top Chef line of frozen foods.,Kevin G.
+126,Las Vegas,6.0,US,12.0,Quickfire,Individual,Prize,The winning recipe was the only Quickfire dish from Season 6 to be put in the Top Chef Quickfire cookbook.,Eli K.
+127,Las Vegas,6.0,US,12.0,Elimination,Individual,Prize,"The winner received a bottle of Terlato Wine and a two-day, three-night trip to the Terlato Family Vineyards in Napa Valley.",Michael V.
+128,Las Vegas,6.0,US,13.0,Elimination,Individual,Prize,"The winner received $30,000 and the opportunity to compete to represent the United States in the 2011 Bocuse d'Or.",Kevin G.
+129,Las Vegas,6.0,US,14.0,Quickfire,Individual,Prize,Toyota Prius,Michael V.
+130,Los Angeles,2.0,US,2.0,Elimination,Team,Prize,"The winner received a limited-edition Kyocera KT-300-HIP Kyotop 8.25"" ceramic sashimi knife.",Betty F.
+131,Los Angeles,2.0,US,3.0,Elimination,Individual,Prize,The winning entree would be featured nationwide on the menu of T.G.I. Friday's.,Betty F.
+132,Los Angeles,2.0,US,4.0,Elimination,Team,Prize,The winner received a cookbook written by guest judge Suzanne Goin and an opportunity to collaborate on one of Goin's famed Sunday supper menus for her Lucques restaurant.,Frank T.
+133,Los Angeles,2.0,US,5.0,Elimination,Team,Prize,An opportunity to work with Michelle Bernstein at the Sagamore Hotel in Miami on the Food Network South Beach Wine and Food Festival.,Ilan H.
+134,Los Angeles,2.0,US,8.0,Elimination,Team,Prize,The winner received a 20-piece set of Global knives.,Sam T.
+135,Masters Season 1,1.0,US Masters,1.0,Elimination,Individual,Money,10000.0,Hubert Keller
+136,Masters Season 1,1.0,US Masters,2.0,Elimination,Individual,Money,10000.0,Suzanne Tracht
+137,Masters Season 1,1.0,US Masters,3.0,Elimination,Individual,Money,10000.0,Rick Bayless
+138,Masters Season 1,1.0,US Masters,4.0,Elimination,Individual,Money,10000.0,Anita Lo
+139,Masters Season 1,1.0,US Masters,5.0,Elimination,Individual,Money,10000.0,Michael Chiarello
+140,Masters Season 1,1.0,US Masters,6.0,Elimination,Individual,Money,10000.0,Art Smith
+141,Masters Season 1,1.0,US Masters,7.0,Elimination,Individual,Money,10000.0,Anita Lo
+142,Masters Season 1,1.0,US Masters,8.0,Elimination,Individual,Money,10000.0,Michael Chiarello
+143,Masters Season 1,1.0,US Masters,9.0,Elimination,Individual,Money,10000.0,Hubert Keller
+144,Masters Season 2,2.0,US Masters,1.0,Quickfire,Team,Money,5000.0,Susan Feniger
+145,Masters Season 2,2.0,US Masters,1.0,Quickfire,Team,Money,5000.0,Tony Montuano
+146,Masters Season 2,2.0,US Masters,1.0,Elimination,Team,Money,10000.0,Susan Feniger
+147,Masters Season 2,2.0,US Masters,1.0,Elimination,Team,Money,10000.0,Tony Montuano
+148,Masters Season 2,2.0,US Masters,2.0,Quickfire,Individual,Money,5000.0,Monica Pope
+149,Masters Season 2,2.0,US Masters,2.0,Elimination,Individual,Money,10000.0,Carmen Gonzalez
+150,Masters Season 2,2.0,US Masters,3.0,Quickfire,Individual,Money,5000.0,Jonathan Waxman
+151,Masters Season 2,2.0,US Masters,3.0,Elimination,Individual,Money,10000.0,Jonathan Waxman
+152,Masters Season 2,2.0,US Masters,4.0,Quickfire,Individual,Money,5000.0,Jody Adams
+153,Masters Season 2,2.0,US Masters,5.0,Quickfire,Team,Money,2500.0,Jody Adams
+154,Masters Season 2,2.0,US Masters,5.0,Quickfire,Team,Money,2500.0,Jonathan Waxman
+155,Masters Season 2,2.0,US Masters,5.0,Quickfire,Team,Money,2500.0,Rick Moonen
+156,Masters Season 2,2.0,US Masters,5.0,Quickfire,Team,Money,2500.0,Susan Feniger
+157,Masters Season 2,2.0,US Masters,5.0,Elimination,Team,Money,10000.0,Jody Adams
+158,Masters Season 2,2.0,US Masters,6.0,Quickfire,Individual,Money,5000.0,Rick Moonen
+159,Masters Season 2,2.0,US Masters,6.0,Elimination,Individual,Money,10000.0,Susur Lee
+160,Masters Season 2,2.0,US Masters,7.0,Quickfire,Individual,Money,5000.0,Susan Feniger
+161,Masters Season 2,2.0,US Masters,7.0,Elimination,Individual,Money,10000.0,Susan Feniger
+162,Masters Season 2,2.0,US Masters,8.0,Quickfire,Individual,Money,5000.0,Rick Moonen
+163,Masters Season 2,2.0,US Masters,8.0,Elimination,Individual,Money,10000.0,Rick Moonen
+164,Masters Season 2,2.0,US Masters,9.0,Quickfire,Individual,Money,5000.0,Marcus Samuelsson
+165,Masters Season 2,2.0,US Masters,9.0,Elimination,Individual,Money,10000.0,Marcus Samuelsson
+166,Masters Season 3,3.0,US Masters,1.0,Quickfire,Individual,Money,5000.0,Traci Des Jardins
+167,Masters Season 3,3.0,US Masters,1.0,Elimination,Team,Money,10000.0,Alex Stratta
+168,Masters Season 3,3.0,US Masters,2.0,Quickfire,Individual,Money,5000.0,John Currence
+169,Masters Season 3,3.0,US Masters,2.0,Elimination,Individual,Money,10000.0,Mary Sue Milliken
+170,Masters Season 3,3.0,US Masters,3.0,Quickfire,Individual,Money,5000.0,Hugh Acheson
+171,Masters Season 3,3.0,US Masters,3.0,Elimination,Individual,Money,11800.0,Naomi Pomeroy
+172,Masters Season 3,3.0,US Masters,3.0,Elimination,Individual,Money,1700.0,Suvir Saran
+173,Masters Season 3,3.0,US Masters,4.0,Quickfire,Individual,Money,5000.0,Traci Des Jardins
+174,Masters Season 3,3.0,US Masters,4.0,Elimination,Team,Money,10000.0,Floyd Cardoz
+175,Masters Season 3,3.0,US Masters,5.0,Quickfire,Individual,Money,5000.0,Naomi Pomeroy
+176,Masters Season 3,3.0,US Masters,5.0,Elimination,Individual,Money,10000.0,Mary Sue Milliken
+177,Masters Season 3,3.0,US Masters,6.0,Quickfire,Individual,Money,5000.0,Traci Des Jardins
+178,Masters Season 3,3.0,US Masters,6.0,Elimination,Team,Money,10000.0,Traci Des Jardins
+179,Masters Season 3,3.0,US Masters,7.0,Quickfire,Individual,Money,5000.0,Hugh Acheson
+180,Masters Season 3,3.0,US Masters,7.0,Elimination,Individual,Money,10000.0,Naomi Pomeroy
+181,Masters Season 3,3.0,US Masters,8.0,Quickfire,Individual,Money,5000.0,Hugh Acheson
+182,Masters Season 3,3.0,US Masters,8.0,Elimination,Individual,Money,10000.0,Mary Sue Milliken
+183,Masters Season 3,3.0,US Masters,9.0,Quickfire,Individual,Money,5000.0,Traci Des Jardins
+184,Masters Season 3,3.0,US Masters,9.0,Elimination,Individual,Money,10000.0,Mary Sue Milliken
+185,Miami,3.0,US,1.0,Elimination,Individual,Prize,The winner received a collection of books by Anthony Bourdain,Tre W.
+186,Miami,3.0,US,3.0,Elimination,Individual,Prize,"The winner received three books from guest judge, chef Alfred Portale, and an invitation to spend a week at the Gotham Bar and Grill working with Portale and his staff.",Howie K.
+187,Miami,3.0,US,4.0,Elimination,Individual,Prize,The winner cooked at an event in the Hamptons,Lia B.
+188,Miami,3.0,US,5.0,Elimination,Individual,Prize,The winner received a bottle of Argentine wine from guest judge DUO restaurant co-owner Maria Frumkin.,Howie K.
+189,Miami,3.0,US,6.0,Elimination,Team,Prize,Each member of the winning team received two tickets to Italy.,Tre W.
+190,Miami,3.0,US,6.0,Elimination,Team,Prize,Each member of the winning team received two tickets to Italy.,CJ J.
+191,Miami,3.0,US,7.0,Quickfire,Individual,Prize,The winner dined with restaurateur Govind Armstrong at Table 8.,Dale L.
+192,Miami,3.0,US,7.0,Elimination,Team,Prize,The winner received a first-edition copy of Armstrong's book and a platinum card good for entry into all Club Nikki locations.,Tre W.
+193,Miami,3.0,US,9.0,Elimination,Team,Prize,The winner received a fully stocked pantry from Town & Country. ,Sara M.
+194,Miami,3.0,US,10.0,Elimination,Individual,Prize,The winner received a 17-inch Apple MacBook Pro laptop computer.,Casey T.
+195,Miami,3.0,US,11.0,Quickfire,Individual,Prize,"The winner received an early copy of Lakshmi's new cookbook Tangy, Tart, Hot and Sweet ",Hung H.
+196,Miami,3.0,US,11.0,Elimination,Individual,Prize,The winner received two Continental business first class tickets to any Continental destination worldwide. ,Casey T.
+197,New Orleans,11.0,US,5.0,Quickfire,Team,Money,1428.57,Bene B.
+198,New Orleans,11.0,US,5.0,Quickfire,Team,Money,1428.57,Brian Hu.
+199,New Orleans,11.0,US,5.0,Quickfire,Team,Money,1428.57,Carlos G.
+200,New Orleans,11.0,US,5.0,Quickfire,Team,Money,1428.57,Nicholas E.
+201,New Orleans,11.0,US,5.0,Quickfire,Team,Money,1428.57,Nina C.
+202,New Orleans,11.0,US,5.0,Quickfire,Team,Money,1428.57,Patty V.
+203,New Orleans,11.0,US,5.0,Quickfire,Team,Money,1428.57,Travis M.
+204,New Orleans,11.0,US,6.0,Elimination,Individual,Money,10000.0,Nina C.
+205,New Orleans,11.0,US,10.0,Quickfire,Individual,Money,10000.0,Shirley C.
+206,New Orleans,11.0,US,11.0,Elimination,Individual,Prize,2013 Toyota Rav 4,Shirley C.
+207,New Orleans,11.0,US,15.0,Quickfire,Individual,Prize,Toyota Corolla,Carlos G.
+208,New Orleans,11.0,US,15.0,Elimination,Individual,Prize,Dish will be on Emeril's menu,Shirley C.
+209,New Orleans,11.0,US,16.0,Quickfire,Individual,Money,10000.0,Nicholas E.
+210,New York,5.0,US,4.0,Quickfire,Individual,Prize,"The winner received a copy of Rocco DiSpirito's book, Rocco Gets Real",Leah C.
+211,New York,5.0,US,4.0,Elimination,Individual,Prize,"The winning chef received a custom-made kit of two dozen chef's tools put together by Rocco DiSpirito, as well as an opportunity to present a dish live on The Today Show the morning after the episode aired.",Ariane D.
+212,New York,5.0,US,6.0,Quickfire,Individual,Prize,"The prize, in addition to immunity in the elimination challenge, was an autographed copy of Stewart's latest book, Martha Stewart's Cooking School.",Ariane D.
+213,New York,5.0,US,6.0,Elimination,Individual,Prize,"All four of the judges' favorites received copies of Michelle Bernstein's latest cookbook, Cuisine a Latina.",Hosea R.
+214,Las Vegas,6.0,US,9.0,Elimination,Individual,Money,2500.0,Bryan V.
+215,Las Vegas,6.0,US,9.0,Elimination,Individual,Money,2500.0,Eli K.
+216,Las Vegas,6.0,US,9.0,Elimination,Individual,Money,2500.0,Michael V.
+217,Las Vegas,6.0,US,9.0,Elimination,Individual,Money,2500.0,Robin L.
+218,New York,5.0,US,9.0,Elimination,Team,Prize,The winner of the challenge received a new suite of GE Monogram appliances.,Stefan R.
+219,New York,5.0,US,10.0,Elimination,Individual,Prize,The winner of the challenge received two tickets to Super Bowl XLIII.,Carla H.
+220,New York,5.0,US,11.0,Elimination,Individual,Prize,"The winner received a copy of Eric Ripert's book On the Line, an opportunity to shadow Ripert at three of his restaurants for one week, starting at Le Bernardin, with a room at the Ritz-Carlton Hotel, and a trip to the Food & Wine Festival at Pebble Beach.",Stefan R.
+221,New York,5.0,US,12.0,Elimination,Individual,Prize,"The winner received a bottle of Terlato Angel's Peak Wine and a three-day, two-night trip to the Terlato vineyard.",Fabio V.
+222,New York,5.0,US,13.0,Quickfire,Individual,Prize,"The winner would join the four finalists in the Elimination Challenge, but would have to win that challenge to reach the season finale. In addition, they also received a copy of Emeril's new book, Emeril at the Grill.",Jeff M.
+223,New York,5.0,US,13.0,Elimination,Individual,Prize,The winner received a new 2009 Toyota Venza.,Carla H.
+224,Las Vegas,6.0,US,13.0,Elimination,Individual,Money,30000.0,Kevin G.
+225,Portland,18.0,US,3.0,Quickfire,Individual,Money,10000.0,Avishar B.
+226,Portland,18.0,US,4.0,Quickfire,Individual,Money,10000.0,Chris V.
+227,Portland,18.0,US,5.0,Elimination,Team,Money,10000.0,Byron G.
+228,Portland,18.0,US,6.0,Quickfire,Individual,Money,10000.0,Gabriel P.
+229,Portland,18.0,US,10.0,Quickfire,Individual,Money,10000.0,Dawn B.
+230,Portland,18.0,US,12.0,Elimination,Individual,Money,10000.0,Shota N.
+231,San Francisco,1.0,US,7.0,Quickfire,Individual,Prize,The winning sandwich would be put on the menu at the San Francisco location of Tom Colicchio's Wichcraft restaurant.,Harold D.
+232,San Francisco,1.0,US,7.0,Elimination,Team,Prize,Accompany Jeffrey Chodorow to Cannes Film Festival,Dave M.
+233,San Francisco,1.0,US,9.0,Quickfire,Individual,Prize,A bottle of Shafer Hillside Select Cabernet Sauvignon,Harold D.
+234,Seattle,10.0,US,4.0,Elimination,Individual,Money,10000.0,Kristen K.
+235,Seattle,10.0,US,5.0,Elimination,Team,Money,10000.0,No winner
+236,Seattle,10.0,US,6.0,Elimination,Individual,Prize,Toyota Prius,Brooke W.
+237,Seattle,10.0,US,7.0,Elimination,Individual,Money,10000.0,Kristen K.
+238,Seattle,10.0,US,8.0,Quickfire,Individual,Money,5000.0,Micah F.
+239,Seattle,10.0,US,9.0,Quickfire,Team,Prize,Bob Kramer knife,Micah F.
+240,Seattle,10.0,US,9.0,Elimination,Individual,Money,15000.0,Kristen K.
+241,Seattle,10.0,US,10.0,Elimination,Individual,Money,10000.0,Kristen K.
+242,Seattle,10.0,US,10.0,Elimination,Individual,Money,10000.0,Sheldon S.
+243,Seattle,10.0,US,11.0,Elimination,Team,Prize,Toyota Avalon,Sheldon S.
+244,Seattle,10.0,US,12.0,Quickfire,Individual,Money,5000.0,Stefan R.
+245,Seattle,10.0,US,12.0,Elimination,Individual,Prize,Terlato wine for a year,Josh V.
+246,Seattle,10.0,US,13.0,Elimination,Individual,Prize,7 night cruise,Brooke W.
+247,Seattle,10.0,US,14.0,Quickfire,Individual,Money,5000.0,Sheldon S.
+248,Seattle,10.0,US,14.0,Elimination,Individual,Prize,Trip somewhere,Brooke W.
+249,Texas,9.0,US,3.0,Quickfire,Individual,Money,5000.0,Dakota W.
+250,Texas,9.0,US,4.0,Quickfire,Individual,Money,20000.0,Paul Q.
+251,Texas,9.0,US,5.0,Quickfire,Individual,Money,5000.0,Lindsay A.
+252,Texas,9.0,US,6.0,Elimination,Team,Prize,2011 Toyota Venza,Heather T.
+253,Texas,9.0,US,7.0,Quickfire,Individual,Money,5000.0,Ty-Lor B.
+254,Texas,9.0,US,7.0,Elimination,Team,Money,5000.0,Edward L.
+255,Texas,9.0,US,7.0,Elimination,Team,Money,5000.0,Ty-Lor B.
+256,Texas,9.0,US,8.0,Quickfire,Individual,Money,10000.0,Paul Q.
+257,Texas,9.0,US,9.0,Quickfire,Individual,Prize,"Received a copy of ""Modernist Cuisine""",Ty-Lor B.
+258,Texas,9.0,US,9.0,Elimination,Team,Money,5000.0,Grayson S.
+259,Texas,9.0,US,9.0,Elimination,Team,Money,5000.0,Lindsay A.
+260,Texas,9.0,US,9.0,Elimination,Team,Money,5000.0,Paul Q.
+261,Texas,9.0,US,11.0,Elimination,Individual,Prize,Two tickets to the premiere of Snow White and the Huntsman,Paul Q.
+262,Texas,9.0,US,12.0,Quickfire,Team,Money,5000.0,Chris J.
+263,Texas,9.0,US,12.0,Quickfire,Team,Money,5000.0,Grayson S.
+264,Texas,9.0,US,12.0,Elimination,Individual,Money,15000.0,Paul Q.
+265,Texas,9.0,US,13.0,Quickfire,Individual,Money,5000.0,Edward L.
+266,Texas,9.0,US,14.0,Elimination,Individual,Prize,Toyota Prius,Paul Q.
+267,Texas,9.0,US,15.0,Elimination,Individual,Money,10000.0,Lindsay A.
+268,Texas,9.0,US,15.0,Elimination,Individual,Money,10000.0,Paul Q.
+269,Texas,9.0,US,15.0,Elimination,Individual,Money,10000.0,Sarah G.
+270,Texas,9.0,US,16.0,Quickfire,Individual,Money,20000.0,Sarah G.
+271,California,13.0,US,3.0,Elimination,Individual,Prize,Barrel of wine from Sanford Winery,Kwame O.
+272,California,13.0,US,4.0,Quickfire,Individual,Prize,"Portable solar stove and a $10,000 donation to World Central Kitchen on their behalf",Wesley T.
+273,California,13.0,US,4.0,Elimination,Team,Prize,Trip to Palm Springs,Jeremy F.
+274,California,13.0,US,13.0,Sudden Death Quickfire,Individual,Prize,Rational AG oven,Jeremy F.
+275,California,13.0,US,14.0,Quickfire,Individual,Money,25000.0,Jeremy F.
+276,Masters Season 4,4.0,US Masters,1.0,Quickfire,Team,Money,5000.0,Chris Cosentino
+277,Masters Season 4,4.0,US Masters,1.0,Quickfire,Team,Money,5000.0,Patricia Yeo
+278,Masters Season 4,4.0,US Masters,1.0,Elimination,Team,Money,11000.0,Chris Cosentino
+279,Masters Season 4,4.0,US Masters,1.0,Elimination,Team,Money,1000.0,Patricia Yeo
+280,Masters Season 4,4.0,US Masters,1.0,Elimination,Team,Money,1000.0,Thierry Rautureau
+281,Masters Season 4,4.0,US Masters,1.0,Elimination,Team,Money,1000.0,Clark Frasier
+282,Masters Season 4,4.0,US Masters,2.0,Elimination,Team,Money,10000.0,Patricia Yeo
+283,Masters Season 4,4.0,US Masters,3.0,Quickfire,Individual,Money,5000.0,Takashi Tagihashi
+284,Masters Season 4,4.0,US Masters,3.0,Elimination,Individual,Money,10000.0,Art Smith
+285,Masters Season 4,4.0,US Masters,4.0,Quickfire,Team,Money,5000.0,Lorena Garcia
+286,Masters Season 4,4.0,US Masters,4.0,Elimination,Individual,Money,5000.0,Takashi Tagihashi
+287,Masters Season 4,4.0,US Masters,4.0,Elimination,Team,Money,5000.0,Thierry Rautureau
+288,Masters Season 4,4.0,US Masters,5.0,Quickfire,Individual,Money,5000.0,Takashi Tagihashi
+289,Masters Season 4,4.0,US Masters,5.0,Elimination,Individual,Money,10000.0,Lorena Garcia
+290,Masters Season 4,4.0,US Masters,6.0,Quickfire,Individual,Money,5000.0,Takashi Tagihashi
+291,Masters Season 4,4.0,US Masters,6.0,Elimination,Individual,Money,10000.0,Chris Cosentino
+292,Masters Season 4,4.0,US Masters,7.0,Quickfire,Individual,Money,5000.0,Kerry Heffernan
+293,Masters Season 4,4.0,US Masters,7.0,Elimination,Individual,Money,10000.0,Lorena Garcia
+294,Masters Season 4,4.0,US Masters,8.0,Quickfire,Team,Money,2500.0,Kerry Heffernan
+295,Masters Season 4,4.0,US Masters,8.0,Quickfire,Team,Money,2500.0,Lorena Garcia
+296,Masters Season 4,4.0,US Masters,8.0,Elimination,Individual,Money,10000.0,Chris Cosentino
+297,Masters Season 4,4.0,US Masters,9.0,Quickfire,Individual,Money,5000.0,Chris Cosentino
+298,Masters Season 4,4.0,US Masters,9.0,Elimination,Individual,Money,10000.0,Kerry Heffernan
+299,World All Stars,20.0,US,2.0,Quickfire,Individual,Money,10000.0,May Phattanant Thongthong
+300,Masters Season 5,5.0,US Masters,1.0,Elimination,Individual,Money,10000.0,Odette Fada
+301,Masters Season 5,5.0,US Masters,2.0,Sudden Death Quickfire,Individual,Money,5000.0,Sue Zemanick
+302,Masters Season 5,5.0,US Masters,2.0,Elimination,Individual,Money,10000.0,Sang Yoon
+303,Masters Season 5,5.0,US Masters,3.0,Quickfire,Individual,Money,5000.0,Sang Yoon
+304,Masters Season 5,5.0,US Masters,3.0,Elimination,Individual,Money,10000.0,Jennifer Jasinski
+305,Masters Season 5,5.0,US Masters,4.0,Quickfire,Individual,Money,5000.0,Sang Yoon
+306,Masters Season 5,5.0,US Masters,4.0,Elimination,Team,Money,5000.0,Sue Zemanick
+307,Masters Season 5,5.0,US Masters,4.0,Elimination,Team,Money,5000.0,David Burke
+308,Masters Season 5,5.0,US Masters,4.0,Elimination,Team,Money,5000.0,Douglas Keane
+309,Masters Season 5,5.0,US Masters,5.0,Elimination,Team,Money,10000.0,Sang Yoon
+310,Masters Season 5,5.0,US Masters,6.0,Quickfire,Individual,Money,5000.0,Douglas Keane
+311,Masters Season 5,5.0,US Masters,6.0,Elimination,Individual,Money,10000.0,Neal Fraser
+312,Masters Season 5,5.0,US Masters,7.0,Quickfire,Individual,Money,5000.0,Douglas Keane
+313,Masters Season 5,5.0,US Masters,7.0,Elimination,Team,Money,5000.0,Douglas Keane
+314,Masters Season 5,5.0,US Masters,7.0,Elimination,Team,Money,5000.0,Jennifer Jasinski
+315,Masters Season 5,5.0,US Masters,8.0,Quickfire,Individual,Money,5000.0,Jennifer Jasinski
+316,Masters Season 5,5.0,US Masters,8.0,Elimination,Individual,Money,10000.0,Jennifer Jasinski
+317,Masters Season 5,5.0,US Masters,9.0,Quickfire,Individual,Money,5000.0,Jennifer Jasinski
+318,Masters Season 5,5.0,US Masters,9.0,Elimination,Individual,Money,10000.0,Bryan V.
+319,World All Stars,20.0,US,5.0,Elimination,Individual,Prize,"$10,000 for a VRBO trip",Amar S.
+320,World All Stars,20.0,US,6.0,Elimination,Team,Money,10000.0,Nicole Gomes
+321,World All Stars,20.0,US,8.0,Elimination,Team,Prize,Trip to Fast & Furious Movie premiere,Ali Ghzawi
+322,World All Stars,20.0,US,8.0,Elimination,Team,Prize,Trip to Fast & Furious Movie premiere,Tom Goetter
+323,World All Stars,20.0,US,8.0,Elimination,Team,Prize,Trip to Fast & Furious Movie premiere,Gabriel Rodriguez
+324,World All Stars,20.0,US,9.0,Elimination,Team,Money,10000.0,Ali Ghzawi
+325,World All Stars,20.0,US,9.0,Elimination,Team,Money,10000.0,Buddha
+326,World All Stars,20.0,US,9.0,Elimination,Team,Money,10000.0,Amar S.
+327,World All Stars,20.0,US,9.0,Elimination,Team,Money,10000.0,Sara B.
+328,World All Stars,20.0,US,11.0,Quickfire,Individual,Money,10000.0,Buddha
+329,World All Stars,20.0,US,13.0,Quickfire,Individual,Prize,"$10,000 giftcard from Delta",Ali Ghzawi
+330,Wisconsin,21.0,US,2.0,Quickfire,Individual,Money,5000.0,Laura Ozyilmaz
+331,Wisconsin,21.0,US,2.0,Elimination,Team,Money,10000.0,Rasika Venkatesa
+332,Wisconsin,21.0,US,3.0,Quickfire,Individual,Money,5000.0,Rasika Venkatesa
+333,Wisconsin,21.0,US,4.0,Elimination,Team,Money,5000.0,Rasika Venkatesa
+334,Wisconsin,21.0,US,4.0,Elimination,Team,Money,5000.0,Danny Garcia
+335,Wisconsin,21.0,US,5.0,Quickfire,Individual,Money,7500.0,Charly Pierre
+336,Wisconsin,21.0,US,6.0,Quickfire,Individual,Money,7500.0,Michelle Wallace
+337,Wisconsin,21.0,US,7.0,Quickfire,Individual,Money,20000.0,Danny Garcia
+338,Wisconsin,21.0,US,8.0,Elimination,Team,Money,8000.0,Dan Jacobs
+339,Wisconsin,21.0,US,8.0,Elimination,Team,Money,8000.0,Danny Garcia
+340,Wisconsin,21.0,US,8.0,Elimination,Team,Money,8000.0,Michelle Wallace
+341,Wisconsin,21.0,US,8.0,Elimination,Team,Money,8000.0,Amanda Turner
+342,Wisconsin,21.0,US,8.0,Elimination,Team,Money,8000.0,Savannah Miller
+343,Wisconsin,21.0,US,9.0,Quickfire,Individual,Money,10000.0,Danny Garcia
+344,Wisconsin,21.0,US,10.0,Quickfire,Individual,Money,10000.0,Savannah Miller
+345,Wisconsin,21.0,US,11.0,Quickfire,Individual,Money,10000.0,Savannah Miller
+346,Wisconsin,21.0,US,12.0,Quickfire,Individual,Money,5000.0,Manny Barella
+347,Wisconsin,21.0,US,12.0,Quickfire,Individual,Money,10000.0,Savannah Miller
+348,Wisconsin,21.0,US,13.0,Quickfire,Individual,Money,10000.0,Dan Jacobs
+349,Wisconsin,21.0,US,13.0,Elimination,Individual,Money & prize,"$10,000 and a 10 day cruise from Holland Cruise",Danny Garcia

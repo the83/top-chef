@@ -1,0 +1,448 @@
+,name,chef,hometown,city,state,age,season,seasonNumber,series,placement,personOfColor,occupation,gender,X14,occupation_category
+0,Ross Larkin,Ross L.,,St. Johns,Newfoundland,31.0,Canada 6,6.0,Canada,1.0,,Chef de Cuisine,Male,,Chef de Cuisine
+1,Mark Singson,Mark S.,,Vancouver,British Columbia,29.0,Canada 6,6.0,Canada,2.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+2,Jinhee Lee,Jinhee L.,,Calgary,Alberta,38.0,Canada 6,6.0,Canada,3.0,POC,Executive chef,Female,,
+3,JP Miron,JP M.,,Montreal,Quebec,30.0,Canada 6,6.0,Canada,3.0,,Chef de Cuisine,Male,,Chef de Cuisine
+4,Nathan Guggeheimer,Nathan G.,,Saskatoon,Saskatchewan,35.0,Canada 6,6.0,Canada,5.0,,Chef/Partner,Male,,Executive Chef and Owner/Partner/Founder
+5,Darren Rogers,Darren R.,,Montreal,Quebec,27.0,Canada 6,6.0,Canada,6.0,,Chef de Cuisine,Male,,Chef de Cuisine
+6,Jesse Zuber,Jesse Z.,,Saskatoon,Saskatchewan,29.0,Canada 6,6.0,Canada,7.0,,Chef/Partner,Male,,Executive Chef and Owner/Partner/Founder
+7,Matt Sullivan,Matt S.,,Toronto,Ontario,34.0,Canada 6,6.0,Canada,7.0,,Executive chef,Male,,
+8,Elia Herrera,Elia H.,,Toronto,Ontario,37.0,Canada 6,6.0,Canada,9.0,POC,Executive chef,Female,,
+9,Ivana Raca,Ivana R.,,Toronto,Ontario,33.0,Canada 6,6.0,Canada,10.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+10,Felix Zhou,Felix Z.,,Coquitlam,British Columbia,29.0,Canada 6,6.0,Canada,11.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+11,Harold Dieterle,Harold D.,,New York,New York,28.0,San Francisco,1.0,US,1.0,,Restaurant chef,Male,,
+12,Tiffani Faison,Tiffani F.,,Las Vegas,Nevada,28.0,San Francisco,1.0,US,2.0,,Restaurant chef,Female,,
+13,Dave Martin,Dave M.,,Long Beach,California,40.0,San Francisco,1.0,US,3.0,,Restaurant chef,Male,,
+14,Lee Anne Wong,Lee Anne W.,,New York,New York,28.0,San Francisco,1.0,US,4.0,POC,Executive chef,Female,,
+15,Stephen Asprinio,Stephen A.,,Las Vegas,Nevada,24.0,San Francisco,1.0,US,5.0,,Sommelier,Male,,
+16,Miguel Morales,Miguel M.,,New York,New York,27.0,San Francisco,1.0,US,6.0,,Hotel chef,Male,,
+17,Andrea Beaman,Andrea B.,,New York,New York,37.0,San Francisco,1.0,US,7.0,,Natural nutritionist,Female,,
+18,Lisa Parks,Lisa P.,,Los Angeles,California,45.0,San Francisco,1.0,US,8.0,POC,Cooking teacher,Female,,
+19,Candice Kumai,Candice K.,,Pasadena,California,23.0,San Francisco,1.0,US,9.0,POC,Culinary student,Female,,
+20,Brian Hill,Brian H.,,Los Angeles,California,37.0,San Francisco,1.0,US,10.0,POC,Personal chef/caterer,Male,,
+21,Cynthia Sestito,Cynthia S.,,East Hampton,New York,52.0,San Francisco,1.0,US,11.0,,Personal chef/caterer,Female,,
+22,Ken Lee,Ken L.,"Dublin, Ireland",Los Angeles,California,34.0,San Francisco,1.0,US,12.0,,Restaurant chef,Male,,
+23,Ilan Hall,Ilan H.,,New York,New York,24.0,Los Angeles,2.0,US,1.0,,Line cook,Male,,
+24,Marcel Vigneron,Marcel V.,,Las Vegas,Nevada,26.0,Los Angeles,2.0,US,2.0,,Master cook,Male,,
+25,Elia Aboumrad,Elia A.,,Las Vegas,Nevada,23.0,Los Angeles,2.0,US,3.0,POC,Room service chef,Female,,
+26,Sam Talbot,Sam T.,,New York,New York,28.0,Los Angeles,2.0,US,3.0,,Executive consulting chef,Male,,
+27,Cliff Crooks,Cliff C.,,West Caldwell,New Jersey,28.0,Los Angeles,2.0,US,5.0,POC,Executive chef,Male,,
+28,Michael Midgley,Michael M.,,Lodi,California,28.0,Los Angeles,2.0,US,6.0,,Line cook,Male,,
+29,Betty Fraser,Betty F.,,Los Angeles,California,44.0,Los Angeles,2.0,US,7.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+30,Mia Gaines-Alt,Mia G.-A.,,Oakdale,California,32.0,Los Angeles,2.0,US,8.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+31,Frank Terzoli,Frank T.,,San Diego,California,39.0,Los Angeles,2.0,US,9.0,,Executive chef,Male,,
+32,Carlos Fernandez,Carlos F.,,Fort Lauderdale,Florida,36.0,Los Angeles,2.0,US,10.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+33,Josie Smith-Malave,Josie S.-M.,,Brooklyn,New York,31.0,Los Angeles,2.0,US,11.0,POC,Sous chef,Female,,
+34,Marisa Churchill,Marisa C.,,San Francisco,California,28.0,Los Angeles,2.0,US,11.0,POC,Executive pastry chef,Female,,
+35,Emily Sprissler,Emily S.,,Las Vegas,Nevada,30.0,Los Angeles,2.0,US,13.0,,Master cook,Female,,
+36,Otto Borsich,Otto B.,,Las Vegas,Nevada,46.0,Los Angeles,2.0,US,14.0,,Instructor,Male,,
+37,Suyai Steinhauer,Suyai S.,,New York,New York,29.0,Los Angeles,2.0,US,15.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+38,Hung Huynh,Hung H.,"Pittsfield, Massachusetts",Las Vegas,Nevada,29.0,Miami,3.0,US,1.0,POC,Executive sous chef,Male,,
+39,Casey Thompson,Casey T.,"Cedar Hill, Texas",Dallas,Texas,29.0,Miami,3.0,US,2.0,,Executive chef,Female,,
+40,Dale Levitski,Dale L.,"Chicago, Illinois",Chicago,Illinois,33.0,Miami,3.0,US,2.0,,Chef/Consultant,Male,,Chef
+41,Brian Malarkey,Brian M.,"Bend, Oregon",San Diego,California,34.0,Miami,3.0,US,4.0,,Executive chef,Male,,
+42,Sara Mair,Sara M.,"Kingston, Jamaica",Miami,Florida,33.0,Miami,3.0,US,5.0,POC,Chef/cheese maker,Female,,
+43,Chris Jacobson,CJ J.,"El Toro, California",Venice,California,31.0,Miami,3.0,US,6.0,,Private chef,Male,,
+44,Howie Kleinberg,Howie K.,"Miami, Florida",Miami,Florida,31.0,Miami,3.0,US,7.0,,Executive chef,Male,,
+45,Tre Wilcox,Tre W.,"Duncanville, Texas",Cedar Hill,Texas,30.0,Miami,3.0,US,8.0,POC,Chef de Cuisine,Male,,Chef de Cuisine
+46,Sara Nguyen,Sara N.,"Santa Monica, California",Chicago,Illinois,25.0,Miami,3.0,US,9.0,POC,Executive chef,Female,,
+47,Joey Paulino,Joey P.,"Long Island, New York",New York,New York,29.0,Miami,3.0,US,10.0,,Executive chef,Male,,
+48,Lia Bardeen,Lia B.,"Tacoma, Washington",Brooklyn,New York,27.0,Miami,3.0,US,11.0,,Executive sous chef,Female,,
+49,Camille Becerra,Camille B.,"Elizabeth, New Jersey",Brooklyn,New York,34.0,Miami,3.0,US,12.0,POC,Executive chef/Owner,Female,,
+50,Micah Edelstein,Micah E.,"Bridgewater, Massachusetts",Boca Raton,Florida,32.0,Miami,3.0,US,13.0,,Owner/caterer,Female,,
+51,Sandee Birdsong,Sandee B.,"St. Simons Island, Georgia",Miami Beach,Florida,39.0,Miami,3.0,US,14.0,,Executive chef,Female,,
+52,Clay Bowen,Clay B.,"Columbus, Mississippi",Santa Barbara,California,28.0,Miami,3.0,US,15.0,,Sous chef,Male,,
+53,Stephanie Izard,Stephanie I.,"Stamford, Connecticut",Chicago,Illinois,31.0,Chicago,4.0,US,1.0,,,Female,,
+54,Lisa Fernandes,Lisa F.,"Toronto, Ontario",New York,New York,27.0,Chicago,4.0,US,2.0,,,Female,,
+55,Richard Blais,Richard B.,"Uniondale, New York",Atlanta,Georgia,35.0,Chicago,4.0,US,2.0,,,Male,,
+56,Antonia Lofaso,Antonia L.,"Los Angeles, California",Los Angeles,California,31.0,Chicago,4.0,US,4.0,,,Female,,
+57,Spike Mendelsohn,Spike M.,"Clearwater Beach, Florida",Washington,D.C.,27.0,Chicago,4.0,US,5.0,,,Male,,
+58,Dale Talde,Dale T.,"Chicago, Illinois",New York,New York,29.0,Chicago,4.0,US,6.0,POC,,Male,,
+59,Andrew D'Ambrosi,Andrew D.,"Fort Lauderdale, Florida",New York,New York,30.0,Chicago,4.0,US,7.0,,,Female,,
+60,Nikki Cascone,Nikki C.,"New York, New York",New York,New York,35.0,Chicago,4.0,US,8.0,,Chef/Co-owner,Female,,Executive Chef and Owner/Partner/Founder
+61,Mark Simmons,Mark S.,"Invercargill, New Zealand",New York,New York,29.0,Chicago,4.0,US,9.0,,,Male,,
+62,Jennifer Biesty,Jennifer B.,"Brooklyn, New York",San Francisco,California,35.0,Chicago,4.0,US,10.0,,,Female,,
+63,Ryan Scott,Ryan S.,"Los Banos, California",San Francisco,California,28.0,Chicago,4.0,US,11.0,,,Male,,
+64,Zoi Antonitsas,Zoi A.,"Seattle, Washington",San Francisco,California,30.0,Chicago,4.0,US,12.0,,,Female,,
+65,Manuel Trevino,Manuel T.,"Laredo, Texas",New York,New York,33.0,Chicago,4.0,US,13.0,POC,,Male,,
+66,Erik Hopfinger,Erik H.,"Chappaqua, New York",San Francisco,California,38.0,Chicago,4.0,US,14.0,,,Male,,
+67,Valerie Bolon,Valerie B.,"Chicago, Illinois",Chicago,Illinois,32.0,Chicago,4.0,US,15.0,,,Female,,
+68,Nimma Osman,Nimma O.,"Peachtree City, Georgia",Atlanta,Georgia,26.0,Chicago,4.0,US,16.0,POC,,Female,,
+69,Hosea Rosenberg,Hosea R.,"Taos, New Mexico",Boulder,Colorado,34.0,New York,5.0,US,1.0,,,Male,,
+70,Carla Hall,Carla H.,"Nashville, Tennessee",Washington,D.C.,44.0,New York,5.0,US,2.0,POC,Executive chef,Female,,
+71,Stefan Richter,Stefan R.,"Tampere, Finland",Santa Monica,California,35.0,New York,5.0,US,2.0,,,Male,,
+72,Fabio Viviani,Fabio V.,"Florence, Italy",Moorpark,California,30.0,New York,5.0,US,4.0,,,Male,,
+73,Jeffrey McInnis,Jeff M.,"Niceville, Florida",Miami,Florida,30.0,New York,5.0,US,4.0,,,Male,,
+74,Leah Cohen,Leah C.,"Scarsdale, New York",New York,New York,26.0,New York,5.0,US,6.0,,,Female,,
+75,Jamie Lauren,Jamie L.,"New York, New York",San Francisco,California,30.0,New York,5.0,US,7.0,,Executive chef,Female,,
+76,Radhika Desai,Radhika D.,"Chicago, Illinois",Chicago,Illinois,28.0,New York,5.0,US,8.0,POC,,Female,,
+77,Ariane Duarte,Ariane D.,"Verona, New Jersey",Verona,New Jersey,41.0,New York,5.0,US,9.0,,,Female,,
+78,Eugene Villiatora,Eugene V.,"Whitmore Village, Hawaii",Las Vegas,Nevada,33.0,New York,5.0,US,10.0,POC,,Male,,
+79,Melissa Harrison,Melissa H.,"Sparks, Maryland",Boulder,Colorado,28.0,New York,5.0,US,10.0,,,Female,,
+80,Daniel Gagnon,Daniel G.,"New Hyde Park, New York",New Hyde Park,New York,26.0,New York,5.0,US,12.0,,,Male,,
+81,Alex Eusebio,Alex E.,"New York, New York",Los Angeles,California,33.0,New York,5.0,US,13.0,,,Male,,
+82,Richard Sweeney,Richard S.,"Sayville, New York",San Diego,California,27.0,New York,5.0,US,14.0,,,Male,,
+83,Jill Snyder,Jill S.,"Latrobe, Pennsylvania",Baltimore,Maryland,28.0,New York,5.0,US,15.0,,,Female,,
+84,Patrick Dunlea,Patrick D.,"Quincy, Massachusetts",Hyde Park,New York,21.0,New York,5.0,US,16.0,,,Male,,
+85,Lauren Hope,Lauren H.,"Cincinnati, Ohio",Savannah,Georgia,24.0,New York,5.0,US,17.0,,,Female,,
+86,Michael Voltaggio,Michael V.,"Frederick, Maryland",Pasadena,California,30.0,Las Vegas,6.0,US,1.0,,Chef de Cuisine,Male,,Chef de Cuisine
+87,Bryan Voltaggio,Bryan V.,"Frederick, Maryland",Urbana,Maryland,33.0,Las Vegas,6.0,US,2.0,,,Male,,
+88,Kevin Gillespie,Kevin G.,"Atlanta, Georgia",Atlanta,Georgia,26.0,Las Vegas,6.0,US,2.0,,,Male,,
+89,Jennifer Carroll,Jennifer C.,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,33.0,Las Vegas,6.0,US,4.0,,,Female,,
+90,Eli Kirshtein,Eli K.,"Atlanta, Georgia",Atlanta,Georgia,25.0,Las Vegas,6.0,US,5.0,,Executive chef,Male,,
+91,Robin Leventhal,Robin L.,"Sun Valley, Idaho",Seattle,Washington,43.0,Las Vegas,6.0,US,6.0,,"Chef, Artist and Teacher",Female,,
+92,Mike Isabella,Mike I.,"Little Ferry, New Jersey",Washington,D.C.,34.0,Las Vegas,6.0,US,7.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+93,Laurine Wickett,Laurine W.,"Rochester, New York",San Francisco,California,38.0,Las Vegas,6.0,US,8.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+94,Ash Fulk,Ash F.,"Pleasant Hill, California",New York,New York,29.0,Las Vegas,6.0,US,9.0,,Chef de Cuisine,Male,,Chef de Cuisine
+95,Ashley Merriman,Ashley M.,"Center Sandwich, New Hampshire",Seattle,Washington,32.0,Las Vegas,6.0,US,10.0,,Chef,Female,,Chef
+96,Ron Duprat,Ron D.,"Mare Rouge, Haiti",Naples,Florida,40.0,Las Vegas,6.0,US,11.0,POC,Executive chef,Male,,
+97,Mattin Noblia,Mattin N.,"Biarritz, France",San Francisco,California,29.0,Las Vegas,6.0,US,12.0,,Owner,Male,,Other
+98,Hector Santiago,Hector S.,"San Juan, Puerto Rico",Atlanta,Georgia,41.0,Las Vegas,6.0,US,13.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+99,Jesse Sandlin,Jesse S.,"Baltimore, Maryland",Baltimore,Maryland,30.0,Las Vegas,6.0,US,14.0,,Executive chef,Female,,
+100,Preeti Mistry,Preeti M.,"San Francisco, California",San Francisco,California,33.0,Las Vegas,6.0,US,15.0,POC,Executive chef,Female,,
+101,Eve Aronoff,Eve A.,"Ann Arbor, Michigan",Ann Arbor,Michigan,40.0,Las Vegas,6.0,US,16.0,,,Female,,
+102,Jennifer Zavala,Jen Z.,"Cromwell, Connecticut",Philadelphia,Pennsylvania,31.0,Las Vegas,6.0,US,17.0,POC,Sous chef,Female,,
+103,Kevin Sbraga,Kevin Sb.,"Willingboro, New Jersey",Willingboro,New Jersey,30.0,D.C.,7.0,US,1.0,POC,Executive chef,Male,,
+104,Angelo Sosa,Angelo S.,"Durham, Connecticut",New York,New York,34.0,D.C.,7.0,US,2.0,POC,,Male,,
+105,Ed Cotton,Ed C.,"Boston, Massachusetts",Queens,New York,32.0,D.C.,7.0,US,2.0,,Executive chef,Male,,
+106,Kelly Liken,Kelly L.,"Pittsburgh, Pennsylvania",Vail,Colorado,33.0,D.C.,7.0,US,4.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+107,Tiffany Derry,Tiffany D.,"Beaumont, Texas",Dallas,Texas,26.0,D.C.,7.0,US,5.0,POC,,Female,,
+108,Amanda Baumgarten,Amanda B.,"Los Angeles, California",Los Angeles,California,27.0,D.C.,7.0,US,6.0,,Executive sous chef,Female,,
+109,Alex Reznik,Alex R.,"Brooklyn, New York",Hollywood,California,33.0,D.C.,7.0,US,7.0,,Executive chef,Male,,
+110,Kenny Gilbert,Kenny G.,"Euclid, Ohio",Telluride,Colorado,36.0,D.C.,7.0,US,8.0,POC,Owner,Male,,Other
+111,Stephen Hopcraft,Stephen H.,"Cleveland, Ohio",Las Vegas,Nevada,40.0,D.C.,7.0,US,9.0,,Executive chef,Male,,
+112,Andrea Curto-Randazzo,Andrea C.R.,"Vero Beach, Florida",Miami Beach,Florida,39.0,D.C.,7.0,US,10.0,,,Female,,
+113,Tamesha Warren,Tamesha W.,Barbados,Washington,D.C.,24.0,D.C.,7.0,US,11.0,POC,Sous chef,Female,,
+114,Timothy Dean,Tim D.,"Washington, D.C.",Baltimore,Maryland,39.0,D.C.,7.0,US,12.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+115,Arnold Myint,Arnold M.,"Nashville, Tennessee",Nashville,Tennessee,32.0,D.C.,7.0,US,13.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+116,Lynne Gigliotti,Lynne G.,"Philadelphia, Pennsylvania",Hyde Park,New York,51.0,D.C.,7.0,US,13.0,,Assistant professor,Female,,
+117,Tracey Bloom,Tracey B.,"Rochester, New York",Atlanta,Georgia,33.0,D.C.,7.0,US,15.0,,Executive chef,Female,,
+118,Jacqueline Lombard,Jacqueline L.,"Boston, Massachusetts",Brooklyn,New York,33.0,D.C.,7.0,US,16.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+119,John Somerville,John S.,"Detroit, Michigan",West Bloomfield,Michigan,42.0,D.C.,7.0,US,17.0,,Chef de Cuisine,Male,,Chef de Cuisine
+120,Richard Blais,Richard B.,,Atlanta,Georgia,38.0,All Stars: New York,8.0,US,1.0,,Owner,Male,,Other
+121,Mike Isabella,Mike I.,,Washington,D.C.,35.0,All Stars: New York,8.0,US,2.0,,Executive chef/Owner,Male,,
+122,Antonia Lofaso,Antonia L.,,Los Angeles,California,34.0,All Stars: New York,8.0,US,3.0,,Executive chef,Female,,
+123,Tiffany Derry,Tiffany D.,,Dallas,Texas,27.0,All Stars: New York,8.0,US,4.0,POC,Executive chef,Female,,
+124,Carla Hall,Carla H.,,Washington,D.C.,46.0,All Stars: New York,8.0,US,5.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+125,Dale Talde,Dale T.,,New York,New York,32.0,All Stars: New York,8.0,US,6.0,POC,Chef de Cuisine,Male,,Chef de Cuisine
+126,Angelo Sosa,Angelo S.,,New York,New York,35.0,All Stars: New York,8.0,US,7.0,POC,President,Male,,Other
+127,Fabio Viviani,Fabio V.,,Moorpark,California,32.0,All Stars: New York,8.0,US,8.0,,Owner,Male,,Other
+128,Tre Wilcox,Tre W.,,Cedar Hill,Texas,34.0,All Stars: New York,8.0,US,9.0,POC,Executive chef,Male,,
+129,Marcel Vigneron,Marcel V.,,Las Vegas,Nevada,30.0,All Stars: New York,8.0,US,10.0,,Executive chef,Male,,
+130,Jamie Lauren,Jamie L.,,San Francisco,California,32.0,All Stars: New York,8.0,US,11.0,,Executive chef,Female,,
+131,Tiffani Faison,Tiffani F.,,Las Vegas,Nevada,33.0,All Stars: New York,8.0,US,11.0,,Executive chef,Female,,
+132,Casey Thompson,Casey T.,,Dallas,Texas,32.0,All Stars: New York,8.0,US,13.0,,Executive chef,Female,,
+133,Spike Mendelsohn,Spike M.,,Washington,D.C.,29.0,All Stars: New York,8.0,US,14.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+134,Dale Levitski,Dale L.,,Chicago,Illinois,37.0,All Stars: New York,8.0,US,15.0,,Executive chef,Male,,
+135,Stephen Asprinio,Stephen A.,,Las Vegas,Nevada,29.0,All Stars: New York,8.0,US,15.0,,Principal,Male,,Other
+136,Jennifer Carroll,Jennifer C.,,Philadelphia,Pennsylvania,35.0,All Stars: New York,8.0,US,17.0,,Chef de Cuisine,Female,,Chef de Cuisine
+137,Elia Aboumrad,Elia A.,,Las Vegas,Nevada,27.0,All Stars: New York,8.0,US,18.0,POC,Consultant/Private Caterer,Female,,Private chef
+138,Paul Qui,Paul Q.,,Austin,Texas,31.0,Texas,9.0,US,1.0,POC,Executive chef,Male,,
+139,Sarah Grueneberg,Sarah G.,,Chicago,Illinois,29.0,Texas,9.0,US,2.0,,Executive chef,Female,,
+140,Lindsay Autry,Lindsay A.,,West Palm Beach,Florida,29.0,Texas,9.0,US,3.0,,Executive chef,Female,,
+141,Beverly Kim,Beverly K.,,Chicago,Illinois,32.0,Texas,9.0,US,4.0,POC,Chef de Cuisine,Female,,Chef de Cuisine
+142,Edward Lee,Edward L.,,Louisville,Kentucky,38.0,Texas,9.0,US,5.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+143,Grayson Schmitz,Grayson S.,,New York,New York,28.0,Texas,9.0,US,6.0,,Chef de Cuisine,Female,,Chef de Cuisine
+144,Chris Jones,Chris J.,,Chicago,Illinois,30.0,Texas,9.0,US,7.0,,Chef de Cuisine,Male,,Chef de Cuisine
+145,Ty-Lor Boring,Ty-Lor B.,,Brooklyn,New York,34.0,Texas,9.0,US,8.0,,Chef de Cuisine,Male,,Chef de Cuisine
+146,Chris Crary,Chris C.,,Los Angeles,California,29.0,Texas,9.0,US,9.0,,Chef de Cuisine,Male,,Chef de Cuisine
+147,Heather Terhune,Heather T.,,Chicago,Illinois,39.0,Texas,9.0,US,10.0,,Executive chef,Female,,
+148,Dakota Weiss,Dakota W.,,Los Angeles,California,35.0,Texas,9.0,US,11.0,,Executive chef,Female,,
+149,Nyesha Arrington,Nyesha A.,,Los Angeles,California,28.0,Texas,9.0,US,11.0,POC,Executive chef,Female,,
+150,Whitney Otawka,Whitney O.,,Cumberland Island,Georgia,30.0,Texas,9.0,US,13.0,,Executive chef,Female,,
+151,Chuy Valencia,Chuy V.,,Chicago,Illinois,25.0,Texas,9.0,US,14.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+152,Richie Farina,Richie F.,,Chicago,Illinois,28.0,Texas,9.0,US,15.0,,Sous chef,Male,,
+153,Keith Rhodes,Keith R.,,Wilmington,North Carolina,39.0,Texas,9.0,US,16.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+154,Kristen Kish,Kristen K.,"Kentwood, Michigan",Boston,Massachusetts,28.0,Seattle,10.0,US,1.0,POC,Sous chef,Female,,
+155,Brooke Williamson,Brooke W.,"Los Angeles, California",Redondo Beach,California,34.0,Seattle,10.0,US,2.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+156,Sheldon Simeon,Sheldon S.,"Hilo, Hawaii",Lahaina,Hawaii,30.0,Seattle,10.0,US,3.0,POC,Executive chef,Male,,
+157,Joshua Valentine,Josh V.,"Del City, Oklahoma",Dallas,Texas,33.0,Seattle,10.0,US,4.0,,Executive chef,Male,,
+158,Elizabeth Binder,Lizzie B.,"Durban, South Africa",San Francisco,California,37.0,Seattle,10.0,US,5.0,,Executive chef,Female,,
+159,Stefan Richter,Stefan R.,"Tampere, Finland",Santa Monica,California,40.0,Seattle,10.0,US,6.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+160,Josie Smith-Malave,Josie S.-M.,"Miami, Florida",San Francisco,California,37.0,Seattle,10.0,US,7.0,POC,Chef,Female,,Chef
+161,Micah Fields,Micah F.,"Los Angeles, California",Los Angeles,California,28.0,Seattle,10.0,US,8.0,POC,Executive chef,Male,,
+162,John Tesar,John T.,"New York, New York",Dallas,Texas,54.0,Seattle,10.0,US,9.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+163,Bart Vandaele,Bart V.,"Roeselare, Belgium",Washington,D.C.,42.0,Seattle,10.0,US,10.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+164,Danyele McPherson,Danyele M.,"Waynesville, North Carolina",Dallas,Texas,31.0,Seattle,10.0,US,11.0,,Sous chef,Female,,
+165,Eliza Gavin,Eliza G.,"Telluride, Colorado",Telluride,Colorado,38.0,Seattle,10.0,US,12.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+166,Chris Jacobson,CJ J.,"El Toro, California",Studio City,California,36.0,Seattle,10.0,US,13.0,,Executive chef,Male,,
+167,Tyler Wiard,Tyler W.,"Colorado, Colorado",Colorado,Colorado,41.0,Seattle,10.0,US,13.0,,Executive chef/Culinary director,Male,,
+168,Carla Pellegrino,Carla P.,"Rio de Janeiro, Brazil",Las Vegas,Nevada,43.0,Seattle,10.0,US,15.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+169,Chrissy Camba,Chrissy C.,"Chicago, Illinois",Chicago,Illinois,31.0,Seattle,10.0,US,15.0,POC,Chef,Female,,Chef
+170,Kuniko Yagi,Kuniko Y.,"Maebashi, Japan",Los Angeles,California,35.0,Seattle,10.0,US,17.0,POC,Executive chef,Female,,
+171,Jeffrey Jew,Jeffrey J.,"Washington, D.C.",St. Petersburg,Florida,34.0,Seattle,10.0,US,18.0,POC,Chef de Cuisine,Male,,Chef de Cuisine
+172,Nicholas Elmi,Nicholas E.,"West Newbury, Massachusetts",Philadelphia,Pennsylvania,32.0,New Orleans,11.0,US,1.0,,Executive chef,Male,,
+173,Nina Compton,Nina C.,Saint Lucia,New Orleans,Louisiana,34.0,New Orleans,11.0,US,2.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+174,Shirley Chung,Shirley C.,"Beijing, China",Las Vegas,Nevada,36.0,New Orleans,11.0,US,3.0,POC,Executive chef,Female,,
+175,Louis Maldonado,Louis M.,"Ukiah, California",Healdsburg,California,32.0,New Orleans,11.0,US,4.0,POC,Executive chef,Male,,
+176,Carlos Gaytan,Carlos G.,"Huitzuco, Guerrero, Mexico",Chicago,Illinois,42.0,New Orleans,11.0,US,5.0,POC,Executive chef/Owner,Male,,
+177,Brian Huskey,Brian Hu.,"Pasadena, California",Los Angeles,California,32.0,New Orleans,11.0,US,6.0,POC,Executive chef,Male,,
+178,Stephanie Cmar,Stephanie C.,"Boston, Massachusetts",Boston,Massachusetts,28.0,New Orleans,11.0,US,7.0,,Sous chef,Female,,
+179,Carrie Mashaney,Carrie M.,"Carpenter, Iowa",Seattle,Washington,35.0,New Orleans,11.0,US,8.0,,Chef de Cuisine,Female,,Chef de Cuisine
+180,Justin Devillier,Justin D.,"Dana Point, California",New Orleans,Louisiana,32.0,New Orleans,11.0,US,9.0,,Chef/Proprieter,Male,,Executive Chef and Owner/Partner/Founder
+181,Travis Masar,Travis M.,"La Junta, Colorado",Philadelphia,Pennsylvania,27.0,New Orleans,11.0,US,10.0,,Executive chef,Male,,
+182,Sara Johannes,Sara J.,"Milwaukee, Wisconsin",Minneapolis,Minnesota,36.0,New Orleans,11.0,US,11.0,,Executive chef,Female,,
+183,Patricia Vega,Patty V.,"Gurabo, Puerto Rico",New York,New York,29.0,New Orleans,11.0,US,12.0,POC,Sous chef,Female,,
+184,Benedetto Bartolotta,Bene B.,"Astoria, New York",New York,New York,27.0,New Orleans,11.0,US,13.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+185,Michael Sichel,Michael S.,"Valhalla, New York",New Orleans,Louisiana,46.0,New Orleans,11.0,US,14.0,,Executive chef,Male,,
+186,Janine Booth,Janine B.,"Perth, Australia",New York,New York,25.0,New Orleans,11.0,US,15.0,,Chef de Cuisine,Female,,Chef de Cuisine
+187,Bret Pelaggi,Bret P.,"Norwood, Massachusetts",Miami,Florida,34.0,New Orleans,11.0,US,16.0,,Chef de Cuisine,Male,,Chef de Cuisine
+188,Aaron Cuschieri,Aaron C.,"Livonia, Michigan",Chicago,Illinois,29.0,New Orleans,11.0,US,17.0,,Executive chef,Male,,
+189,Jason Cichonski,Jason C.,"Bucks County, Pennsylvania",Philadelphia,Pennsylvania,27.0,New Orleans,11.0,US,18.0,,Executive chef/Owner,Male,,
+190,Ramon Bojorquez,Ramon B.,"Rio Rico, Arizona",San Diego,California,31.0,New Orleans,11.0,US,19.0,,Sous chef,Male,,
+191,Mei Lin,Mei L.,"Dearborn, Michigan",Los Angeles,California,28.0,Boston,12.0,US,1.0,POC,Sous chef,Female,,
+192,Gregory Gourdet,Gregory G.,"Queens, New York",Portland,Oregon,39.0,Boston,12.0,US,2.0,POC,Executive chef,Male,,
+193,Doug Adams,Doug A.,"Tyler, Texas",Portland,Oregon,29.0,Boston,12.0,US,3.0,,Sous chef,Male,,
+194,Melissa King,Melissa K.,"Los Angeles, California",San Francisco,California,30.0,Boston,12.0,US,4.0,POC,Private chef,Female,,
+195,George Pagonis,George P.,"Washington, D.C.",Washington,D.C.,31.0,Boston,12.0,US,5.0,,Chef/Partner,Male,,Executive Chef and Owner/Partner/Founder
+196,Katsuji Tanabe,Katsuji T.,"Mexico City, Mexico",Los Angeles,California,33.0,Boston,12.0,US,6.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+197,Adam Harvey,Adam H.,"New York, New York",New York,New York,29.0,Boston,12.0,US,7.0,,Sous chef,Male,,
+198,Katie Weinner,Katie W.,"Rosemount, Minnesota",Salt Lake City,Utah,35.0,Boston,12.0,US,8.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+199,Keriann Von Raesfeld,Keriann vR.,"San Jose, California",San Jose,California,28.0,Boston,12.0,US,9.0,,Executive chef,Female,,
+200,Stacy Cogswell,Stacy C.,"Boston, Massachusetts",Boston,Massachusetts,33.0,Boston,12.0,US,10.0,,Executive chef,Female,,
+201,Aaron Grissom,Aaron G.,"Tacoma, Washington",North Hollywood,California,27.0,Boston,12.0,US,11.0,,Executive chef,Male,,
+202,James Rigato,James R.,"Howell, Michigan",White Lake,Michigan,29.0,Boston,12.0,US,12.0,,Executive chef,Male,,
+203,Rebecca LaMalfa,Rebecca L.,"Chico, California",Chicago,Illinois,32.0,Boston,12.0,US,12.0,,Executive sous chef,Female,,
+204,Ron Eyester,Ron E.,"Long Island, New York",Atlanta,Georgia,40.0,Boston,12.0,US,14.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+205,Joy Crump,Joy C.,"Coatesville, Pennsylvania",Fredericksburg,Virginia,46.0,Boston,12.0,US,15.0,,Executive chef/Owner,Female,,
+206,Michael Patlazhan,Michael P.,"Brooklyn, New York",Brooklyn,New York,31.0,Boston,12.0,US,16.0,,Private chef,Male,,
+207,Jeremy Ford,Jeremy F.,"Jacksonville, Florida",Miami,Florida,30.0,California,13.0,US,1.0,,Chef de Cuisine,Male,,Chef de Cuisine
+208,Amar Santana,Amar S.,"Queens, New York",Orange County,California,33.0,California,13.0,US,2.0,POC,Executive chef/Owner,Male,,
+209,Isaac Toups,Isaac T.,"Rayne, Louisiana",New Orleans,Louisiana,36.0,California,13.0,US,3.0,,Executive chef/Owner,Male,,
+210,Marjorie Meek-Bradley,Marjorie M.B.,"Ukiah, California",Washington,D.C.,30.0,California,13.0,US,4.0,,Executive chef,Female,,
+211,Carl Dooley,Carl D.,"Boston, Massachusetts",Boston,Massachusetts,30.0,California,13.0,US,5.0,,Chef de Cuisine,Male,,Chef de Cuisine
+212,Kwame Onwuachi,Kwame O.,"Bronx, New York",Washington,D.C.,25.0,California,13.0,US,6.0,POC,Chef de Cuisine,Male,,Chef de Cuisine
+213,Karen Akunowicz,Karen A.,"Kearny, New Jersey",Boston,Massachusetts,37.0,California,13.0,US,7.0,,Executive chef,Female,,
+214,Phillip Frankland Lee,Phillip F.L.,"Los Angeles, California",Los Angeles,California,28.0,California,13.0,US,8.0,,Executive chef/Owner,Male,,
+215,Chad White,Chad W.,"Spokane, Washington",San Diego,California,32.0,California,13.0,US,9.0,,Executive chef/Owner,Male,,
+216,Jason Stratton,Jason S.,"Seattle, Washington",Seattle,Washington,35.0,California,13.0,US,10.0,,Executive chef,Male,,
+217,Wesley True,Wesley T.,"Mobile, Alabama",Atlanta,Georgia,38.0,California,13.0,US,11.0,,Executive chef,Male,,
+218,Angelina Bastidas,Angelina B.,"Miami, Florida",Miami,Florida,25.0,California,13.0,US,12.0,POC,Chef de Cuisine,Female,,Chef de Cuisine
+219,Giselle Wellman,Giselle W.,"San Diego, California",Los Angeles,California,31.0,California,13.0,US,13.0,,Executive chef,Female,,
+220,Grayson Schmitz,Grayson S.,"New Holstein, Wisconsin",New York,New York,32.0,California,13.0,US,14.0,,Head of Development,Female,,Other
+221,Frances Tariga-Weshnak,Frances T.W.,"Manila, Philippines",New York,New York,33.0,California,13.0,US,15.0,POC,Sous chef,Female,,
+222,Renee Kelly,Renee K.,"Shawnee, Kansas",Merriam,Kansas,34.0,California,13.0,US,16.0,,Executive chef/Owner,Female,,
+223,Garret Fleming,Garret F.,"Rockford, Illinois",Washington,D.C.,33.0,California,13.0,US,17.0,,Executive chef,Male,,
+224,Brooke Williamson,Brooke W.,,Los Angeles,California,,Charleston,14.0,US,1.0,,Executive chef/Owner,Female,,
+225,Shirley Chung,Shirley C.,,Irvine,California,,Charleston,14.0,US,2.0,POC,Executive chef/Owner,Female,,
+226,Sheldon Simeon,Sheldon S.,,Maui,Hawaii,,Charleston,14.0,US,3.0,POC,Executive chef/Owner,Male,,
+227,John Tesar,John T.,,Dallas,Texas,58.0,Charleston,14.0,US,4.0,,Executive chef/Owner,Male,,
+228,Sylva Sevat,Sylva S.,,Philadelphia,Pennsylvania,,Charleston,14.0,US,5.0,POC,Executive chef,Male,,
+229,Casey Thompson,Casey T.,,Napa,California,,Charleston,14.0,US,6.0,,Executive chef/Restaurant Consultant,Female,,
+230,Emily Hahn,Emily H.,,Charleston,South Carolina,,Charleston,14.0,US,7.0,,Executive chef,Female,,
+231,Katsuji Tanabe,Katsuji T.,,Los Angeles,California,,Charleston,14.0,US,8.0,POC,Executive chef/Owner,Male,,
+232,Jamie Lynch,Jamie Ly.,,Charleston,South Carolina,,Charleston,14.0,US,9.0,,Executive chef/Partner,Male,,
+233,Jim Smith,Jim S.,,Montgomery,Alabama,,Charleston,14.0,US,10.0,,Executive chef,Male,,
+234,Amanda Baumgarten,Amanda B.,,Chicago,Illinois,,Charleston,14.0,US,11.0,,Bartender,Female,,Other
+235,Silvia Barban,Silvia B.,,Brooklyn,New York,26.0,Charleston,14.0,US,12.0,,Executive chef,Female,,
+236,BJ Smith,BJ S.,,Portland,Oregon,,Charleston,14.0,US,13.0,,Executive chef/Owner,Male,,
+237,Sam Talbot,Sam T.,,Brooklyn,New York,,Charleston,14.0,US,14.0,,Executive chef/Owner,Male,,
+238,Annie Pettry,Annie P.,,Louisville,Kentucky,,Charleston,14.0,US,15.0,,Executive chef/Partner,Female,,
+239,Gerald Sombright,Gerald S.,,Marco Island,Florida,,Charleston,14.0,US,16.0,POC,Chef de Cuisine,Male,,Chef de Cuisine
+240,Joseph Flamm,Joe F.,"Chicago, Illinois",Chicago,Illinois,,Colorado,15.0,US,1.0,,Executive chef,Male,,
+241,Adrienne Cheatham,Adrienne C.,"Chicago, Illinois",Harlem,New York,,Colorado,15.0,US,2.0,POC,Chef/Consultant,Female,,Chef
+242,Joe Sasto,Joe S.,,Los Angeles,California,27.0,Colorado,15.0,US,3.0,,Executive chef,Male,,
+243,Carrie Baird,Carrie B.,,Colorado,Colorado,,Colorado,15.0,US,4.0,,Chef de Cuisine,Female,,Chef de Cuisine
+244,Chris Scott,Chris S.,"Coatesville, Pennsylvania",Brooklyn,New York,,Colorado,15.0,US,5.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+245,Bruce Kalman,Bruce K.,,Pasadena,California,,Colorado,15.0,US,6.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+246,Fatima Ali,Fatima A.,,Brooklyn,New York,,Colorado,15.0,US,7.0,POC,Chef/Consultant,Female,,Chef
+247,Claudette Zepeda Wilkins,Claudette Z.-W.,,San Diego,California,32.0,Colorado,15.0,US,8.0,POC,Executive chef,Female,,
+248,Tanya Holland,Tanya H.,,Oakland,California,,Colorado,15.0,US,9.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+249,Brother Luck,Brother L.,,Colorado Springs,Colorado,,Colorado,15.0,US,10.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+250,Lee Anne Wong,Lee Anne W.,,Honolulu,Hawaii,39.0,Colorado,15.0,US,10.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+251,Tu David Phu,Tu P.,,Oakland,California,,Colorado,15.0,US,12.0,POC,Chef/Founder,Male,,Executive Chef and Owner/Partner/Founder
+252,Tyler Anderson,Tyler A.,,Simsbury,Connecticut,,Colorado,15.0,US,13.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+253,Rogelio Garcia,Rogelio G.,,San Francisco,California,,Colorado,15.0,US,14.0,POC,Executive chef,Male,,
+254,Laura Cole,Laura C.,,Denali National Park,Alaska,,Colorado,15.0,US,15.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+255,Melissa Perfit,Melissa P.,,San Francisco,California,,Colorado,15.0,US,16.0,,Executive chef,Female,,
+256,Kelsey Barnard Clark,Kelsey B.-C.,,Dothan,Alabama,,Kentucky,16.0,US,1.0,,Chef/Proprieter,Female,,Executive Chef and Owner/Partner/Founder
+257,Sara Bradley,Sara B.,"Paducah, Kentucky",Paducah,Kentucky,,Kentucky,16.0,US,2.0,,Chef/Proprieter,Female,,Executive Chef and Owner/Partner/Founder
+258,Eric Adjepong,Eric A.,,Washington,D.C.,,Kentucky,16.0,US,3.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+259,Michelle Minori,Michelle M.,,San Francisco,California,,Kentucky,16.0,US,4.0,POC,Executive chef,Female,,
+260,Adrienne Wright,Adrienne W.,,Boston,Massachusetts,,Kentucky,16.0,US,5.0,,Executive chef,Female,,
+261,Justin Sutherland,Justin S.,,St. Paul,Minnesota,,Kentucky,16.0,US,6.0,POC,Executive chef,Male,,
+262,Edmund Konrad,Eddie K.,,Philadelphia,Pennsylvania,,Kentucky,16.0,US,7.0,,Chef de Cuisine,Male,,Chef de Cuisine
+263,David Viana,David V.,"Elizabeth, New Jersey",Asbury Park,New Jersey,,Kentucky,16.0,US,8.0,POC,Chef/Partner,Male,James Beard Best Chef: Mid-Atlantic nominated,Executive Chef and Owner/Partner/Founder
+264,Brian Young,Brian Y.,,Boston,Massachusetts,,Kentucky,16.0,US,9.0,,Chef de Cuisine,Male,,Chef de Cuisine
+265,Brandon Rosen,Brandon R.,"San Mateo, California",Atherton,California,,Kentucky,16.0,US,10.0,,Private chef,Male,,
+266,Brother Luck,Brother L.,,Colorado Springs,Colorado,,Kentucky,16.0,US,11.0,POC,,Male,,
+267,Nini Nguyen,Nini N.,"New Orleans, Louisiana",Brooklyn,New York,,Kentucky,16.0,US,12.0,POC,Culinary director,Female,,
+268,Pablo Lamon,Pablo L.,"Buenos Aires, Argentina",Miami Beach,Florida,,Kentucky,16.0,US,12.0,POC,Chef de Cuisine,Male,,Chef de Cuisine
+269,Kevin Scharpf,Kevin S.,,Dubuque,Iowa,,Kentucky,16.0,US,14.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+270,Natalie Maronski,Natalie M.,,Philadelphia,Pennsylvania,,Kentucky,16.0,US,15.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+271,Caitlin Steininger,Caitlin S.,,Cincinnati,Ohio,,Kentucky,16.0,US,16.0,,Chef/Co-owner,Female,,Executive Chef and Owner/Partner/Founder
+272,Melissa King,Melissa K.,,San Francisco,California,,All-Stars L.A.,17.0,US,1.0,POC,Chef/Business owner,Female,,
+273,Bryan Voltaggio,Bryan V.,,Frederick,Maryland,,All-Stars L.A.,17.0,US,2.0,,Executive chef/restaurateur,Male,James Beard nominee,
+274,Stephanie Cmar,Stephanie C.,,Boston,Massachusetts,,All-Stars L.A.,17.0,US,2.0,,Private chef,Female,,
+275,Kevin Gillespie,Kevin G.,,Atlanta,Georgia,,All-Stars L.A.,17.0,US,4.0,,Executive chef/restaurateur,Male,James Beard nominee,
+276,Gregory Gourdet,Gregory G.,,Portland,Oregon,,All-Stars L.A.,17.0,US,5.0,POC,Director of culinary operations,Male,,
+277,Brian Malarkey,Brian M.,,San Diego,California,,All-Stars L.A.,17.0,US,6.0,,Restaurateur,Male,,
+278,Karen Akunowicz,Karen A.,,Boston,Massachusetts,,All-Stars L.A.,17.0,US,7.0,,Chef/restaurateur,Female,James Beard winner,
+279,Lee Anne Wong,Lee Anne W.,,Maui,Hawaii,,All-Stars L.A.,17.0,US,8.0,POC,Executive chef/chef/restaurateur,Female,,
+280,Eric Adjepong,Eric A.,,Washington,D.C.,,All-Stars L.A.,17.0,US,9.0,POC,Chef/Business owner,Male,,
+281,Nini Nguyen,Nini N.,,New York,New York,,All-Stars L.A.,17.0,US,10.0,POC,Culinary director,Female,,
+282,Jennifer Carroll,Jennifer C.,,Philadelphia,Pennsylvania,,All-Stars L.A.,17.0,US,11.0,,Chef/Business owner/founder,Female,,
+283,Lisa Fernandes,Lisa F.,,Brooklyn,New York,,All-Stars L.A.,17.0,US,12.0,,Chef/restaurateur,Female,,
+284,Jamie Lynch,Jamie Ly.,,Charlotte,North Carolina,,All-Stars L.A.,17.0,US,13.0,,Chef/Partner,Male,,Executive Chef and Owner/Partner/Founder
+285,Angelo Sosa,Angelo S.,,San Diego,California,,All-Stars L.A.,17.0,US,14.0,POC,Culinary director,Male,,
+286,Joe Sasto,Joe S.,,Los Angeles,California,,All-Stars L.A.,17.0,US,15.0,,Chef/restaurateur,Male,,
+287,Gabe Erales,Gabe E.,"El Paso, Texas",Austin,Texas,,Portland,18.0,US,1.0,POC,Chef,Male,,Chef
+288,Dawn Burrell,Dawn B.,"Philadelphia, Pennsylvania",Houston,Texas,,Portland,18.0,US,2.0,POC,Executive chef/Partner,Female,,
+289,Shota Nakajima,Shota N.,"Tokyo, Japan/Seattle, Washington",Seattle,Washington,,Portland,18.0,US,2.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+290,Jamie Tran,Jamie T.,"Stockton, California",Las Vegas,Nevada,,Portland,18.0,US,4.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+291,Maria Mazon,Maria M.,"Tucson, Arizona/Navojoa, Sonora",Tucson,Arizona,,Portland,18.0,US,5.0,POC,Executive chef/Owner,Female,,
+292,Byron Gomez,Byron G.,"Central Islip, New York",Aspen,Colorado,,Portland,18.0,US,6.0,POC,Executive chef,Male,,
+293,Chris Viaud,Chris V.,"Randolph, Massachusetts",Milford,New Hampshire,,Portland,18.0,US,7.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+294,Sara Hauman,Sara H.,"Vista, California",Portland,Oregon,,Portland,18.0,US,8.0,,Head Chef,Female,,Chef
+295,Avishar Barua,Avishar B.,"Columbus, Ohio",Columbus,Ohio,,Portland,18.0,US,9.0,POC,Executive chef/General Manager,Male,,
+296,Gabriel Pascuzzi,Gabriel P.,"Portland, Oregon",Portland,Oregon,,Portland,18.0,US,10.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+297,Nelson German,Nelson G.,"New York City, New York",Oakland,California,,Portland,18.0,US,10.0,POC,Executive chef/Owner,Male,,
+298,Kiki Louya,Kiki L.,"Detroit, Michigan",Detroit,Michigan,,Portland,18.0,US,12.0,POC,Chef/Consultant,Female,,Chef
+299,Brittanny Anderson,Brittanny A.,"Richmond, Virginia",Richmond,Virginia,,Portland,18.0,US,13.0,,Chef/Co-owner,Female,,Executive Chef and Owner/Partner/Founder
+300,Sasha Grumman,Sasha G.,"Newport Beach, California",Houston,Texas,,Portland,18.0,US,14.0,,Executive chef,Female,,
+301,Roscoe Hall,Roscoe H.,"Chicago, Illinois",Birmingham,Alabama,,Portland,18.0,US,15.0,POC,Chef/Artist/Father,Male,,Other
+302,Buddha Lo,Buddha,"Port Douglas, Australia",Brooklyn,New York,,Houston,19.0,US,1.0,POC,Executive chef,Male,,
+303,Evelyn Garcia,Evelyn G.,"Houston, Texas",Houston,Texas,,Houston,19.0,US,2.0,POC,Chef/Co-owner,Female,,Executive Chef and Owner/Partner/Founder
+304,Sarah Welch,Sarah W.,"Ann Arbor, Michigan",Detroit,Michigan,,Houston,19.0,US,2.0,,Executive chef,Female,,
+305,Damarr Brown,Damarr B.,"Chicago, Illinois",Chicago,Illinois,,Houston,19.0,US,4.0,POC,Chef de Cuisine,Male,,Chef de Cuisine
+306,Nick Wallace,Nick W.,"Edwards, Mississippi",Jackson,Mississippi,,Houston,19.0,US,5.0,POC,Chef,Male,,Chef
+307,Ashleigh Shanti,Ashleigh S.,"Virginia Beach, Virginia",Asheville,North Carolina,,Houston,19.0,US,6.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+308,Jae Jung,Jae J.,"Seoul, South Korea",New York City,New York,,Houston,19.0,US,7.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+309,Luke Kolpin,Luke K.,"Seattle, Washington",Seattle,Washington,,Houston,19.0,US,8.0,,Chef,Male,,Chef
+310,Jackson Kalb,Jackson K.,"Los Angeles, California",Los Angeles,California,,Houston,19.0,US,9.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+311,Jo Chan,Jo C.,"Palmdale, California",Austin,Texas,,Houston,19.0,US,10.0,POC,Executive chef,Female,,
+312,Monique Feybesse,Monique F.,"San Francisco, California",Vallejo,California,,Houston,19.0,US,11.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+313,Robert Hernandez,Robert H.,"Downey, California",San Francisco,California,,Houston,19.0,US,12.0,POC,Private chef,Male,,
+314,Sam Kang,Sam K.,"Gardena, California",Brooklyn,New York,,Houston,19.0,US,13.0,POC,Chef Educator,Male,,Other
+315,Stephanie Miller,Stephanie M.,"Bismarck, North Dakota",Bismarck,North Dakota,,Houston,19.0,US,14.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+316,Leia Gaccione,Leia G.,"Passaic, New Jersey",Morristown,New Jersey,,Houston,19.0,US,15.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+317,Buddha Lo,Buddha,"Port Douglas, Australia",Brooklyn,New York,,World All Stars,20.0,US,1.0,POC,Executive chef,Male,,
+318,Gabriel Rodriguez,Gabriel Rodriguez,"Iztapalapa, Mexico City",Madrid,Spain,,World All Stars,20.0,US,2.0,POC,Executive chef,Male,,
+319,Sara Bradley,Sara B.,Paducah,Paducah,Kentucky,,World All Stars,20.0,US,2.0,,Executive chef/Proprietor,Female,,
+320,Ali Ghzawi,Ali Ghzawi,"Irbid, Jordan",Amman,Jordan,,World All Stars,20.0,US,4.0,POC,Chef/Patron,Male,,Executive Chef and Owner/Partner/Founder
+321,Tom Goetter,Tom Goetter,"Mainz, Germany",,Germany,,World All Stars,20.0,US,5.0,,Director of Food & Beverage,Male,,Other
+322,Amar Santana,Amar S.,Dominican Republic / Queens,Santa Ana,California,,World All Stars,20.0,US,6.0,POC,Chef/Partner,Male,,Executive Chef and Owner/Partner/Founder
+323,Victoire Gouloubi,Victoire Gouloubi,"Brazzaville, Republic of the Congo",Milan,Italy,,World All Stars,20.0,US,7.0,POC,Private chef/Consultant,Female,,
+324,Nicole Gomes,Nicole Gomes,"Richmond, British Columbia",Vancouver,British Columbia,,World All Stars,20.0,US,8.0,POC,Chef/Co-founder,Female,,Executive Chef and Owner/Partner/Founder
+325,Charbel Hayek,Charbel Hayek,"Beirut, Lebanon",Lake Worth,Florida,25.0,World All Stars,20.0,US,9.0,POC,Private chef/Consultant,Male,,
+326,Dale MacKay,Dale MacKay,"Saskatoon, Saskatchewan",Saskatoon,Saskatchewan,,World All Stars,20.0,US,10.0,,Chef/Co-owner,Male,,Executive Chef and Owner/Partner/Founder
+327,Sylwia Stachyra,Sylwia Stachyra,"Lublin, Poland",Lublin,Poland,,World All Stars,20.0,US,11.0,,Consultant/Cooking School Owner,Female,,Other
+328,Begona Rodrigo,Begona Rodrigo,"Valencia, Spain",Valencia,Spain,,World All Stars,20.0,US,12.0,,Owner,Female,,Other
+329,Luciana Berry,Luciana Berry,"Salvador, Bahi, Brazil",London,England,,World All Stars,20.0,US,13.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+330,May Phattanant Thongthong,May Phattanant Thongthong,"Chiang Mai, Thailand",Bangkok,Thailand,,World All Stars,20.0,US,14.0,POC,Executive chef/Co-Partner,Female,,
+331,Dawn Burrell,Dawn B.,"Philadelphia, Pennsylvania",Houston,Texas,,World All Stars,20.0,US,15.0,POC,Executive chef/Owner,Female,,
+332,Samuel Albert,Samuel Albert,"Soucelles, France",Angers,France,,World All Stars,20.0,US,16.0,,Owner,Male,,Other
+333,Amanda Turner,Amanda Turner,"Arlington, Texas",Austin,Texas,,Wisconsin,21.0,US,8.0,POC,Chef de Cuisine,Female,,Chef de Cuisine
+334,Laura Ozyilmaz,Laura Ozyilmaz,"Acapulco, Mexico",San Francisco,California,,Wisconsin,21.0,US,4.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+335,Kaleena Bliss,Kaleena Bliss,"Seattle, Washington",Chicago,Illinois,,Wisconsin,21.0,US,9.0,POC,Executive chef,Female,,
+336,Kevin D'Andrea,Kevin D'Andrea,"Oloron-Sainte-Marie, France",Austin,Texas,,Wisconsin,21.0,US,10.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+337,Rasika Venkatesa,Rasika Venkatesa,"Chennai, India",San Francisco,California,25.0,Wisconsin,21.0,US,11.0,POC,Chef de Cuisine,Female,,Chef de Cuisine
+338,Charly Pierre,Charly Pierre,"Cambridge, Massachusetts",New Orleans,Louisiana,,Wisconsin,21.0,US,12.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+339,Alisha Elenz,Alisha Elenz,"Palatine, Illinois",Chicago,Illinois,,Wisconsin,21.0,US,13.0,,Private chef,Female,,
+340,Kenny Nguyen,Kenny Nguyen,"Philadelphia, Pennsylvania",Athens,Georgia,,Wisconsin,21.0,US,14.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+341,Valentine Howell Jr.,Valentine Howell Jr.,"Boston, Massachusetts",Dorchester,Massachusetts,,Wisconsin,21.0,US,15.0,POC,Executive chef,Male,,
+342,David Murphy,David Murphy,"Houston, Texas",San Francisco,California,,Wisconsin,21.0,US,16.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+343,Dan Jacobs,Dan Jacobs,"Chicago, Illinois",Milwaukee,Wisconsin,,Wisconsin,21.0,US,2.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+344,Danny Garcia,Danny Garcia,"Brooklyn, New York",New York,New York,,Wisconsin,21.0,US,1.0,POC,Executive chef,Male,,
+345,Manny Barella,Manny Barella,"Monterrey, Nuevo Leon, Mexico",Denver,Colorado,,Wisconsin,21.0,US,5.0,POC,Culinary director,Male,,
+346,Michelle Wallace,Michelle Wallace,"St. Louis, Missouri",Houston,Texas,,Wisconsin,21.0,US,6.0,POC,Pitmaster/Owner,Female,,Other
+347,Savannah Miller,Savannah Miller,"Southern Pines, North Carolina",Durham,North Carolina,,Wisconsin,21.0,US,2.0,,Chef de Cuisine,Female,,Chef de Cuisine
+348,Soo Ahn,Soo Ahn,"Seoul, South Korea",Tacoma,Washington,,Wisconsin,21.0,US,7.0,POC,Executive chef,Male,,
+349,Rick Bayless,Rick Bayless,,Chicago,Illinois,,Masters Season 1,1.0,US Masters,1.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+350,Michael Chiarello,Michael Chiarello,,Napa,California,,Masters Season 1,1.0,US Masters,2.0,,Owner,Male,,Other
+351,Hubert Keller,Hubert Keller,,San Francisco,California,,Masters Season 1,1.0,US Masters,3.0,,Executive chef/Owner,Male,,
+352,Anita Lo,Anita Lo,,New York,New York,,Masters Season 1,1.0,US Masters,4.0,POC,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+353,Art Smith,Art Smith,,Chicago,Illinois,,Masters Season 1,1.0,US Masters,5.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+354,Suzanne Tracht,Suzanne Tracht,,Los Angeles,California,,Masters Season 1,1.0,US Masters,6.0,,Executive chef/Owner,Female,,
+355,Graham Elliot Bowles,Graham Elliot,,Chicago,Illinois,,Masters Season 1,1.0,US Masters,7.0,,Executive chef,Male,,
+356,Wylie Dufresne,Wylie Dufresne,,New York,New York,,Masters Season 1,1.0,US Masters,8.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+357,Jonathan Waxman,Jonathan Waxman,,New York,New York,,Masters Season 1,1.0,US Masters,9.0,,Chef,Male,,Chef
+358,Wilo Benet,Wilo Benet,,San Juan,Puerto Rico,,Masters Season 1,1.0,US Masters,10.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+359,Christopher Lee,Christopher Lee,,New York,New York,,Masters Season 1,1.0,US Masters,11.0,POC,Executive chef,Male,,
+360,Mark Peel,Mark Peel,,Los Angeles,California,,Masters Season 1,1.0,US Masters,12.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+361,Michael Cimarusti,Michael Cimarusti,,Los Angeles,California,,Masters Season 1,1.0,US Masters,13.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+362,Rick Moonen,Rick Moonen,,Las Vegas,Nevada,,Masters Season 1,1.0,US Masters,14.0,,Executive chef/Owner,Male,,
+363,Nils Noren,Nils Noren,,New York,New York,,Masters Season 1,1.0,US Masters,15.0,,Vice President of Culinary Arts,Male,,Other
+364,Ludo Lefebvre,Ludo Lefebvre,,Los Angeles,California,,Masters Season 1,1.0,US Masters,16.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+365,Elizabeth Falkner,Elizabeth Falkner,,San Francisco,California,,Masters Season 1,1.0,US Masters,17.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+366,Lachlan MacKinnon-Patterson,Lachlan MacKinnon-Patterson,,Boulder,Colorado,,Masters Season 1,1.0,US Masters,18.0,,Chef/Founder,Male,,Executive Chef and Owner/Partner/Founder
+367,Cindy Pawlcyn,Cindy Pawlcyn,,Napa,California,,Masters Season 1,1.0,US Masters,19.0,,Chef/Owner,Female,,Executive Chef and Owner/Partner/Founder
+368,Roy Yamaguchi,Roy Yamaguchi,,Honolulu,Hawaii,,Masters Season 1,1.0,US Masters,20.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+369,Tim Love,Tim Love,,Fort Worth,Texas,,Masters Season 1,1.0,US Masters,21.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+370,Michael Schlow,Michael Schlow,,Boston,Massachusetts,,Masters Season 1,1.0,US Masters,22.0,,Executive chef/Owner,Male,,
+371,Douglas Rodriguez,Douglas Rodriguez,,Philadelphia,Pennsylvania,,Masters Season 1,1.0,US Masters,23.0,POC,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+372,John Besh,John Besh,,New Orleans,Louisiana,,Masters Season 1,1.0,US Masters,24.0,,Chef/Owner,Male,,Executive Chef and Owner/Partner/Founder
+373,Marcus Samuelsson,Marcus Samuelsson,,New York,New York,,Masters Season 2,2.0,US Masters,1.0,POC,,Male,,
+374,Rick Moonen,Rick Moonen,,Las Vegas,Nevada,,Masters Season 2,2.0,US Masters,2.0,,,Male,,
+375,Susur Lee,Susur Lee,,New York,New York,,Masters Season 2,2.0,US Masters,2.0,POC,,Male,,
+376,Jonathan Waxman,Jonathan Waxman,,New York,New York,,Masters Season 2,2.0,US Masters,4.0,,,Male,,
+377,Susan Feniger,Susan Feniger,,Los Angeles,California,,Masters Season 2,2.0,US Masters,5.0,,,Female,,
+378,Tony Mantuano,Tony Mantuano,,Chicago,Illinois,,Masters Season 2,2.0,US Masters,6.0,,,Male,,
+379,Jody Adams,Jody Adams,,Cambridge,Massachusetts,,Masters Season 2,2.0,US Masters,7.0,,,Female,,
+380,Carmen Gonzalez,Carmen Gonzalez,,New York,New York,,Masters Season 2,2.0,US Masters,8.0,POC,,Female,,
+381,Jerry Traunfeld,Jerry Traunfeld,,Seattle,Washington,,Masters Season 2,2.0,US Masters,9.0,,,Male,,
+382,Ana Sortun,Ana Sortun,,Cambridge,Massachusetts,,Masters Season 2,2.0,US Masters,10.0,,,Female,,
+383,Wylie Dufresne,Wylie Dufresne,,New York,New York,,Masters Season 2,2.0,US Masters,11.0,,,Male,,
+384,Maria Hines,Maria Hines,,Seattle,Washington,,Masters Season 2,2.0,US Masters,12.0,,,Female,,
+385,Graham Elliot Bowles,Graham Elliot,,Chicago,Illinois,,Masters Season 2,2.0,US Masters,13.0,,,Male,,
+386,Rick Tramonto,Rick Tramonto,,Chicago,Illinois,,Masters Season 2,2.0,US Masters,14.0,,,Male,,
+387,Monica Pope,Monica Pope,,Houston,Texas,,Masters Season 2,2.0,US Masters,15.0,,,Female,,
+388,Jimmy Bradley,Jimmy Bradley,,New York,New York,,Masters Season 2,2.0,US Masters,16.0,,,Male,,
+389,Govind Armstrong,Govind Armstrong,,Los Angeles,California,,Masters Season 2,2.0,US Masters,17.0,POC,,Male,,
+390,Ludo Lefebvre,Ludo Lefebvre,,Los Angeles,California,,Masters Season 2,2.0,US Masters,18.0,,,Male,,
+391,Thierry Rautureau,Thierry Rautureau,,Seattle,Washington,,Masters Season 2,2.0,US Masters,19.0,,,Male,,
+392,Debbie Gold,Debbie Gold,,Kansas City,Missouri,,Masters Season 2,2.0,US Masters,20.0,,,Female,,
+393,David Burke,David Burke,,New York,New York,,Masters Season 2,2.0,US Masters,21.0,,,Male,,
+394,Mark Peel,Mark Peel,,Los Angeles,California,,Masters Season 2,2.0,US Masters,22.0,,,Male,,
+395,Floyd Cardoz,Floyd Cardoz,,New York,New York,,Masters Season 3,3.0,US Masters,1.0,POC,,Male,,
+396,Mary Sue Milliken,Mary Sue Milliken,,Los Angeles,California,,Masters Season 3,3.0,US Masters,2.0,,,Female,,
+397,Traci Des Jardins,Traci Des Jardins,,San Francisco,California,,Masters Season 3,3.0,US Masters,2.0,,,Female,,
+398,Naomi Pomeroy,Naomi Pomeroy,,Portland,Oregon,,Masters Season 3,3.0,US Masters,4.0,,,Female,,
+399,Hugh Acheson,Hugh Acheson,,Athens,Georgia,,Masters Season 3,3.0,US Masters,5.0,,,Male,,
+400,Celina Tio,Celina Tio,,Kansas City,Missouri,,Masters Season 3,3.0,US Masters,6.0,POC,,Female,,
+401,Alex Stratta,Alex Stratta,,Las Vegas,Nevada,,Masters Season 3,3.0,US Masters,7.0,,,Male,,
+402,George Mendes,George Mendes,,New York,New York,,Masters Season 3,3.0,US Masters,8.0,POC,,Male,,
+403,Suvir Saran,Suvir Saran,,New York,New York,,Masters Season 3,3.0,US Masters,9.0,POC,,Male,,
+404,John Currence,John Currence,,Oxford,Mississippi,,Masters Season 3,3.0,US Masters,10.0,,,Male,,
+405,Sue Zemanick,Sue Zemanick,,New Orleans,Louisiana,,Masters Season 3,3.0,US Masters,11.0,,,Female,,
+406,John Rivera Sedlar,John Rivera Sedlar,,Los Angeles,California,,Masters Season 3,3.0,US Masters,12.0,,,Male,,
+407,Chris Cosentino,Chris Cosentino,,San Francisco,California,,Masters Season 4,4.0,US Masters,1.0,,,Male,,
+408,Kerry Heffernan,Kerry Heffernan,,New York,New York,,Masters Season 4,4.0,US Masters,2.0,,,Male,,
+409,Lorena Garcia,Lorena Garcia,,Miami,Florida,,Masters Season 4,4.0,US Masters,3.0,POC,,Female,,
+410,Patricia Yeo,Patricia Yeo,,Cambridge,Massachusetts,,Masters Season 4,4.0,US Masters,4.0,POC,,Female,,
+411,Takashi Yagihashi,Takashi Yagihashi,,Chicago,Illinois,,Masters Season 4,4.0,US Masters,5.0,POC,,Male,,
+412,Art Smith,Art Smith,,Atlanta,Georgia,,Masters Season 4,4.0,US Masters,6.0,,,Male,,
+413,Thierry Rautureau,Thierry Rautureau,,Seattle,Washington,,Masters Season 4,4.0,US Masters,7.0,,,Male,,
+414,Clark Frasier,Clark Frasier,,Ogunquit,Maine,,Masters Season 4,4.0,US Masters,8.0,,,Male,,
+415,Mark Gaier,Mark Gaier,,Ogunquit,Maine,,Masters Season 4,4.0,US Masters,9.0,,,Male,,
+416,Debbie Gold,Debbie Gold,,Kansas City,Missouri,,Masters Season 4,4.0,US Masters,10.0,,,Female,,
+417,Sue Torres,Sue Torres,,New York,New York,,Masters Season 4,4.0,US Masters,11.0,POC,,Female,,
+418,Missy Robbins,Missy Robbins,,New York,New York,,Masters Season 4,4.0,US Masters,12.0,,,Female,,
+419,Douglas Keane,Douglas Keane,,Sonoma Valley,California,,Masters Season 5,5.0,US Masters,1.0,,,Male,,
+420,Bryan Voltaggio,Bryan V.,,Frederick,Maryland,,Masters Season 5,5.0,US Masters,2.0,,,Male,,
+421,Jennifer Jasinski,Jennifer Jasinski,,Colorado,Colorado,,Masters Season 5,5.0,US Masters,2.0,,,Female,,
+422,David Burke,David Burke,,New York,New York,,Masters Season 5,5.0,US Masters,4.0,,,Male,,
+423,Sang Yoon,Sang Yoon,,Los Angeles,California,,Masters Season 5,5.0,US Masters,5.0,POC,,Male,,
+424,Neal Fraser,Neal Fraser,,Los Angeles,California,,Masters Season 5,5.0,US Masters,6.0,,,Male,,
+425,Sue Zemanick,Sue Zemanick,,New Orleans,Louisiana,,Masters Season 5,5.0,US Masters,7.0,,,Female,,
+426,Lynn Crawford,Lynn Crawford,,Toronto,Ontario,,Masters Season 5,5.0,US Masters,8.0,,,Female,,
+427,Franklin Becker,Franklin Becker,,New York,New York,,Masters Season 5,5.0,US Masters,9.0,,,Male,,
+428,Odette Fada,Odette Fada,,New York,New York,,Masters Season 5,5.0,US Masters,10.0,,,Female,,
+429,Jenn Louis,Jenn Louis,,Portland,Oregon,,Masters Season 5,5.0,US Masters,11.0,,,Female,,
+430,Richard Sandoval,Richard Sandoval,,Los Angeles,California,,Masters Season 5,5.0,US Masters,12.0,POC,,Male,,
+431,Herb Wilson,Herb Wilson,,Las Vegas,Nevada,,Masters Season 5,5.0,US Masters,13.0,POC,,Male,,
+432,Anya El-Wattar,,"Moscow, Russia ",San Francisco,California,,Canada,22.0,US,,,,Female,,
+433,Bailey Sullivan,,"Chicago, Illinois",Chicago,Illinois,,Canada,22.0,US,,,,Female,,
+434,Cesar Murillo,,"Dallas, Texas",Chicago,Illinois,,Canada,22.0,US,,POC,,Male,,
+435,Corwin Hemming,,"Augusta, Georgia",Brooklyn,New York,,Canada,22.0,US,,POC,,Male,,
+436,Henry Lu,,"Bronx, New York",Houston,Texas,,Canada,22.0,US,,POC,,Male,,
+437,Kat Turner,,"Sturgeon Bay, Wisconsin",Los Angeles,California,,Canada,22.0,US,,,,Female,,
+438,Katianna Hong,,"Clifton Park, New York",Los Angeles,California,,Canada,22.0,US,,POC,,Female,,
+439,Lana Lagomarsini,,"Bronx, New York",Harlem,New York,,Canada,22.0,US,,POC,,Female,,
+440,Massimo Piedimonte,,"Montreal, Quebec",Montreal,Quebec,,Canada,22.0,US,,,,Male,,
+441,Mimi Weissenborn,,"Frederick, Maryland",Portland,Maine,,Canada,22.0,US,,,,Female,,
+442,Paula Endara,,"Quito, Ecuador",Lexington,Kentucky,,Canada,22.0,US,,POC,,Female,,
+443,Shuai Wang,,"Queens, New York",North Charleston,South Carolina,,Canada,22.0,US,,POC,,Male,,
+444,Tristen Epps,,"Virginia Beach, Virginia",Houston,Texas,,Canada,22.0,US,,POC,,Male,,
+445,Vincenzo Loseto,,"Massapequa, New York",Napa,California,,Canada,22.0,US,,,,Male,,
+446,Zubair Mohajir,,"Chennai, India ",Chicago,Illinois,,Canada,22.0,US,,POC,,Male,,
